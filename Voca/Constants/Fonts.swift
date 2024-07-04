@@ -12,8 +12,9 @@ extension Font {
     
     static let onboardintText = Font.custom("Lato Black", size: 26)
     static let buttonText = Font.custom("Lato Bold", size: 16)
+    static let normalText = Font.custom("Lato Regular", size: 16)
     static let headerText = Font.custom("Lato Bold", size: 24)
     static let vocabularyText = Font.custom("Lato Heavy", size: 24)
-    static let meaningText = Font.custom("Lato Medium", size: 16)
+    static let typeText = Font.custom("Lato Bold", size: 16)
     
 }
