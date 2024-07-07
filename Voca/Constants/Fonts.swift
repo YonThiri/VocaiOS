@@ -14,7 +14,7 @@ extension Font {
     static let buttonText = Font.custom("Lato Bold", size: 16)
     static let normalText = Font.custom("Lato Regular", size: 16)
     static let headerText = Font.custom("Lato Bold", size: 24)
-    static let vocabularyText = Font.custom("Lato Heavy", size: 24)
+    static let vocabularyText = Font.custom("Lato Heavy", size: 20)
     static let typeText = Font.custom("Lato Bold", size: 16)
     
 }

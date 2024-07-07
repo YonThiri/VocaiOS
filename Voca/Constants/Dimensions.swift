@@ -11,6 +11,6 @@ import Foundation
 let headerTopPadding : CGFloat = 60
 
 // Button Height
-let buttonHeight: CGFloat = 50.0
+let paddingValue: CGFloat = 50.0
 
 let iconSize : CGFloat = 20.0

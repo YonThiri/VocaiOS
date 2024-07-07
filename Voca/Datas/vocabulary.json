@@ -1,0 +1,6323 @@
+
+[
+    {
+        "id": 1,
+        "word": "Hello",
+        "phonetics": "/həˈloʊ/",
+        "type": "noun",
+        "meaning": "Used as a greeting or to begin a conversation",
+        "soundURL": "hello"
+    },
+    {
+        "id": 2,
+        "word": "Goodbye",
+        "phonetics": "/ɡʊdˈbaɪ/",
+        "type": "noun",
+        "meaning": "An expression of good wishes when parting or at the end of a conversation",
+        "soundURL": "goodbye"
+    },
+    {
+        "id": 3,
+        "word": "Thank you",
+        "phonetics": "/ˈθæŋk juː/",
+        "type": "phrase",
+        "meaning": "An expression of gratitude or appreciation",
+        "soundURL": "thankyou"
+    },
+    {
+        "id": 4,
+        "word": "Please",
+        "phonetics": "/pliːz/",
+        "type": "adverb",
+        "meaning": "Used to make a request more polite or to soften the tone of a command",
+        "soundURL": "please"
+    },
+    {
+        "id": 5,
+        "word": "Sorry",
+        "phonetics": "/ˈsɑːri/",
+        "type": "adjective",
+        "meaning": "Feeling regret, sympathy, or distress",
+        "soundURL": "sorry"
+    },
+    {
+        "id": 6,
+        "word": "Yes",
+        "phonetics": "/jes/",
+        "type": "interjection",
+        "meaning": "Used to give an affirmative response or to agree",
+        "soundURL": "yes"
+    },
+    {
+        "id": 7,
+        "word": "No",
+        "phonetics": "/noʊ/",
+        "type": "interjection",
+        "meaning": "Used to give a negative response or to disagree",
+        "soundURL": "no"
+    },
+    {
+        "id": 8,
+        "word": "Excuse me",
+        "phonetics": "/ɪkˈskjuːz miː/",
+        "type": "phrase",
+        "meaning": "Used to politely ask for someone's attention or to pass through a crowded area",
+        "soundURL": "excuseme"
+    },
+    {
+        "id": 9,
+        "word": "See you later",
+        "phonetics": "/si jʊ ˈleɪ.tər/",
+        "type": "phrase",
+        "meaning": "Informal way of saying goodbye with the intention of meeting again later.",
+        "soundURL": "seeyoulater"
+    },
+    {
+        "id": 10,
+        "word": "Good morning",
+        "phonetics": "/ɡʊd ˈmɔːrnɪŋ/",
+        "type": "phrase",
+        "meaning": "A greeting said in the morning until around noon",
+        "soundURL": "goodmorning"
+    },
+    {
+        "id": 11,
+        "word": "Good night",
+        "phonetics": "/ɡʊd naɪt/",
+        "type": "phrase",
+        "meaning": "A farewell said before going to bed or leaving for the night",
+        "soundURL": "goodnight"
+    },
+    {
+        "id": 12,
+        "word": "How are you?",
+        "phonetics": "/haʊ ɑːr juː/",
+        "type": "phrase",
+        "meaning": "A common greeting used to inquire about someone's well-being",
+        "soundURL": "howareyou"
+    },
+    {
+        "id": 13,
+        "word": "Nice to meet you",
+        "phonetics": "/naɪs tuː miːt juː/",
+        "type": "phrase",
+        "meaning": "An expression used to convey pleasure in meeting someone for the first time",
+        "soundURL": "nicetomeetyou"
+    },
+    {
+        "id": 14,
+        "word": "I'm sorry",
+        "phonetics": "/aɪm ˈsɑːri/",
+        "type": "phrase",
+        "meaning": "An expression of apology or regret",
+        "soundURL": "imsorry"
+    },
+    {
+        "id": 15,
+        "word": "Yes, please",
+        "phonetics": "/jes pliːz/",
+        "type": "phrase",
+        "meaning": "An affirmative response with a polite request",
+        "soundURL": "yesplease"
+    },
+    {
+        "id": 16,
+        "word": "No, thank you",
+        "phonetics": "/noʊ θæŋk juː/",
+        "type": "phrase",
+        "meaning": "A negative response with gratitude or refusal",
+        "soundURL": "nothankyou"
+    },
+    {
+        "id": 17,
+        "word": "You're welcome",
+        "phonetics": "/jʊr ˈwɛlkəm/",
+        "type": "phrase",
+        "meaning": "A polite response to 'thank you', acknowledging appreciation",
+        "soundURL": "yourewelcome"
+    },
+    {
+        "id": 18,
+        "word": "Please wait",
+        "phonetics": "/pliːz weɪt/",
+        "type": "phrase",
+        "meaning": "A polite request to remain in one place or delay action",
+        "soundURL": "pleasewait"
+    },
+    {
+        "id": 19,
+        "word": "Sure",
+        "phonetics": "/ʃʊər/",
+        "type": "interjection",
+        "meaning": "An expression indicating agreement or affirmation",
+        "soundURL": "sure"
+    },
+    {
+        "id": 20,
+        "word": "Thank you very much",
+        "phonetics": "/θæŋk juː ˈvɛri mʌtʃ/",
+        "type": "phrase",
+        "meaning": "An expression of gratitude with emphasis",
+        "soundURL": "thankyouverymuch"
+    },
+    {
+        "id": 21,
+        "word": "Take care",
+        "phonetics": "/teɪk ker/",
+        "type": "phrase",
+        "meaning": "Wishing someone well as they depart; often used as a goodbye.",
+        "soundURL": "takecare"
+    },
+    {
+        "id": 22,
+        "word": "Until next time",
+        "phonetics": "/ˈən.tɪl nekst taɪm/",
+        "type": "phrase",
+        "meaning": "Expressing the hope or expectation of meeting or talking again in the future.",
+        "soundURL": "untilnexttime"
+    },
+    {
+        "id": 23,
+        "word": "Peace out",
+        "phonetics": "/piːs aʊt/",
+        "type": "phrase",
+        "meaning": "Casual and informal way of saying goodbye.",
+        "soundURL": "peaceout"
+    },
+    {
+        "id": 24,
+        "word": "Keep in touch",
+        "phonetics": "/kip ɪn tʌtʃ/",
+        "type": "phrase",
+        "meaning": "Asking someone to maintain communication.",
+        "soundURL": "keepintouch"
+    },
+    {
+        "id": 25,
+        "word": "Catch you later",
+        "phonetics": "/kætʃ juː ˈleɪ.tər/",
+        "type": "phrase",
+        "meaning": "Informal way of saying goodbye with the intention of meeting again later.",
+        "soundURL": "catchyoulater"
+    },
+    {
+        "id": 26,
+        "word": "Man",
+        "phonetics": "/mæn/",
+        "type": "noun",
+        "meaning": "An adult male human being.",
+        "soundURL": "man"
+    },
+    {
+        "id": 27,
+        "word": "Woman",
+        "phonetics": "/ˈwʊmən/",
+        "type": "noun",
+        "meaning": "An adult female human being.",
+        "soundURL": "woman"
+    },
+    {
+        "id": 28,
+        "word": "Child",
+        "phonetics": "/tʃaɪld/",
+        "type": "noun",
+        "meaning": "A young human being below the age of puberty or below the legal age of majority.",
+        "soundURL": "child"
+    },
+    {
+        "id": 29,
+        "word": "Boy",
+        "phonetics": "/bɔɪ/",
+        "type": "noun",
+        "meaning": "A male child or young man.",
+        "soundURL": "boy"
+    },
+    {
+        "id": 30,
+        "word": "Girl",
+        "phonetics": "/ɡɜːrl/",
+        "type": "noun",
+        "meaning": "A female child or young woman.",
+        "soundURL": "girl"
+    },
+    {
+        "id": 31,
+        "word": "Adult",
+        "phonetics": "/ˈædʌlt/",
+        "type": "noun",
+        "meaning": "A person who is fully grown or developed.",
+        "soundURL": "adult"
+    },
+    {
+        "id": 32,
+        "word": "Elderly",
+        "phonetics": "/ˈɛldərli/",
+        "type": "adjective",
+        "meaning": "Older or aging; relating to old age.",
+        "soundURL": "elderly"
+    },
+    {
+        "id": 33,
+        "word": "Senior",
+        "phonetics": "/ˈsiː.njər/",
+        "type": "noun",
+        "meaning": "An older person, especially one with a respected position in society.",
+        "soundURL": "senior"
+    },
+    {
+        "id": 34,
+        "word": "Youth",
+        "phonetics": "/juːθ/",
+        "type": "noun",
+        "meaning": "The period between childhood and adulthood; young people collectively.",
+        "soundURL": "youth"
+    },
+    {
+        "id": 35,
+        "word": "Friend",
+        "phonetics": "/frend/",
+        "type": "noun",
+        "meaning": "A person with whom one has a bond of mutual affection, typically one exclusive of sexual or family relations.",
+        "soundURL": "friend"
+    },
+    {
+        "id": 36,
+        "word": "Stranger",
+        "phonetics": "/ˈstreɪndʒər/",
+        "type": "noun",
+        "meaning": "A person whom one does not know or with whom one is not familiar.",
+        "soundURL": "stranger"
+    },
+    {
+        "id": 37,
+        "word": "Citizen",
+        "phonetics": "/ˈsɪtɪzn/",
+        "type": "noun",
+        "meaning": "A legally recognized subject or national of a state or commonwealth, either native or naturalized.",
+        "soundURL": "citizen"
+    },
+    {
+        "id": 38,
+        "word": "Neighbour",
+        "phonetics": "/ˈneɪbər/",
+        "type": "noun",
+        "meaning": "A person living near or next door to the speaker or person referred to.",
+        "soundURL": "neighbour"
+    },
+    {
+        "id": 39,
+        "word": "Family",
+        "phonetics": "/ˈfæm.əl.i/",
+        "type": "noun",
+        "meaning": "A group consisting of two parents and their children living together as a unit.",
+        "soundURL": "family"
+    },
+    {
+        "id": 40,
+        "word": "Relative",
+        "phonetics": "/ˈrel.ə.tɪv/",
+        "type": "noun",
+        "meaning": "A person connected by blood or marriage; a family member.",
+        "soundURL": "relative"
+    },
+    {
+        "id": 41,
+        "word": "Brother",
+        "phonetics": "/ˈbrʌð.ər/",
+        "type": "noun",
+        "meaning": "A male sibling.",
+        "soundURL": "brother"
+    },
+    {
+        "id": 42,
+        "word": "Sister",
+        "phonetics": "/ˈsɪs.tər/",
+        "type": "noun",
+        "meaning": "A female sibling.",
+        "soundURL": "sister"
+    },
+    {
+        "id": 43,
+        "word": "Husband",
+        "phonetics": "/ˈhʌz.bənd/",
+        "type": "noun",
+        "meaning": "A married man considered in relation to his spouse.",
+        "soundURL": "husband"
+    },
+    {
+        "id": 44,
+        "word": "Wife",
+        "phonetics": "/waɪf/",
+        "type": "noun",
+        "meaning": "A married woman considered in relation to her spouse.",
+        "soundURL": "wife"
+    },
+    {
+        "id": 45,
+        "word": "Parent",
+        "phonetics": "/ˈperənt/",
+        "type": "noun",
+        "meaning": "A father or mother.",
+        "soundURL": "parent"
+    },
+    {
+        "id": 46,
+        "word": "Father",
+        "phonetics": "/ˈfɑː.ðər/",
+        "type": "noun",
+        "meaning": "A male parent.",
+        "soundURL": "father"
+    },
+    {
+        "id": 47,
+        "word": "Dad",
+        "phonetics": "/dæd/",
+        "type": "noun",
+        "meaning": "Informal term for father.",
+        "soundURL": "dad"
+    },
+    {
+        "id": 48,
+        "word": "Mother",
+        "phonetics": "/ˈmʌðər/",
+        "type": "noun",
+        "meaning": "A female parent.",
+        "soundURL": "mother"
+    },
+    {
+        "id": 49,
+        "word": "Mom",
+        "phonetics": "/mɒm/",
+        "type": "noun",
+        "meaning": "Informal term for mother.",
+        "soundURL": "mom"
+    },
+    {
+        "id": 50,
+        "word": "Grandparent",
+        "phonetics": "/ˈɡrændˌperənt/",
+        "type": "noun",
+        "meaning": "A parent of one's father or mother.",
+        "soundURL": "grandparent"
+    },
+    {
+        "id": 51,
+        "word": "Grandfather",
+        "phonetics": "/ˈɡrændˌfɑː.ðər/",
+        "type": "noun",
+        "meaning": "The father of one's father or mother.",
+        "soundURL": "grandfather"
+    },
+    {
+        "id": 52,
+        "word": "Grandmother",
+        "phonetics": "/ˈɡrændˌmʌðər/",
+        "type": "noun",
+        "meaning": "The mother of one's father or mother.",
+        "soundURL": "grandmother"
+    },
+    {
+        "id": 53,
+        "word": "Grandchild",
+        "phonetics": "/ˈɡrændtʃaɪld/",
+        "type": "noun",
+        "meaning": "A child of one's son or daughter.",
+        "soundURL": "grandchild"
+    },
+    {
+        "id": 54,
+        "word": "Son",
+        "phonetics": "/sʌn/",
+        "type": "noun",
+        "meaning": "A boy or man in relation to either or both of his parents.",
+        "soundURL": "son"
+    },
+    {
+        "id": 55,
+        "word": "Daughter",
+        "phonetics": "/ˈdɔːtər/",
+        "type": "noun",
+        "meaning": "A girl or woman in relation to either or both of her parents.",
+        "soundURL": "daughter"
+    },
+    {
+        "id": 56,
+        "word": "Sibling",
+        "phonetics": "/ˈsɪblɪŋ/",
+        "type": "noun",
+        "meaning": "Each of two or more children or offspring having one or both parents in common; a brother or sister.",
+        "soundURL": "sibling"
+    },
+    {
+        "id": 57,
+        "word": "Twin",
+        "phonetics": "/twɪn/",
+        "type": "noun",
+        "meaning": "One of two children or animals born at the same birth.",
+        "soundURL": "twin"
+    },
+    {
+        "id": 58,
+        "word": "Cousin",
+        "phonetics": "/ˈkʌz.ən/",
+        "type": "noun",
+        "meaning": "A child of one's uncle or aunt.",
+        "soundURL": "cousin"
+    },
+    {
+        "id": 59,
+        "word": "Nephew",
+        "phonetics": "/ˈnefjuː/",
+        "type": "noun",
+        "meaning": "A son of one's brother or sister, or of one's brother-in-law or sister-in-law.",
+        "soundURL": "nephew"
+    },
+    {
+        "id": 60,
+        "word": "Niece",
+        "phonetics": "/niːs/",
+        "type": "noun",
+        "meaning": "A daughter of one's brother or sister, or of one's brother-in-law or sister-in-law.",
+        "soundURL": "niece"
+    },
+    {
+        "id": 61,
+        "word": "Aunt",
+        "phonetics": "/ænt/",
+        "type": "noun",
+        "meaning": "The sister of one's father or mother, or the wife of one's uncle.",
+        "soundURL": "aunt"
+    },
+    {
+        "id": 62,
+        "word": "Uncle",
+        "phonetics": "/ˈʌŋ.kəl/",
+        "type": "noun",
+        "meaning": "The brother of one's father or mother, or the husband of one's aunt.",
+        "soundURL": "uncle"
+    },
+    {
+        "id": 63,
+        "word": "In-law",
+        "phonetics": "/ˈɪn.lɔː/",
+        "type": "noun",
+        "meaning": "A relative by marriage.",
+        "soundURL": "in-law"
+    },
+    {
+        "id": 64,
+        "word": "Fiancé",
+        "phonetics": "/fiˈɑːnˌseɪ/",
+        "type": "noun",
+        "meaning": "A man who is engaged to be married.",
+        "soundURL": "fiance"
+    },
+    {
+        "id": 65,
+        "word": "Fiancée",
+        "phonetics": "/ˌfiː.ɒnˈseɪ/",
+        "type": "noun",
+        "meaning": "A woman who is engaged to be married.",
+        "soundURL": "fiancee"
+    },
+    {
+        "id": 66,
+        "word": "One",
+        "phonetics": "/wʌn/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of a single unit.",
+        "soundURL": "one"
+    },
+    {
+        "id": 67,
+        "word": "Two",
+        "phonetics": "/tuː/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of two units.",
+        "soundURL": "two"
+    },
+    {
+        "id": 68,
+        "word": "Three",
+        "phonetics": "/θriː/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of three units.",
+        "soundURL": "three"
+    },
+    {
+        "id": 69,
+        "word": "Four",
+        "phonetics": "/fɔːr/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of four units.",
+        "soundURL": "four"
+    },
+    {
+        "id": 70,
+        "word": "Five",
+        "phonetics": "/faɪv/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of five units.",
+        "soundURL": "five"
+    },
+    {
+        "id": 71,
+        "word": "Six",
+        "phonetics": "/sɪks/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of six units.",
+        "soundURL": "six"
+    },
+    {
+        "id": 72,
+        "word": "Seven",
+        "phonetics": "/ˈsev.ən/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of seven units.",
+        "soundURL": "seven"
+    },
+    {
+        "id": 73,
+        "word": "Eight",
+        "phonetics": "/eɪt/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of eight units.",
+        "soundURL": "eight"
+    },
+    {
+        "id": 74,
+        "word": "Nine",
+        "phonetics": "/naɪn/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of nine units.",
+        "soundURL": "nine"
+    },
+    {
+        "id": 75,
+        "word": "Ten",
+        "phonetics": "/ten/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of ten units.",
+        "soundURL": "ten"
+    },
+    {
+        "id": 76,
+        "word": "Eleven",
+        "phonetics": "/ɪˈlɛv.ən/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of eleven units.",
+        "soundURL": "eleven"
+    },
+    {
+        "id": 77,
+        "word": "Twelve",
+        "phonetics": "/twɛlv/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of twelve units.",
+        "soundURL": "twelve"
+    },
+    {
+        "id": 78,
+        "word": "Thirteen",
+        "phonetics": "/ˌθɜːˈtiːn/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of thirteen units.",
+        "soundURL": "thirteen"
+    },
+    {
+        "id": 79,
+        "word": "Fourteen",
+        "phonetics": "/ˌfɔːrˈtiːn/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of fourteen units.",
+        "soundURL": "fourteen"
+    },
+    {
+        "id": 80,
+        "word": "Fifteen",
+        "phonetics": "/ˌfɪfˈtiːn/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of fifteen units.",
+        "soundURL": "fifteen"
+    },
+    {
+        "id": 81,
+        "word": "Sixteen",
+        "phonetics": "/ˌsɪksˈtiːn/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of sixteen units.",
+        "soundURL": "sixteen"
+    },
+    {
+        "id": 82,
+        "word": "Seventeen",
+        "phonetics": "/ˌsɛv.ənˈtiːn/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of seventeen units.",
+        "soundURL": "seventeen"
+    },
+    {
+        "id": 83,
+        "word": "Eighteen",
+        "phonetics": "/ˌeɪˈtiːn/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of eighteen units.",
+        "soundURL": "eighteen"
+    },
+    {
+        "id": 84,
+        "word": "Nineteen",
+        "phonetics": "/ˌnaɪnˈtiːn/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of nineteen units.",
+        "soundURL": "nineteen"
+    },
+    {
+        "id": 85,
+        "word": "Twenty",
+        "phonetics": "/ˈtwɛn.ti/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of twenty units.",
+        "soundURL": "twenty"
+    },
+    {
+        "id": 86,
+        "word": "Thirty",
+        "phonetics": "/ˈθɜːr.ti/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of thirty units.",
+        "soundURL": "thirty"
+    },
+    {
+        "id": 87,
+        "word": "Forty",
+        "phonetics": "/ˈfɔːr.ti/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of forty units.",
+        "soundURL": "forty"
+    },
+    {
+        "id": 88,
+        "word": "Fifty",
+        "phonetics": "/ˈfɪf.ti/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of fifty units.",
+        "soundURL": "fifty"
+    },
+    {
+        "id": 89,
+        "word": "Sixty",
+        "phonetics": "/ˈsɪk.sti/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of sixty units.",
+        "soundURL": "sixty"
+    },
+    {
+        "id": 90,
+        "word": "Seventy",
+        "phonetics": "/ˈsɛv.ən.ti/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of seventy units.",
+        "soundURL": "seventy"
+    },
+    {
+        "id": 91,
+        "word": "Eighty",
+        "phonetics": "/ˈeɪ.ti/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of eighty units.",
+        "soundURL": "eighty"
+    },
+    {
+        "id": 92,
+        "word": "Ninety",
+        "phonetics": "/ˈnaɪn.ti/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of ninety units.",
+        "soundURL": "ninety"
+    },
+    {
+        "id": 93,
+        "word": "Hundred",
+        "phonetics": "/ˈhʌn.dred/",
+        "type": "number",
+        "meaning": "The numerical value equal to the quantity of one hundred units.",
+        "soundURL": "hundred"
+    },
+    {
+        "id": 94,
+        "word": "Orange",
+        "phonetics": "/ˈɔːrɪndʒ/",
+        "type": "noun",
+        "meaning": "The color of ripe oranges or a sunset.",
+        "soundURL": "orange"
+    },
+    {
+        "id": 95,
+        "word": "Purple",
+        "phonetics": "/ˈpɜːrpl/",
+        "type": "noun",
+        "meaning": "The color obtained by mixing red and blue.",
+        "soundURL": "purple"
+    },
+    {
+        "id": 96,
+        "word": "Pink",
+        "phonetics": "/pɪŋk/",
+        "type": "noun",
+        "meaning": "A pale red color.",
+        "soundURL": "pink"
+    },
+    {
+        "id": 97,
+        "word": "Brown",
+        "phonetics": "/braʊn/",
+        "type": "noun",
+        "meaning": "The color of wood or earth.",
+        "soundURL": "brown"
+    },
+    {
+        "id": 98,
+        "word": "Black",
+        "phonetics": "/blæk/",
+        "type": "noun",
+        "meaning": "The darkest color, the opposite of white.",
+        "soundURL": "black"
+    },
+    {
+        "id": 99,
+        "word": "White",
+        "phonetics": "/waɪt/",
+        "type": "noun",
+        "meaning": "The color of fresh snow or milk.",
+        "soundURL": "white"
+    },
+    {
+        "id": 100,
+        "word": "Gray",
+        "phonetics": "/ɡreɪ/",
+        "type": "noun",
+        "meaning": "The color between black and white.",
+        "soundURL": "gray"
+    },
+    {
+        "id": 101,
+        "word": "Red",
+        "phonetics": "/rɛd/",
+        "type": "noun",
+        "meaning": "The color of blood or a ripe tomato.",
+        "soundURL": "red"
+    },
+    {
+        "id": 102,
+        "word": "Blue",
+        "phonetics": "/bluː/",
+        "type": "noun",
+        "meaning": "The color of the sky on a clear day.",
+        "soundURL": "blue"
+    },
+    {
+        "id": 103,
+        "word": "Silver",
+        "phonetics": "/ˈsɪlvər/",
+        "type": "noun",
+        "meaning": "A grayish-white metallic color.",
+        "soundURL": "silver"
+    },
+    {
+        "id": 104,
+        "word": "Gold",
+        "phonetics": "/ɡoʊld/",
+        "type": "noun",
+        "meaning": "A bright yellow color, resembling the metal gold.",
+        "soundURL": "gold"
+    },
+    {
+        "id": 105,
+        "word": "Yellow",
+        "phonetics": "/ˈjɛloʊ/",
+        "type": "noun",
+        "meaning": "The color of ripe lemons or a sunflower.",
+        "soundURL": "yellow"
+    },
+    {
+        "id": 106,
+        "word": "Green",
+        "phonetics": "/ɡriːn/",
+        "type": "noun",
+        "meaning": "The color of grass or leaves.",
+        "soundURL": "green"
+    },
+    {
+        "id": 107,
+        "word": "Indigo",
+        "phonetics": "/ˈɪn.dɪ.ɡoʊ/",
+        "type": "noun",
+        "meaning": "A deep, rich blue color.",
+        "soundURL": "indigo"
+    },
+    {
+        "id": 108,
+        "word": "Lavender",
+        "phonetics": "/ˈlæv.ən.dɚ/",
+        "type": "noun",
+        "meaning": "A pale purple color.",
+        "soundURL": "lavender"
+    },
+    {
+        "id": 109,
+        "word": "Teal",
+        "phonetics": "/tiːl/",
+        "type": "noun",
+        "meaning": "A dark greenish-blue color.",
+        "soundURL": "teal"
+    },
+    {
+        "id": 110,
+        "word": "Magenta",
+        "phonetics": "/məˈdʒen.tə/",
+        "type": "noun",
+        "meaning": "A deep purplish-red color.",
+        "soundURL": "magenta"
+    },
+    {
+        "id": 111,
+        "word": "Olive",
+        "phonetics": "/ˈɑː.lɪv/",
+        "type": "noun",
+        "meaning": "A dark greenish-brown color.",
+        "soundURL": "olive"
+    },
+    {
+        "id": 112,
+        "word": "Cyan",
+        "phonetics": "/ˈsaɪ.æn/",
+        "type": "noun",
+        "meaning": "A greenish-blue color.",
+        "soundURL": "cyan"
+    },
+    {
+        "id": 113,
+        "word": "Violet",
+        "phonetics": "/ˈvaɪ.ə.lət/",
+        "type": "noun",
+        "meaning": "A color between blue and purple in the spectrum.",
+        "soundURL": "violet"
+    },
+    {
+        "id": 114,
+        "word": "Time",
+        "phonetics": "/taɪm/",
+        "type": "noun",
+        "meaning": "The indefinite continued progress of existence and events in the past, present, and future.",
+        "soundURL": "time"
+    },
+    {
+        "id": 115,
+        "word": "Clock",
+        "phonetics": "/klɑːk/",
+        "type": "noun",
+        "meaning": "A mechanical or electrical device for measuring time, indicating hours, minutes, and sometimes seconds.",
+        "soundURL": "clock"
+    },
+    {
+        "id": 116,
+        "word": "Hour",
+        "phonetics": "/ˈaʊər/",
+        "type": "noun",
+        "meaning": "A period of time equal to a twenty-fourth part of a day and night and divided into 60 minutes.",
+        "soundURL": "hour"
+    },
+    {
+        "id": 117,
+        "word": "Minute",
+        "phonetics": "/ˈmɪnɪt/",
+        "type": "noun",
+        "meaning": "A period of time equal to sixty seconds or a sixtieth of an hour.",
+        "soundURL": "minute"
+    },
+    {
+        "id": 118,
+        "word": "Second",
+        "phonetics": "/ˈsɛkənd/",
+        "type": "noun",
+        "meaning": "A unit of time equal to one sixtieth of a minute.",
+        "soundURL": "second"
+    },
+    {
+        "id": 119,
+        "word": "Day",
+        "phonetics": "/deɪ/",
+        "type": "noun",
+        "meaning": "The time between sunrise and sunset.",
+        "soundURL": "day"
+    },
+    {
+        "id": 120,
+        "word": "Week",
+        "phonetics": "/wiːk/",
+        "type": "noun",
+        "meaning": "A period of seven days.",
+        "soundURL": "week"
+    },
+    {
+        "id": 121,
+        "word": "Month",
+        "phonetics": "/mʌnθ/",
+        "type": "noun",
+        "meaning": "A period of about four weeks.",
+        "soundURL": "month"
+    },
+    {
+        "id": 122,
+        "word": "Year",
+        "phonetics": "/jɪr/",
+        "type": "noun",
+        "meaning": "The time taken by a planet to make one complete orbit around the sun.",
+        "soundURL": "year"
+    },
+    {
+        "id": 123,
+        "word": "Century",
+        "phonetics": "/ˈsɛn.tʃər.i/",
+        "type": "noun",
+        "meaning": "A period of one hundred years.",
+        "soundURL": "century"
+    },
+    {
+        "id": 124,
+        "word": "Monday",
+        "phonetics": "/ˈmʌn.deɪ/",
+        "type": "noun",
+        "meaning": "The day of the week before Tuesday and following Sunday.",
+        "soundURL": "monday"
+    },
+    {
+        "id": 125,
+        "word": "Tuesday",
+        "phonetics": "/ˈtuːz.deɪ/",
+        "type": "noun",
+        "meaning": "The day of the week following Monday and before Wednesday.",
+        "soundURL": "tuesday"
+    },
+    {
+        "id": 126,
+        "word": "Wednesday",
+        "phonetics": "/ˈwɛnz.deɪ/",
+        "type": "noun",
+        "meaning": "The day of the week following Tuesday and before Thursday.",
+        "soundURL": "wednesday"
+    },
+    {
+        "id": 127,
+        "word": "Thursday",
+        "phonetics": "/ˈθɜːrz.deɪ/",
+        "type": "noun",
+        "meaning": "The day of the week following Wednesday and before Friday.",
+        "soundURL": "thursday"
+    },
+    {
+        "id": 128,
+        "word": "Friday",
+        "phonetics": "/ˈfraɪ.deɪ/",
+        "type": "noun",
+        "meaning": "The day of the week following Thursday and before Saturday.",
+        "soundURL": "friday"
+    },
+    {
+        "id": 129,
+        "word": "Saturday",
+        "phonetics": "/ˈsæt̬.ɚ.deɪ/",
+        "type": "noun",
+        "meaning": "The day of the week following Friday and before Sunday.",
+        "soundURL": "saturday"
+    },
+    {
+        "id": 130,
+        "word": "Sunday",
+        "phonetics": "/ˈsʌn.deɪ/",
+        "type": "noun",
+        "meaning": "The day of the week before Monday and following Saturday.",
+        "soundURL": "sunday"
+    },
+    {
+        "id": 131,
+        "word": "Morning",
+        "phonetics": "/ˈmɔːr.nɪŋ/",
+        "type": "noun",
+        "meaning": "The early part of the day, before noon.",
+        "soundURL": "morning"
+    },
+    {
+        "id": 132,
+        "word": "Afternoon",
+        "phonetics": "/ˌæf.tərˈnuːn/",
+        "type": "noun",
+        "meaning": "The time from midday or lunchtime to evening.",
+        "soundURL": "afternoon"
+    },
+    {
+        "id": 133,
+        "word": "Evening",
+        "phonetics": "/ˈiːv.nɪŋ/",
+        "type": "noun",
+        "meaning": "The period of time at the end of the day, usually from about 6 p.m. to bedtime.",
+        "soundURL": "evening"
+    },
+    {
+        "id": 134,
+        "word": "Job",
+        "phonetics": "/dʒɑːb/",
+        "type": "noun",
+        "meaning": "A paid position of regular employment.",
+        "soundURL": "job"
+    },
+    {
+        "id": 135,
+        "word": "Career",
+        "phonetics": "/kəˈrɪər/",
+        "type": "noun",
+        "meaning": "An occupation undertaken for a significant period of a person's life and with opportunities for progress.",
+        "soundURL": "career"
+    },
+    {
+        "id": 136,
+        "word": "Employee",
+        "phonetics": "/ɪmˈplɔɪ.iː/",
+        "type": "noun",
+        "meaning": "A person employed for wages or salary, especially at non-executive level.",
+        "soundURL": "employee"
+    },
+    {
+        "id": 137,
+        "word": "Employer",
+        "phonetics": "/ɪmˈplɔɪər/",
+        "type": "noun",
+        "meaning": "A person or organization that employs people.",
+        "soundURL": "employer"
+    },
+    {
+        "id": 138,
+        "word": "Work",
+        "phonetics": "/wɜːrk/",
+        "type": "noun",
+        "meaning": "Activity involving mental or physical effort done in order to achieve a purpose or result.",
+        "soundURL": "work"
+    },
+    {
+        "id": 139,
+        "word": "Salary",
+        "phonetics": "/ˈsæləri/",
+        "type": "noun",
+        "meaning": "A fixed regular payment, typically paid on a monthly basis but often expressed as an annual sum, made by an employer to an employee.",
+        "soundURL": "salary"
+    },
+    {
+        "id": 140,
+        "word": "Wages",
+        "phonetics": "/weɪdʒɪz/",
+        "type": "noun",
+        "meaning": "A fixed regular payment, typically paid on a daily or weekly basis, made by an employer to an employee.",
+        "soundURL": "wages"
+    },
+    {
+        "id": 141,
+        "word": "Promotion",
+        "phonetics": "/prəˈmoʊ.ʃən/",
+        "type": "noun",
+        "meaning": "The action of promoting someone or something to a higher position or rank or the fact of being so promoted.",
+        "soundURL": "promotion"
+    },
+    {
+        "id": 142,
+        "word": "Interview",
+        "phonetics": "/ˈɪn.tər.vjuː/",
+        "type": "noun",
+        "meaning": "A formal meeting in which one or more persons question, consult, or evaluate another person.",
+        "soundURL": "interview"
+    },
+    {
+        "id": 143,
+        "word": "Resume",
+        "phonetics": "/ˈrez.ə.meɪ/",
+        "type": "noun",
+        "meaning": "A brief account of a person's education, qualifications, and previous experience, typically sent with a job application.",
+        "soundURL": "resume"
+    },
+    {
+        "id": 144,
+        "word": "Hire",
+        "phonetics": "/haɪər/",
+        "type": "verb",
+        "meaning": "Employ someone for wages or salary.",
+        "soundURL": "hire"
+    },
+    {
+        "id": 145,
+        "word": "Fired",
+        "phonetics": "/faɪrd/",
+        "type": "adjective",
+        "meaning": "Dismissed from employment.",
+        "soundURL": "fired"
+    },
+    {
+        "id": 146,
+        "word": "Resign",
+        "phonetics": "/rɪˈzaɪn/",
+        "type": "verb",
+        "meaning": "Voluntarily leave a job or other position.",
+        "soundURL": "resign"
+    },
+    {
+        "id": 147,
+        "word": "Position",
+        "phonetics": "/pəˈzɪʃən/",
+        "type": "noun",
+        "meaning": "A job or role in an organization.",
+        "soundURL": "position"
+    },
+    {
+        "id": 148,
+        "word": "Shift",
+        "phonetics": "/ʃɪft/",
+        "type": "noun",
+        "meaning": "A period of work in a place of employment.",
+        "soundURL": "shift"
+    },
+    {
+        "id": 149,
+        "word": "Overtime",
+        "phonetics": "/ˈoʊvərˌtaɪm/",
+        "type": "noun",
+        "meaning": "Time worked in addition to regular working hours.",
+        "soundURL": "overtime"
+    },
+    {
+        "id": 150,
+        "word": "Job satisfaction",
+        "phonetics": "/dʒɑːb ˌsæt.ɪsˈfæk.ʃən/",
+        "type": "noun",
+        "meaning": "The feeling of fulfillment or enjoyment that a person derives from their job.",
+        "soundURL": "jobsatisfaction"
+    },
+    {
+        "id": 151,
+        "word": "Employee benefits",
+        "phonetics": "/ɪmˈplɔɪ.iː ˈbɛnɪfɪts/",
+        "type": "noun",
+        "meaning": "Non-wage compensation provided to employees in addition to their normal wages or salaries.",
+        "soundURL": "employeebenefits"
+    },
+    {
+        "id": 152,
+        "word": "Training",
+        "phonetics": "/ˈtreɪnɪŋ/",
+        "type": "noun",
+        "meaning": "The action of teaching a person or animal a particular skill or type of behavior.",
+        "soundURL": "training"
+    },
+    {
+        "id": 153,
+        "word": "Skill",
+        "phonetics": "/skɪl/",
+        "type": "noun",
+        "meaning": "The ability to do something well.",
+        "soundURL": "skill"
+    },
+    {
+        "id": 154,
+        "word": "Job Title",
+        "phonetics": "/dʒɑːb ˈtaɪtəl/",
+        "type": "noun",
+        "meaning": "A designation that denotes a specific role or position within an organization.",
+        "soundURL": "jobtitle"
+    },
+    {
+        "id": 155,
+        "word": "Manager",
+        "phonetics": "/ˈmæn.ɪ.dʒər/",
+        "type": "noun",
+        "meaning": "A person responsible for controlling or administering all or part of a company or similar organization.",
+        "soundURL": "manager"
+    },
+    {
+        "id": 156,
+        "word": "Supervisor",
+        "phonetics": "/ˈsuː.pɚ.vaɪ.zɚ/",
+        "type": "noun",
+        "meaning": "A person who supervises a person or an activity.",
+        "soundURL": "supervisor"
+    },
+    {
+        "id": 157,
+        "word": "Director",
+        "phonetics": "/dəˈrek.tɚ/",
+        "type": "noun",
+        "meaning": "A person who is in charge of an activity, department, or organization.",
+        "soundURL": "director"
+    },
+    {
+        "id": 158,
+        "word": "Executive",
+        "phonetics": "/ɪɡˈzek.jə.tɪv/",
+        "type": "noun",
+        "meaning": "A person with senior managerial responsibility in a business organization.",
+        "soundURL": "executive"
+    },
+    {
+        "id": 159,
+        "word": "Assistant",
+        "phonetics": "/əˈsɪs.tənt/",
+        "type": "noun",
+        "meaning": "A person who helps in particular work.",
+        "soundURL": "assistant"
+    },
+    {
+        "id": 160,
+        "word": "Coordinator",
+        "phonetics": "/koʊˈɔːr.də.neɪ.t̬ɚ/",
+        "type": "noun",
+        "meaning": "A person whose job is to make different groups work together efficiently.",
+        "soundURL": "coordinator"
+    },
+    {
+        "id": 161,
+        "word": "Specialist",
+        "phonetics": "/ˈspeʃ.əl.ɪst/",
+        "type": "noun",
+        "meaning": "A person who is highly skilled in a specific and restricted field.",
+        "soundURL": "specialist"
+    },
+    {
+        "id": 162,
+        "word": "Analyst",
+        "phonetics": "/ˈæn.əl.ɪst/",
+        "type": "noun",
+        "meaning": "A person who conducts analysis.",
+        "soundURL": "analyst"
+    },
+    {
+        "id": 163,
+        "word": "Technician",
+        "phonetics": "/tɛkˈnɪʃ.ən/",
+        "type": "noun",
+        "meaning": "A person employed to look after technical equipment or do practical work in a laboratory.",
+        "soundURL": "technician"
+    },
+    {
+        "id": 164,
+        "word": "Consultant",
+        "phonetics": "/kənˈsʌl.t̬ənt/",
+        "type": "noun",
+        "meaning": "A person who provides expert advice professionally.",
+        "soundURL": "consultant"
+    },
+    {
+        "id": 165,
+        "word": "Engineer",
+        "phonetics": "/ˌen.dʒɪˈnɪr/",
+        "type": "noun",
+        "meaning": "A person who designs, builds, or maintains engines, machines, or public works.",
+        "soundURL": "engineer"
+    },
+    {
+        "id": 166,
+        "word": "Developer",
+        "phonetics": "/dɪˈvɛ.lə.pər/",
+        "type": "noun",
+        "meaning": "A person who creates and improves products, systems, or applications.",
+        "soundURL": "developer"
+    },
+    {
+        "id": 167,
+        "word": "Designer",
+        "phonetics": "/dɪˈzaɪ.nɚ/",
+        "type": "noun",
+        "meaning": "A person who plans the form, look, or workings of something before it is made or built.",
+        "soundURL": "designer"
+    },
+    {
+        "id": 168,
+        "word": "Writer",
+        "phonetics": "/ˈraɪ.t̬ɚ/",
+        "type": "noun",
+        "meaning": "A person who writes books, stories, or articles as a job or regular occupation.",
+        "soundURL": "writer"
+    },
+    {
+        "id": 169,
+        "word": "Accountant",
+        "phonetics": "/əˈkaʊn.t̬ənt/",
+        "type": "noun",
+        "meaning": "A person whose job is to keep or inspect financial accounts.",
+        "soundURL": "accountant"
+    },
+    {
+        "id": 170,
+        "word": "Salesperson",
+        "phonetics": "/ˈseɪlz.pɝː.sən/",
+        "type": "noun",
+        "meaning": "A person who sells goods or services.",
+        "soundURL": "salesperson"
+    },
+    {
+        "id": 171,
+        "word": "Human Resources (HR) Manager",
+        "phonetics": "/ˈhjuː.mən rɪˈsɔːs.ɪz ˈmæn.ɪ.dʒər/",
+        "type": "noun",
+        "meaning": "A person responsible for managing the human resources of an organization.",
+        "soundURL": "hrmanager"
+    },
+    {
+        "id": 172,
+        "word": "Customer Service Representative",
+        "phonetics": "/ˈkʌs.tə.mər ˈsɝː.vɪs ˌrɛ.prɪˈzɛn.tə.tɪv/",
+        "type": "noun",
+        "meaning": "A person who interacts with customers to handle inquiries, concerns, and complaints.",
+        "soundURL": "customerservicerepresentative"
+    },
+    {
+        "id": 173,
+        "word": "Project Manager",
+        "phonetics": "/ˈprɑː.dʒekt ˈmæn.ɪ.dʒər/",
+        "type": "noun",
+        "meaning": "A person responsible for planning, executing, and closing projects.",
+        "soundURL": "projectmanager"
+    },
+    {
+        "id": 174,
+        "word": "Doctor",
+        "phonetics": "/ˈdɑːk.tɚ/",
+        "type": "noun",
+        "meaning": "A person licensed to practice medicine, especially one who specializes in diagnosis and medical treatment as distinguished from surgery.",
+        "soundURL": "doctor"
+    },
+    {
+        "id": 175,
+        "word": "Nurse",
+        "phonetics": "/nɝːs/",
+        "type": "noun",
+        "meaning": "A person trained to care for the sick or infirm, especially in a hospital.",
+        "soundURL": "nurse"
+    },
+    {
+        "id": 176,
+        "word": "Surgeon",
+        "phonetics": "/ˈsɝː.dʒən/",
+        "type": "noun",
+        "meaning": "A physician who specializes in surgery.",
+        "soundURL": "surgeon"
+    },
+    {
+        "id": 177,
+        "word": "Paramedic",
+        "phonetics": "/ˌper.əˈmed.ɪk/",
+        "type": "noun",
+        "meaning": "A person who is trained to give emergency medical treatment or to help sick or injured people.",
+        "soundURL": "paramedic"
+    },
+    {
+        "id": 178,
+        "word": "Dentist",
+        "phonetics": "/ˈden.t̬ɪst/",
+        "type": "noun",
+        "meaning": "A person qualified to treat the diseases and conditions that affect the teeth and gums.",
+        "soundURL": "dentist"
+    },
+    {
+        "id": 179,
+        "word": "Pharmacist",
+        "phonetics": "/ˈfɑːr.mə.sɪst/",
+        "type": "noun",
+        "meaning": "A person who is professionally qualified to prepare and dispense medicinal drugs.",
+        "soundURL": "pharmacist"
+    },
+    {
+        "id": 180,
+        "word": "Therapist",
+        "phonetics": "/ˈθer.ə.pɪst/",
+        "type": "noun",
+        "meaning": "A person who is trained to treat people with physical, emotional, or mental health problems.",
+        "soundURL": "therapist"
+    },
+    {
+        "id": 181,
+        "word": "Radiologist",
+        "phonetics": "/ˌreɪ.diˈɑː.lə.dʒɪst/",
+        "type": "noun",
+        "meaning": "A medical specialist who uses radioactive substances and X-rays in the treatment of disease.",
+        "soundURL": "radiologist"
+    },
+    {
+        "id": 182,
+        "word": "Pediatrician",
+        "phonetics": "/ˌpiː.di.əˈtrɪʃ.ən/",
+        "type": "noun",
+        "meaning": "A medical practitioner specializing in children and their diseases.",
+        "soundURL": "pediatrician"
+    },
+    {
+        "id": 183,
+        "word": "Psychiatrist",
+        "phonetics": "/saɪˈkaɪ.ə.trɪst/",
+        "type": "noun",
+        "meaning": "A medical practitioner specializing in the diagnosis and treatment of mental illness.",
+        "soundURL": "psychiatrist"
+    },
+    {
+        "id": 184,
+        "word": "January",
+        "phonetics": "/ˈdʒæn.ju.er.i/",
+        "type": "noun",
+        "meaning": "The first month of the year in the Gregorian calendar.",
+        "soundURL": "january"
+    },
+    {
+        "id": 185,
+        "word": "February",
+        "phonetics": "/ˈfeb.ru.er.i/",
+        "type": "noun",
+        "meaning": "The second month of the year in the Gregorian calendar.",
+        "soundURL": "february"
+    },
+    {
+        "id": 186,
+        "word": "March",
+        "phonetics": "/mɑːrtʃ/",
+        "type": "noun",
+        "meaning": "The third month of the year in the Gregorian calendar.",
+        "soundURL": "march"
+    },
+    {
+        "id": 187,
+        "word": "April",
+        "phonetics": "/ˈeɪ.prəl/",
+        "type": "noun",
+        "meaning": "The fourth month of the year in the Gregorian calendar.",
+        "soundURL": "april"
+    },
+    {
+        "id": 188,
+        "word": "May",
+        "phonetics": "/meɪ/",
+        "type": "noun",
+        "meaning": "The fifth month of the year in the Gregorian calendar.",
+        "soundURL": "may"
+    },
+    {
+        "id": 189,
+        "word": "June",
+        "phonetics": "/dʒuːn/",
+        "type": "noun",
+        "meaning": "The sixth month of the year in the Gregorian calendar.",
+        "soundURL": "june"
+    },
+    {
+        "id": 190,
+        "word": "July",
+        "phonetics": "/dʒʊˈlaɪ/",
+        "type": "noun",
+        "meaning": "The seventh month of the year in the Gregorian calendar.",
+        "soundURL": "july"
+    },
+    {
+        "id": 191,
+        "word": "August",
+        "phonetics": "/ˈɑː.ɡəst/",
+        "type": "noun",
+        "meaning": "The eighth month of the year in the Gregorian calendar.",
+        "soundURL": "august"
+    },
+    {
+        "id": 192,
+        "word": "September",
+        "phonetics": "/sepˈtem.bɚ/",
+        "type": "noun",
+        "meaning": "The ninth month of the year in the Gregorian calendar.",
+        "soundURL": "september"
+    },
+    {
+        "id": 193,
+        "word": "October",
+        "phonetics": "/ɑːkˈtoʊ.bɚ/",
+        "type": "noun",
+        "meaning": "The tenth month of the year in the Gregorian calendar.",
+        "soundURL": "october"
+    },
+    {
+        "id": 194,
+        "word": "November",
+        "phonetics": "/noʊˈvɛm.bər/",
+        "type": "noun",
+        "meaning": "The eleventh month of the year in the Gregorian calendar.",
+        "soundURL": "november"
+    },
+    {
+        "id": 195,
+        "word": "December",
+        "phonetics": "/dɪˈsem.bər/",
+        "type": "noun",
+        "meaning": "The twelfth month of the year in the Gregorian calendar.",
+        "soundURL": "december"
+    },
+    {
+        "id": 196,
+        "word": "Spring",
+        "phonetics": "/sprɪŋ/",
+        "type": "noun",
+        "meaning": "The season between winter and summer.",
+        "soundURL": "spring"
+    },
+    {
+        "id": 197,
+        "word": "Summer",
+        "phonetics": "/ˈsʌm.ɚ/",
+        "type": "noun",
+        "meaning": "The warmest season of the year, in the northern hemisphere from June to August and in the southern hemisphere from December to February.",
+        "soundURL": "summer"
+    },
+    {
+        "id": 198,
+        "word": "Autumn",
+        "phonetics": "/ˈɔː.təm/",
+        "type": "noun",
+        "meaning": "The season after summer and before winter, in the northern hemisphere from September to November and in the southern hemisphere from March to May.",
+        "soundURL": "autumn"
+    },
+    {
+        "id": 199,
+        "word": "Winter",
+        "phonetics": "/ˈwɪn.t̬ɚ/",
+        "type": "noun",
+        "meaning": "The coldest season of the year, in the northern hemisphere from December to February and in the southern hemisphere from June to August.",
+        "soundURL": "winter"
+    },
+    {
+        "id": 200,
+        "word": "Cloudy",
+        "phonetics": "/ˈklaʊ.di/",
+        "type": "adjective",
+        "meaning": "The condition of the sky when there are many clouds.",
+        "soundURL": "cloudy"
+    },
+    {
+        "id": 201,
+        "word": "Windy",
+        "phonetics": "/ˈwɪn.di/",
+        "type": "adjective",
+        "meaning": "Characterized by or affected by strong winds.",
+        "soundURL": "windy"
+    },
+    {
+        "id": 202,
+        "word": "Sunny",
+        "phonetics": "/ˈsʌn.i/",
+        "type": "adjective",
+        "meaning": "Characterized by bright sunlight.",
+        "soundURL": "sunny"
+    },
+    {
+        "id": 203,
+        "word": "Rainy",
+        "phonetics": "/ˈreɪ.ni/",
+        "type": "adjective",
+        "meaning": "Characterized by rain.",
+        "soundURL": "rainy"
+    },
+    {
+        "id": 204,
+        "word": "Snowy",
+        "phonetics": "/ˈsnoʊ.i/",
+        "type": "adjective",
+        "meaning": "Characterized by snow.",
+        "soundURL": "snowy"
+    },
+    {
+        "id": 205,
+        "word": "Foggy",
+        "phonetics": "/ˈfɑː.ɡi/",
+        "type": "adjective",
+        "meaning": "Full of thick mist or low-hanging cloud.",
+        "soundURL": "foggy"
+    },
+    {
+        "id": 206,
+        "word": "Clear",
+        "phonetics": "/klɪr/",
+        "type": "adjective",
+        "meaning": "Free from clouds, mist, or haze.",
+        "soundURL": "clear"
+    },
+    {
+        "id": 207,
+        "word": "Mild",
+        "phonetics": "/maɪld/",
+        "type": "adjective",
+        "meaning": "Moderate in degree; not extreme.",
+        "soundURL": "mild"
+    },
+    {
+        "id": 208,
+        "word": "Chilly",
+        "phonetics": "/ˈtʃɪl.i/",
+        "type": "adjective",
+        "meaning": "Uncomfortably cool or cold.",
+        "soundURL": "chilly"
+    },
+    {
+        "id": 209,
+        "word": "Hot",
+        "phonetics": "/hɑːt/",
+        "type": "adjective",
+        "meaning": "Having a high degree of heat or a high temperature.",
+        "soundURL": "hot"
+    },
+    {
+        "id": 210,
+        "word": "Head",
+        "phonetics": "/hɛd/",
+        "type": "noun",
+        "meaning": "The upper part of the human body, or the front or upper part of the body of an animal, typically separated from the rest of the body by a neck, and containing the brain, mouth, and sense organs.",
+        "soundURL": "head"
+    },
+    {
+        "id": 211,
+        "word": "Face",
+        "phonetics": "/feɪs/",
+        "type": "noun",
+        "meaning": "The front part of a person's head from the forehead to the chin, or the corresponding part in an animal.",
+        "soundURL": "face"
+    },
+    {
+        "id": 212,
+        "word": "Eye",
+        "phonetics": "/aɪ/",
+        "type": "noun",
+        "meaning": "Each of a pair of globular organs in the head through which people and vertebrate animals see, the visible part typically appearing almond-shaped in animals with eyelids.",
+        "soundURL": "eye"
+    },
+    {
+        "id": 213,
+        "word": "Ear",
+        "phonetics": "/ɪr/",
+        "type": "noun",
+        "meaning": "The organ of hearing and balance in humans and other vertebrates, especially the external part of this.",
+        "soundURL": "ear"
+    },
+    {
+        "id": 214,
+        "word": "Nose",
+        "phonetics": "/noʊz/",
+        "type": "noun",
+        "meaning": "The part projecting above the mouth on the face of a person or animal, containing the nostrils and used for breathing and smelling.",
+        "soundURL": "nose"
+    },
+    {
+        "id": 215,
+        "word": "Mouth",
+        "phonetics": "/maʊθ/",
+        "type": "noun",
+        "meaning": "The opening and cavity in the lower part of the human face, surrounded by the lips, through which food is taken in and vocal sounds are emitted.",
+        "soundURL": "mouth"
+    },
+    {
+        "id": 216,
+        "word": "Neck",
+        "phonetics": "/nɛk/",
+        "type": "noun",
+        "meaning": "The part of the body connecting the head to the rest of the body.",
+        "soundURL": "neck"
+    },
+    {
+        "id": 217,
+        "word": "Shoulder",
+        "phonetics": "/ˈʃoʊl.dər/",
+        "type": "noun",
+        "meaning": "The upper joint of the human arm and the part of the body between this and the neck.",
+        "soundURL": "shoulder"
+    },
+    {
+        "id": 218,
+        "word": "Arm",
+        "phonetics": "/ɑːrm/",
+        "type": "noun",
+        "meaning": "Each of the two upper limbs of the human body from the shoulder to the hand.",
+        "soundURL": "arm"
+    },
+    {
+        "id": 219,
+        "word": "Elbow",
+        "phonetics": "/ˈɛl.boʊ/",
+        "type": "noun",
+        "meaning": "The joint between the forearm and the upper arm.",
+        "soundURL": "elbow"
+    },
+    {
+        "id": 220,
+        "word": "Wrist",
+        "phonetics": "/rɪst/",
+        "type": "noun",
+        "meaning": "The joint connecting the hand with the forearm.",
+        "soundURL": "wrist"
+    },
+    {
+        "id": 221,
+        "word": "Hand",
+        "phonetics": "/hænd/",
+        "type": "noun",
+        "meaning": "The end part of a person's arm beyond the wrist, including the palm, fingers, and thumb.",
+        "soundURL": "hand"
+    },
+    {
+        "id": 222,
+        "word": "Finger",
+        "phonetics": "/ˈfɪŋ.ɡɚ/",
+        "type": "noun",
+        "meaning": "Each of the four slender jointed parts attached to either hand (or five, if the thumb is included).",
+        "soundURL": "finger"
+    },
+    {
+        "id": 223,
+        "word": "Thumb",
+        "phonetics": "/θʌm/",
+        "type": "noun",
+        "meaning": "The short, thick first digit of the human hand, set lower and apart from the other four and opposable to them.",
+        "soundURL": "thumb"
+    },
+    {
+        "id": 224,
+        "word": "Chest",
+        "phonetics": "/tʃɛst/",
+        "type": "noun",
+        "meaning": "The front surface of a person's or animal's body between the neck and the abdomen.",
+        "soundURL": "chest"
+    },
+    {
+        "id": 225,
+        "word": "Back",
+        "phonetics": "/bæk/",
+        "type": "noun",
+        "meaning": "The rear surface of a human body from the shoulders to the hips.",
+        "soundURL": "back"
+    },
+    {
+        "id": 226,
+        "word": "Waist",
+        "phonetics": "/weɪst/",
+        "type": "noun",
+        "meaning": "The part of the human body below the ribs and above the hips.",
+        "soundURL": "waist"
+    },
+    {
+        "id": 227,
+        "word": "Hip",
+        "phonetics": "/hɪp/",
+        "type": "noun",
+        "meaning": "Either side of the body below the waist and above the thigh.",
+        "soundURL": "hip"
+    },
+    {
+        "id": 228,
+        "word": "Leg",
+        "phonetics": "/lɛɡ/",
+        "type": "noun",
+        "meaning": "Each of the limbs on which a person or animal walks and stands.",
+        "soundURL": "leg"
+    },
+    {
+        "id": 229,
+        "word": "Knee",
+        "phonetics": "/niː/",
+        "type": "noun",
+        "meaning": "The joint between the thigh and the lower leg in humans.",
+        "soundURL": "knee"
+    },
+    {
+        "id": 230,
+        "word": "Ankle",
+        "phonetics": "/ˈæŋ.kəl/",
+        "type": "noun",
+        "meaning": "The joint connecting the foot with the leg; the bony prominence of the ankle.",
+        "soundURL": "ankle"
+    },
+    {
+        "id": 231,
+        "word": "Foot",
+        "phonetics": "/fʊt/",
+        "type": "noun",
+        "meaning": "The lower extremity of the leg below the ankle, on which a person stands or walks.",
+        "soundURL": "foot"
+    },
+    {
+        "id": 232,
+        "word": "Heel",
+        "phonetics": "/hiːl/",
+        "type": "noun",
+        "meaning": "The back part of the human foot below the ankle.",
+        "soundURL": "heel"
+    },
+    {
+        "id": 233,
+        "word": "Toe",
+        "phonetics": "/toʊ/",
+        "type": "noun",
+        "meaning": "Any of the five digits at the end of the human foot.",
+        "soundURL": "toe"
+    },
+    {
+        "id": 234,
+        "word": "Stomach",
+        "phonetics": "/ˈstʌm.ək/",
+        "type": "noun",
+        "meaning": "The internal organ in which the major part of the digestion of food occurs, being (in humans and many mammals) a pear-shaped enlargement of the alimentary canal linking the esophagus to the small intestine.",
+        "soundURL": "stomach"
+    },
+    {
+        "id": 235,
+        "word": "Abdomen",
+        "phonetics": "/ˈæb.də.mən/",
+        "type": "noun",
+        "meaning": "The part of the body of a vertebrate containing the digestive organs; the belly.",
+        "soundURL": "abdomen"
+    },
+    {
+        "id": 236,
+        "word": "Luggage",
+        "phonetics": "/ˈlʌɡ.ɪdʒ/",
+        "type": "noun",
+        "meaning": "Bags and suitcases collectively; travel bags.",
+        "soundURL": "luggage"
+    },
+    {
+        "id": 237,
+        "word": "Destination",
+        "phonetics": "/ˌdes.tɪˈneɪ.ʃən/",
+        "type": "noun",
+        "meaning": "The place to which someone or something is going or being sent.",
+        "soundURL": "destination"
+    },
+    {
+        "id": 238,
+        "word": "Spine",
+        "phonetics": "/spaɪn/",
+        "type": "noun",
+        "meaning": "The series of vertebrae extending from the skull to the small of the back, enclosing the spinal cord and providing support and flexibility to the trunk.",
+        "soundURL": "spine"
+    },
+    {
+        "id": 239,
+        "word": "Pelvis",
+        "phonetics": "/ˈpɛl.vɪs/",
+        "type": "noun",
+        "meaning": "The large bony structure near the base of the spine to which the hind limbs or legs are attached in humans and many other vertebrates.",
+        "soundURL": "pelvis"
+    },
+    {
+        "id": 240,
+        "word": "Chair",
+        "phonetics": "/tʃɛr/",
+        "type": "noun",
+        "meaning": "A separate seat for one person, typically with a back and four legs.",
+        "soundURL": "chair"
+    },
+    {
+        "id": 241,
+        "word": "Table",
+        "phonetics": "/ˈteɪ.bəl/",
+        "type": "noun",
+        "meaning": "A piece of furniture with a flat top and one or more legs, providing a level surface for eating, writing, or working.",
+        "soundURL": "table"
+    },
+    {
+        "id": 242,
+        "word": "Desk",
+        "phonetics": "/dɛsk/",
+        "type": "noun",
+        "meaning": "A piece of furniture with a flat or sloped surface and typically with drawers, at which one can read, write, or do other work.",
+        "soundURL": "desk"
+    },
+    {
+        "id": 243,
+        "word": "Bed",
+        "phonetics": "/bɛd/",
+        "type": "noun",
+        "meaning": "A piece of furniture for sleep or rest, typically a framework with a mattress and coverings.",
+        "soundURL": "bed"
+    },
+    {
+        "id": 244,
+        "word": "Sofa",
+        "phonetics": "/ˈsoʊ.fə/",
+        "type": "noun",
+        "meaning": "A long upholstered seat with a back and arms, for two or more people to sit on.",
+        "soundURL": "sofa"
+    },
+    {
+        "id": 245,
+        "word": "Couch",
+        "phonetics": "/kaʊtʃ/",
+        "type": "noun",
+        "meaning": "A long upholstered piece of furniture for several people to sit on.",
+        "soundURL": "couch"
+    },
+    {
+        "id": 246,
+        "word": "Wardrobe",
+        "phonetics": "/ˈwɔːr.droʊb/",
+        "type": "noun",
+        "meaning": "A large, tall cupboard or recess in which clothes may be hung or stored.",
+        "soundURL": "wardrobe"
+    },
+    {
+        "id": 247,
+        "word": "Bookshelf",
+        "phonetics": "/ˈbʊkˌʃɛlf/",
+        "type": "noun",
+        "meaning": "A shelf or shelves, typically attached to a wall, on which to place books.",
+        "soundURL": "bookshelf"
+    },
+    {
+        "id": 248,
+        "word": "Amount",
+        "phonetics": "/əˈmaʊnt/",
+        "type": "noun",
+        "meaning": "A quantity of something, typically the total of a thing or things in number, size, value, or extent.",
+        "soundURL": "amount"
+    },
+    {
+        "id": 249,
+        "word": "Cabinet",
+        "phonetics": "/ˈkæb.ɪ.nət/",
+        "type": "noun",
+        "meaning": "A cupboard with drawers or shelves for storing or displaying articles.",
+        "soundURL": "cabinet"
+    },
+    {
+        "id": 250,
+        "word": "Mirror",
+        "phonetics": "/ˈmɪr.ər/",
+        "type": "noun",
+        "meaning": "A reflective surface, now typically of glass coated with a metal amalgam, that reflects a clear image.",
+        "soundURL": "mirror"
+    },
+    {
+        "id": 251,
+        "word": "Lamp",
+        "phonetics": "/læmp/",
+        "type": "noun",
+        "meaning": "A device for giving light, either one consisting of an electric bulb together with its holder and shade or cover, or one burning gas or oil and consisting of a wick or mantle and a glass shade.",
+        "soundURL": "lamp"
+    },
+    {
+        "id": 252,
+        "word": "Shelf",
+        "phonetics": "/ʃɛlf/",
+        "type": "noun",
+        "meaning": "A flat, usually rectangular shape, piece of wood, metal, glass, or other hard material, typically with perpendicular sides, used to support objects.",
+        "soundURL": "shelf"
+    },
+    {
+        "id": 253,
+        "word": "Rug",
+        "phonetics": "/rʌɡ/",
+        "type": "noun",
+        "meaning": "A floor covering of thick woven material or animal skin, typically not extending over the entire floor.",
+        "soundURL": "rug"
+    },
+    {
+        "id": 254,
+        "word": "Curtain",
+        "phonetics": "/ˈkɜːr.tən/",
+        "type": "noun",
+        "meaning": "A piece of material suspended at the top to form a covering or screen, typically one of a pair at a window.",
+        "soundURL": "curtain"
+    },
+    {
+        "id": 255,
+        "word": "Spices",
+        "phonetics": "/ˈspaɪsɪz/",
+        "type": "noun",
+        "meaning": "Aromatic or pungent plant substances used to flavor food, e.g., cloves, pepper, or mace.",
+        "soundURL": "spices"
+    },
+    {
+        "id": 256,
+        "word": "Drawer",
+        "phonetics": "/ˈdrɔː.ɚ/",
+        "type": "noun",
+        "meaning": "A box-shaped storage compartment without a lid, made to slide horizontally in and out of a desk, chest, or other piece of furniture.",
+        "soundURL": "drawer"
+    },
+    {
+        "id": 257,
+        "word": "Stool",
+        "phonetics": "/stuːl/",
+        "type": "noun",
+        "meaning": "A seat without a back or arms, typically resting on three or four legs or on a single pedestal.",
+        "soundURL": "stool"
+    },
+    {
+        "id": 258,
+        "word": "Bench",
+        "phonetics": "/bentʃ/",
+        "type": "noun",
+        "meaning": "A long seat for several people, typically made of wood or stone.",
+        "soundURL": "bench"
+    },
+    {
+        "id": 259,
+        "word": "Chest",
+        "phonetics": "/tʃɛst/",
+        "type": "noun",
+        "meaning": "A box, typically made of wood and used for storage.",
+        "soundURL": "chest"
+    },
+    {
+        "id": 260,
+        "word": "Armchair",
+        "phonetics": "/ˈɑːrm.tʃer/",
+        "type": "noun",
+        "meaning": "A comfortable chair with side supports for a person's arms.",
+        "soundURL": "armchair"
+    },
+    {
+        "id": 261,
+        "word": "Garam",
+        "phonetics": "/ˈɡɑːrəm/",
+        "type": "adjective",
+        "meaning": "Hot, pungent, or spicy.",
+        "soundURL": "garam"
+    },
+    {
+        "id": 262,
+        "word": "Dining table",
+        "phonetics": "/ˈdaɪ.nɪŋ ˈteɪ.bəl/",
+        "type": "noun",
+        "meaning": "A table in a dining room or kitchen on which food is served.",
+        "soundURL": "diningtable"
+    },
+    {
+        "id": 263,
+        "word": "Dresser",
+        "phonetics": "/ˈdrɛs.ɚ/",
+        "type": "noun",
+        "meaning": "A piece of furniture with drawers and usually shelves, used for storing clothes.",
+        "soundURL": "dresser"
+    },
+    {
+        "id": 264,
+        "word": "Nightstand",
+        "phonetics": "/ˈnaɪt.stænd/",
+        "type": "noun",
+        "meaning": "A small bedside table or cabinet.",
+        "soundURL": "nightstand"
+    },
+    {
+        "id": 265,
+        "word": "Vase",
+        "phonetics": "/veɪs/",
+        "type": "noun",
+        "meaning": "A decorative container, typically made of glass or china and used as an ornament or for displaying cut flowers.",
+        "soundURL": "vase"
+    },
+    {
+        "id": 266,
+        "word": "Rocking chair",
+        "phonetics": "/ˈrɑː.kɪŋ tʃer/",
+        "type": "noun",
+        "meaning": "A chair mounted on rockers or springs so as to allow forward and backward rocking.",
+        "soundURL": "rockingchair"
+    },
+    {
+        "id": 267,
+        "word": "Sideboard",
+        "phonetics": "/ˈsaɪd.bɔːrd/",
+        "type": "noun",
+        "meaning": "A piece of furniture with a flat top and cupboards or drawers, placed at the side of a dining room or against a wall.",
+        "soundURL": "sideboard"
+    },
+    {
+        "id": 268,
+        "word": "Refrigerator",
+        "type": "Noun",
+        "phonetics": "/rɪˈfrɪdʒəreɪtər/",
+        "meaning": "A refrigerator is a large container, usually powered by electricity, that is used to keep food and drinks cold.",
+        "soundURL": "refrigerator"
+    },
+    {
+        "id": 269,
+        "word": "Candle",
+        "phonetics": "/ˈkæn.dəl/",
+        "type": "noun",
+        "meaning": "A cylinder or block of wax or tallow with a central wick that is lit to produce light as it burns.",
+        "soundURL": "candle"
+    },
+    {
+        "id": 270,
+        "word": "Cushion",
+        "phonetics": "/ˈkʊʃ.ən/",
+        "type": "noun",
+        "meaning": "A bag of cloth stuffed with a mass of soft material, used as a comfortable support for sitting or leaning on.",
+        "soundURL": "cushion"
+    },
+    {
+        "id": 271,
+        "word": "House",
+        "phonetics": "/haʊs/",
+        "type": "noun",
+        "meaning": "A building for human habitation, especially one that consists of a ground floor and one or more upper storeys.",
+        "soundURL": "house"
+    },
+    {
+        "id": 272,
+        "word": "Apartment",
+        "phonetics": "/əˈpɑːrt.mənt/",
+        "type": "noun",
+        "meaning": "A suite of rooms forming one residence, typically in a building containing a number of these.",
+        "soundURL": "apartment"
+    },
+    {
+        "id": 273,
+        "word": "Room",
+        "phonetics": "/ruːm/",
+        "type": "noun",
+        "meaning": "A space that can be occupied or where something can be done, especially viewed in terms of whether there is enough.",
+        "soundURL": "room"
+    },
+    {
+        "id": 274,
+        "word": "Kitchen",
+        "phonetics": "/ˈkɪtʃ.ɪn/",
+        "type": "noun",
+        "meaning": "A room or area where food is prepared and cooked.",
+        "soundURL": "kitchen"
+    },
+    {
+        "id": 275,
+        "word": "Bathroom",
+        "phonetics": "/ˈbɑːθ.ruːm/",
+        "type": "noun",
+        "meaning": "A room containing a bath or shower and typically also a washbasin and a toilet.",
+        "soundURL": "bathroom"
+    },
+    {
+        "id": 276,
+        "word": "Living room",
+        "phonetics": "/ˈlɪvɪŋ ˌruːm/",
+        "type": "noun",
+        "meaning": "A room in a house for general and informal everyday use.",
+        "soundURL": "livingroom"
+    },
+    {
+        "id": 277,
+        "word": "Bedroom",
+        "phonetics": "/ˈbɛd.ruːm/",
+        "type": "noun",
+        "meaning": "A room for sleeping in.",
+        "soundURL": "bedroom"
+    },
+    {
+        "id": 278,
+        "word": "Dining room",
+        "phonetics": "/ˈdaɪ.nɪŋ ˌruːm/",
+        "type": "noun",
+        "meaning": "A room in a house or hotel in which meals are eaten.",
+        "soundURL": "diningroom"
+    },
+    {
+        "id": 279,
+        "word": "Hallway",
+        "phonetics": "/ˈhɔːl.weɪ/",
+        "type": "noun",
+        "meaning": "An entrance hall.",
+        "soundURL": "hallway"
+    },
+    {
+        "id": 280,
+        "word": "Balcony",
+        "phonetics": "/ˈbæl.kən.i/",
+        "type": "noun",
+        "meaning": "A platform enclosed by a wall or balustrade on the outside of a building, with access from an upper-floor window or door.",
+        "soundURL": "balcony"
+    },
+    {
+        "id": 281,
+        "word": "Stairs",
+        "phonetics": "/stɛrz/",
+        "type": "noun",
+        "meaning": "A series of steps and any associated landing or hallway that connects two or more floors.",
+        "soundURL": "stairs"
+    },
+    {
+        "id": 282,
+        "word": "Garage",
+        "phonetics": "/ˈɡær.ɪdʒ/",
+        "type": "noun",
+        "meaning": "A building for housing a motor vehicle or vehicles.",
+        "soundURL": "garage"
+    },
+    {
+        "id": 283,
+        "word": "Attic",
+        "phonetics": "/ˈæt̬.ɪk/",
+        "type": "noun",
+        "meaning": "A space or room just below the roof of a building, often used for storing things.",
+        "soundURL": "attic"
+    },
+    {
+        "id": 284,
+        "word": "Basement",
+        "phonetics": "/ˈbeɪs.mənt/",
+        "type": "noun",
+        "meaning": "The floor of a building which is partly or entirely below ground level.",
+        "soundURL": "basement"
+    },
+    {
+        "id": 285,
+        "word": "Yard",
+        "phonetics": "/jɑːrd/",
+        "type": "noun",
+        "meaning": "An area of land used for a particular purpose or business.",
+        "soundURL": "yard"
+    },
+    {
+        "id": 286,
+        "word": "Roof",
+        "phonetics": "/ruːf/",
+        "type": "noun",
+        "meaning": "The structure forming the upper covering of a building or vehicle.",
+        "soundURL": "roof"
+    },
+    {
+        "id": 287,
+        "word": "Window",
+        "phonetics": "/ˈwɪn.doʊ/",
+        "type": "noun",
+        "meaning": "An opening in the wall or roof of a building or vehicle, fitted with glass in a frame to admit light or air and allow people to see out.",
+        "soundURL": "window"
+    },
+    {
+        "id": 288,
+        "word": "Door",
+        "phonetics": "/dɔːr/",
+        "type": "noun",
+        "meaning": "A hinged, sliding, or revolving barrier at the entrance to a building, room, or vehicle, or in the framework of a cupboard.",
+        "soundURL": "door"
+    },
+    {
+        "id": 289,
+        "word": "Lock",
+        "phonetics": "/lɑːk/",
+        "type": "noun",
+        "meaning": "A mechanism for keeping a door, lid, etc., fastened, typically operated only by a key of a particular form.",
+        "soundURL": "lock"
+    },
+    {
+        "id": 290,
+        "word": "Key",
+        "phonetics": "/kiː/",
+        "type": "noun",
+        "meaning": "A small piece of shaped metal with incisions cut to fit the wards of a particular lock, which is inserted into a lock and turned to open or close it.",
+        "soundURL": "key"
+    },
+    {
+        "id": 291,
+        "word": "Furniture",
+        "phonetics": "/ˈfɜːr.nɪ.tʃər/",
+        "type": "noun",
+        "meaning": "Large movable equipment, such as tables and chairs, used to make a house, office, or other space suitable for living or working.",
+        "soundURL": "furniture"
+    },
+    {
+        "id": 292,
+        "word": "Shutter",
+        "phonetics": "/ˈʃʌt.ər/",
+        "type": "noun",
+        "meaning": "Each of a pair of hinged panels, fixed inside or outside a window, that can be closed for security or privacy or to keep out the light.",
+        "soundURL": "shutter"
+    },
+    {
+        "id": 293,
+        "word": "Chimney",
+        "phonetics": "/ˈtʃɪm.ni/",
+        "type": "noun",
+        "meaning": "A vertical channel or pipe that conducts smoke and combustion gases up from a fire or furnace and typically through the roof of a building.",
+        "soundURL": "chimney"
+    },
+    {
+        "id": 294,
+        "word": "Fireplace",
+        "phonetics": "/ˈfaɪər.pleɪs/",
+        "type": "noun",
+        "meaning": "A structure surrounding an open hearth, often with a chimney, used for heating a room or cooking food.",
+        "soundURL": "fireplace"
+    },
+    {
+        "id": 295,
+        "word": "Ceiling",
+        "phonetics": "/ˈsiː.lɪŋ/",
+        "type": "noun",
+        "meaning": "The upper interior surface of a room or other similar compartment.",
+        "soundURL": "ceiling"
+    },
+    {
+        "id": 296,
+        "word": "Floor",
+        "phonetics": "/flɔːr/",
+        "type": "noun",
+        "meaning": "The lower surface of a room, on which one may walk.",
+        "soundURL": "floor"
+    },
+    {
+        "id": 297,
+        "word": "Dormitory",
+        "phonetics": "/ˈdɔːr.mɪ.tər.i/",
+        "type": "noun",
+        "meaning": "A large bedroom for a number of people in a school or institution.",
+        "soundURL": "dormitory"
+    },
+    {
+        "id": 298,
+        "word": "Studio apartment",
+        "phonetics": "/ˈstuː.di.əʊ əˈpɑːt.mənt/",
+        "type": "noun",
+        "meaning": "An apartment consisting of one main room serving as a living room, dining room, and bedroom.",
+        "soundURL": "studioapartment"
+    },
+    {
+        "id": 299,
+        "word": "Porch",
+        "phonetics": "/pɔːrtʃ/",
+        "type": "noun",
+        "meaning": "A covered shelter projecting in front of the entrance of a building.",
+        "soundURL": "porch"
+    },
+    {
+        "id": 300,
+        "word": "Patio",
+        "phonetics": "/ˈpæt.i.oʊ/",
+        "type": "noun",
+        "meaning": "An outdoor area adjoining a house, used for dining or recreation.",
+        "soundURL": "patio"
+    },
+    {
+        "id": 301,
+        "word": "Dog",
+        "phonetics": "/dɔːɡ/",
+        "type": "noun",
+        "meaning": "A domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, non-retractable claws, and a barking, howling, or whining voice.",
+        "soundURL": "dog"
+    },
+    {
+        "id": 302,
+        "word": "Cat",
+        "phonetics": "/kæt/",
+        "type": "noun",
+        "meaning": "A small domesticated carnivorous mammal with soft fur, a short snout, and retractile claws.",
+        "soundURL": "cat"
+    },
+    {
+        "id": 303,
+        "word": "Bird",
+        "phonetics": "/bɜːrd/",
+        "type": "noun",
+        "meaning": "A warm-blooded egg-laying vertebrate distinguished by the possession of feathers, wings, a beak, and typically by being able to fly.",
+        "soundURL": "bird"
+    },
+    {
+        "id": 304,
+        "word": "Fish",
+        "phonetics": "/fɪʃ/",
+        "type": "noun",
+        "meaning": "A limbless cold-blooded vertebrate animal with gills and fins and living wholly in water.",
+        "soundURL": "fish"
+    },
+    {
+        "id": 305,
+        "word": "Rabbit",
+        "phonetics": "/ˈræb.ɪt/",
+        "type": "noun",
+        "meaning": "A small furry mammal with long ears, long hind legs, and a short tail.",
+        "soundURL": "rabbit"
+    },
+    {
+        "id": 306,
+        "word": "Mouse",
+        "phonetics": "/maʊs/",
+        "type": "noun",
+        "meaning": "A small rodent that typically has a pointed snout, relatively large ears and eyes, and a long tail.",
+        "soundURL": "mouse"
+    },
+    {
+        "id": 307,
+        "word": "Elephant",
+        "phonetics": "/ˈɛl.ɪ.fənt/",
+        "type": "noun",
+        "meaning": "A very large plant-eating mammal with a trunk, long curved ivory tusks, and large ears, native to Africa and southern Asia.",
+        "soundURL": "elephant"
+    },
+    {
+        "id": 308,
+        "word": "Lion",
+        "phonetics": "/ˈlaɪ.ən/",
+        "type": "noun",
+        "meaning": "A large tawny-colored cat that lives in prides, found in Africa and northwestern India. The male has a flowing shaggy mane.",
+        "soundURL": "lion"
+    },
+    {
+        "id": 309,
+        "word": "Tiger",
+        "phonetics": "/ˈtaɪ.ɡər/",
+        "type": "noun",
+        "meaning": "A very large solitary cat with a yellow-brown coat striped with black, native to the forests of Asia but becoming increasingly rare.",
+        "soundURL": "tiger"
+    },
+    {
+        "id": 310,
+        "word": "Bear",
+        "phonetics": "/ber/",
+        "type": "noun",
+        "meaning": "A large, heavy mammal that walks on the soles of its feet, having thick fur and a very short tail. Bears are related to the dog family but most species are omnivorous.",
+        "soundURL": "bear"
+    },
+    {
+        "id": 311,
+        "word": "Horse",
+        "phonetics": "/hɔːrs/",
+        "type": "noun",
+        "meaning": "A large animal used for riding and for carrying and pulling things.",
+        "soundURL": "horse"
+    },
+    {
+        "id": 312,
+        "word": "Cow",
+        "phonetics": "/kaʊ/",
+        "type": "noun",
+        "meaning": "A large female farm animal kept to produce meat and milk.",
+        "soundURL": "cow"
+    },
+    {
+        "id": 313,
+        "word": "Chicken",
+        "phonetics": "/ˈtʃɪk.ɪn/",
+        "type": "noun",
+        "meaning": "A domestic fowl kept for its eggs or meat, especially a young one.",
+        "soundURL": "chicken"
+    },
+    {
+        "id": 314,
+        "word": "Duck",
+        "phonetics": "/dʌk/",
+        "type": "noun",
+        "meaning": "A waterbird with a broad blunt bill, short legs, webbed feet, and a waddling gait.",
+        "soundURL": "duck"
+    },
+    {
+        "id": 315,
+        "word": "Goat",
+        "phonetics": "/ɡoʊt/",
+        "type": "noun",
+        "meaning": "A hardy domesticated ruminant animal that has backward-curving horns and (in the male) a beard.",
+        "soundURL": "goat"
+    },
+    {
+        "id": 316,
+        "word": "Sheep",
+        "phonetics": "/ʃiːp/",
+        "type": "noun",
+        "meaning": "A domesticated ruminant animal with a thick woolly coat and (typically only in the male) curving horns.",
+        "soundURL": "sheep"
+    },
+    {
+        "id": 317,
+        "word": "Pig",
+        "phonetics": "/pɪɡ/",
+        "type": "noun",
+        "meaning": "An omnivorous domesticated hoofed mammal with sparse bristly hair and a flat snout for rooting in the soil, kept for its meat.",
+        "soundURL": "pig"
+    },
+    {
+        "id": 318,
+        "word": "Monkey",
+        "phonetics": "/ˈmʌŋ.ki/",
+        "type": "noun",
+        "meaning": "A small to medium-sized primate that typically has a long tail, most kinds of which live in trees in tropical countries.",
+        "soundURL": "monkey"
+    },
+    {
+        "id": 319,
+        "word": "Giraffe",
+        "phonetics": "/dʒɪˈræf/",
+        "type": "noun",
+        "meaning": "A large African mammal with a very long neck and forelegs, having a coat patterned with brown patches separated by lighter lines.",
+        "soundURL": "giraffe"
+    },
+    {
+        "id": 320,
+        "word": "Kangaroo",
+        "phonetics": "/ˌkæŋ.ɡəˈruː/",
+        "type": "noun",
+        "meaning": "A large Australian marsupial with a long, powerful tail and strongly developed hind limbs that enable it to travel by leaping, found only in Australia and New Guinea.",
+        "soundURL": "kangaroo"
+    },
+    {
+        "id": 321,
+        "word": "Koala",
+        "phonetics": "/ˈkoʊ.ə.lə/",
+        "type": "noun",
+        "meaning": "A small, bearlike marsupial with thick gray fur and large ears, native to Australia.",
+        "soundURL": "koala"
+    },
+    {
+        "id": 322,
+        "word": "Penguin",
+        "phonetics": "/ˈpɛŋ.ɡwɪn/",
+        "type": "noun",
+        "meaning": "A large flightless seabird of the southern hemisphere, with black upper parts and white underparts and wings developed into flippers for swimming underwater.",
+        "soundURL": "penguin"
+    },
+    {
+        "id": 323,
+        "word": "Turtle",
+        "phonetics": "/ˈtɜːr.təl/",
+        "type": "noun",
+        "meaning": "A slow-moving reptile with a bony or leathery shell developed from their ribs and acting as a shield.",
+        "soundURL": "turtle"
+    },
+    {
+        "id": 324,
+        "word": "Snake",
+        "phonetics": "/sneɪk/",
+        "type": "noun",
+        "meaning": "A long limbless reptile that has no eyelids, a short tail, and jaws that are capable of considerable extension.",
+        "soundURL": "snake"
+    },
+    {
+        "id": 325,
+        "word": "Lizard",
+        "phonetics": "/ˈlɪz.ɚd/",
+        "type": "noun",
+        "meaning": "A reptile that typically has a long body and tail, four legs, movable eyelids, and a rough, scaly, or spiny skin.",
+        "soundURL": "lizard"
+    },
+    {
+        "id": 326,
+        "word": "Frog",
+        "phonetics": "/frɑːɡ/",
+        "type": "noun",
+        "meaning": "A tailless amphibian with a short squat body, moist smooth skin, and very long hind legs for leaping.",
+        "soundURL": "frog"
+    },
+    {
+        "id": 327,
+        "word": "Crocodile",
+        "phonetics": "/ˈkrɑː.kə.daɪl/",
+        "type": "noun",
+        "meaning": "A large predatory semiaquatic reptile with long jaws, long tail, short legs, and a horny textured skin.",
+        "soundURL": "crocodile"
+    },
+    {
+        "id": 328,
+        "word": "Alligator",
+        "phonetics": "/ˈæl.ɪ.ɡeɪ.t̬ɚ/",
+        "type": "noun",
+        "meaning": "A large semiaquatic reptile similar to a crocodile but with a broader and shorter head, native to the Americas and China.",
+        "soundURL": "alligator"
+    },
+    {
+        "id": 329,
+        "word": "Dolphin",
+        "phonetics": "/ˈdɑːl.fɪn/",
+        "type": "noun",
+        "meaning": "A small gregarious toothed whale that typically has a beaklike snout and a curved fin on the back. Dolphins have become well known for their sociable nature and high intelligence.",
+        "soundURL": "dolphin"
+    },
+    {
+        "id": 330,
+        "word": "Whale",
+        "phonetics": "/weɪl/",
+        "type": "noun",
+        "meaning": "A very large marine mammal with a streamlined hairless body, a horizontal tail fin, and a blowhole on top of the head for breathing.",
+        "soundURL": "whale"
+    },
+    {
+        "id": 331,
+        "word": "Stove",
+        "phonetics": "/stoʊv/",
+        "type": "noun",
+        "meaning": "An apparatus for cooking or heating that operates by burning fuel or using electricity.",
+        "soundURL": "stove"
+    },
+    {
+        "id": 332,
+        "word": "Oven",
+        "phonetics": "/ˈʌv.ən/",
+        "type": "noun",
+        "meaning": "A chamber or compartment with a controlled temperature in which food is baked, roasted, or heated.",
+        "soundURL": "oven"
+    },
+    {
+        "id": 333,
+        "word": "Microwave",
+        "phonetics": "/ˈmaɪ.krə.weɪv/",
+        "type": "noun",
+        "meaning": "An oven that uses microwaves to cook or heat food quickly.",
+        "soundURL": "microwave"
+    },
+    {
+        "id": 334,
+        "word": "Blender",
+        "phonetics": "/ˈblɛn.dər/",
+        "type": "noun",
+        "meaning": "A machine used in kitchens for reducing food to a pulp or fine powder.",
+        "soundURL": "blender"
+    },
+    {
+        "id": 335,
+        "word": "Toaster",
+        "phonetics": "/ˈtoʊ.stɚ/",
+        "type": "noun",
+        "meaning": "An appliance used for toasting bread.",
+        "soundURL": "toaster"
+    },
+    {
+        "id": 336,
+        "word": "Coffee maker",
+        "phonetics": "/ˈkɔː.fi ˈmeɪ.kər/",
+        "type": "noun",
+        "meaning": "A machine for brewing coffee automatically.",
+        "soundURL": "coffeemaker"
+    },
+    {
+        "id": 337,
+        "word": "Kettle",
+        "phonetics": "/ˈkɛt.l̩/",
+        "type": "noun",
+        "meaning": "A metal or plastic container with a handle and spout for boiling water.",
+        "soundURL": "kettle"
+    },
+    {
+        "id": 338,
+        "word": "Mixer",
+        "phonetics": "/ˈmɪks.ɚ/",
+        "type": "noun",
+        "meaning": "A machine or device for mixing ingredients.",
+        "soundURL": "mixer"
+    },
+    {
+        "id": 339,
+        "word": "Food processor",
+        "phonetics": "/fuːd ˈprɑː.ses.ər/",
+        "type": "noun",
+        "meaning": "An electric kitchen appliance used for chopping, mixing, or pureeing foods.",
+        "soundURL": "foodprocessor"
+    },
+    {
+        "id": 340,
+        "word": "Juicer",
+        "phonetics": "/ˈdʒuː.sɚ/",
+        "type": "noun",
+        "meaning": "A kitchen appliance for extracting juice from fruit or vegetables.",
+        "soundURL": "juicer"
+    },
+    {
+        "id": 341,
+        "word": "Slow cooker",
+        "phonetics": "/sloʊ ˈkʊk.ər/",
+        "type": "noun",
+        "meaning": "A countertop electrical cooking appliance that maintains a relatively low temperature compared to other cooking methods, allowing unattended cooking for many hours.",
+        "soundURL": "slowcooker"
+    },
+    {
+        "id": 342,
+        "word": "Rice cooker",
+        "phonetics": "/raɪs ˈkʊk.ər/",
+        "type": "noun",
+        "meaning": "An electric kitchen appliance used to automate and simplify the process of cooking rice.",
+        "soundURL": "ricecooker"
+    },
+    {
+        "id": 343,
+        "word": "Pressure cooker",
+        "phonetics": "/ˈprɛʃ.ər ˈkʊk.ər/",
+        "type": "noun",
+        "meaning": "A sealed pot with a valve that controls the steam pressure inside, used for cooking food quickly.",
+        "soundURL": "pressurecooker"
+    },
+    {
+        "id": 344,
+        "word": "Air fryer",
+        "phonetics": "/ɛr ˈfraɪ.ər/",
+        "type": "noun",
+        "meaning": "A kitchen appliance that cooks by circulating hot air around the food using the convection mechanism.",
+        "soundURL": "airfryer"
+    },
+    {
+        "id": 345,
+        "word": "Grill",
+        "phonetics": "/ɡrɪl/",
+        "type": "noun",
+        "meaning": "A device or surface for cooking food, consisting of parallel metal bars or a rack.",
+        "soundURL": "grill"
+    },
+    {
+        "id": 346,
+        "word": "Waffle maker",
+        "phonetics": "/ˈwɑː.fl̩ ˈmeɪ.kər/",
+        "type": "noun",
+        "meaning": "A kitchen appliance used for making waffles.",
+        "soundURL": "wafflemaker"
+    },
+    {
+        "id": 347,
+        "word": "Deep fryer",
+        "phonetics": "/diːp ˈfraɪ.ər/",
+        "type": "noun",
+        "meaning": "A kitchen appliance used for deep frying foods.",
+        "soundURL": "deepfryer"
+    },
+    {
+        "id": 348,
+        "word": "Electric kettle",
+        "phonetics": "/ɪˈlɛk.trɪk ˈkɛt.l̩/",
+        "type": "noun",
+        "meaning": "A kettle with an electric heating element for boiling water.",
+        "soundURL": "electrickettle"
+    },
+    {
+        "id": 349,
+        "word": "Food steamer",
+        "phonetics": "/fuːd ˈstiː.mər/",
+        "type": "noun",
+        "meaning": "An appliance used to cook food with steam.",
+        "soundURL": "foodsteamer"
+    },
+    {
+        "id": 350,
+        "word": "Hand mixer",
+        "phonetics": "/hænd ˈmɪks.ɚ/",
+        "type": "noun",
+        "meaning": "A handheld kitchen appliance used for mixing ingredients.",
+        "soundURL": "handmixer"
+    },
+    {
+        "id": 351,
+        "word": "Spoon",
+        "phonetics": "/spuːn/",
+        "type": "noun",
+        "meaning": "An eating or cooking implement consisting of a small, shallow oval or round bowl on a long handle.",
+        "soundURL": "spoon"
+    },
+    {
+        "id": 352,
+        "word": "Fork",
+        "phonetics": "/fɔːrk/",
+        "type": "noun",
+        "meaning": "An implement with two or more prongs used for eating or serving food.",
+        "soundURL": "fork"
+    },
+    {
+        "id": 353,
+        "word": "Knife",
+        "phonetics": "/naɪf/",
+        "type": "noun",
+        "meaning": "An instrument composed of a blade fixed into a handle, used for cutting or as a weapon.",
+        "soundURL": "knife"
+    },
+    {
+        "id": 354,
+        "word": "Plate",
+        "phonetics": "/pleɪt/",
+        "type": "noun",
+        "meaning": "A flat dish, typically circular and made of china, glass, or plastic, used for serving food.",
+        "soundURL": "plate"
+    },
+    {
+        "id": 355,
+        "word": "Bowl",
+        "phonetics": "/boʊl/",
+        "type": "noun",
+        "meaning": "A round, deep dish or basin used for serving food or holding liquids.",
+        "soundURL": "bowl"
+    },
+    {
+        "id": 356,
+        "word": "Cup",
+        "phonetics": "/kʌp/",
+        "type": "noun",
+        "meaning": "A small container for drinking from, typically cylindrical and with a handle.",
+        "soundURL": "cup"
+    },
+    {
+        "id": 357,
+        "word": "Mug",
+        "phonetics": "/mʌɡ/",
+        "type": "noun",
+        "meaning": "A large cup, typically cylindrical and with a handle and used without a saucer.",
+        "soundURL": "mug"
+    },
+    {
+        "id": 358,
+        "word": "Saucer",
+        "phonetics": "/ˈsɔː.sər/",
+        "type": "noun",
+        "meaning": "A small, shallow, round dish that holds a cup or a small portion of food.",
+        "soundURL": "saucer"
+    },
+    {
+        "id": 359,
+        "word": "Napkin",
+        "phonetics": "/ˈnæp.kɪn/",
+        "type": "noun",
+        "meaning": "A square piece of cloth or paper used at a meal to wipe the fingers or lips and to protect garments.",
+        "soundURL": "napkin"
+    },
+    {
+        "id": 360,
+        "word": "Tray",
+        "phonetics": "/treɪ/",
+        "type": "noun",
+        "meaning": "A flat, shallow container with a raised rim, used for carrying food, drink, or other items.",
+        "soundURL": "tray"
+    },
+    {
+        "id": 361,
+        "word": "Glass",
+        "phonetics": "/ɡlæs/",
+        "type": "noun",
+        "meaning": "A hard, brittle substance, typically transparent or translucent, made by fusing sand with soda, lime, and sometimes other ingredients and cooling rapidly.",
+        "soundURL": "glass"
+    },
+    {
+        "id": 362,
+        "word": "Pitcher",
+        "phonetics": "/ˈpɪtʃ.ər/",
+        "type": "noun",
+        "meaning": "A large container, typically earthenware, glass, or plastic, with a handle and a lip, used for holding and pouring liquids.",
+        "soundURL": "pitcher"
+    },
+    {
+        "id": 363,
+        "word": "Bottle",
+        "phonetics": "/ˈbɑː.t̬əl/",
+        "type": "noun",
+        "meaning": "A container, typically made of glass or plastic and with a narrow neck, used for storing drinks or other liquids.",
+        "soundURL": "bottle"
+    },
+    {
+        "id": 364,
+        "word": "Mason jar",
+        "phonetics": "/ˈmeɪ.sən dʒɑːr/",
+        "type": "noun",
+        "meaning": "A glass jar with a wide mouth and screw top, used for preserving fruit and vegetables.",
+        "soundURL": "masonjar"
+    },
+    {
+        "id": 365,
+        "word": "Tumbler",
+        "phonetics": "/ˈtʌm.blər/",
+        "type": "noun",
+        "meaning": "A flat-bottomed drinking glass without a handle or stem.",
+        "soundURL": "tumbler"
+    },
+    {
+        "id": 366,
+        "word": "Wine glass",
+        "phonetics": "/waɪn ɡlæs/",
+        "type": "noun",
+        "meaning": "A glass with a bowl and foot, used for drinking wine.",
+        "soundURL": "wineglass"
+    },
+    {
+        "id": 367,
+        "word": "Shot glass",
+        "phonetics": "/ʃɑːt ɡlæs/",
+        "type": "noun",
+        "meaning": "A small glass used for measuring or drinking alcoholic liquor.",
+        "soundURL": "shotglass"
+    },
+    {
+        "id": 368,
+        "word": "Flute",
+        "phonetics": "/fluːt/",
+        "type": "noun",
+        "meaning": "A tall, narrow wineglass.",
+        "soundURL": "flute"
+    },
+    {
+        "id": 369,
+        "word": "Carefully",
+        "type": "Adverb",
+        "phonetics": "/ˈkɛə.fəl.i/",
+        "meaning": "With caution; in a careful manner.",
+        "soundURL": "carefully"
+    },
+    {
+        "id": 370,
+        "word": "Teapot",
+        "phonetics": "/ˈtiː.pɑːt/",
+        "type": "noun",
+        "meaning": "A container with a lid, spout, and handle, in which tea is made and from which it is poured.",
+        "soundURL": "teapot"
+    },
+    {
+        "id": 371,
+        "word": "Run",
+        "phonetics": "/rʌn/",
+        "type": "verb",
+        "meaning": "To move with rapid steps, faster than walking.",
+        "soundURL": "run"
+    },
+    {
+        "id": 372,
+        "word": "Walk",
+        "phonetics": "/wɔːk/",
+        "type": "verb",
+        "meaning": "To move at a regular pace by lifting and setting down each foot in turn.",
+        "soundURL": "walk"
+    },
+    {
+        "id": 373,
+        "word": "Eat",
+        "phonetics": "/iːt/",
+        "type": "verb",
+        "meaning": "To put food into the mouth and chew and swallow it.",
+        "soundURL": "eat"
+    },
+    {
+        "id": 374,
+        "word": "Drink",
+        "phonetics": "/drɪŋk/",
+        "type": "verb",
+        "meaning": "To take liquid into the mouth and swallow.",
+        "soundURL": "drink"
+    },
+    {
+        "id": 375,
+        "word": "Sleep",
+        "phonetics": "/sliːp/",
+        "type": "verb",
+        "meaning": "To rest in a state of reduced consciousness and reduced metabolism.",
+        "soundURL": "sleep"
+    },
+    {
+        "id": 376,
+        "word": "Talk",
+        "phonetics": "/tɔːk/",
+        "type": "verb",
+        "meaning": "To speak in order to give information or express ideas or feelings.",
+        "soundURL": "talk"
+    },
+    {
+        "id": 377,
+        "word": "Listen",
+        "phonetics": "/ˈlɪs.ən/",
+        "type": "verb",
+        "meaning": "To give attention with the ear; attend closely for the purpose of hearing.",
+        "soundURL": "listen"
+    },
+    {
+        "id": 378,
+        "word": "Read",
+        "phonetics": "/riːd/",
+        "type": "verb",
+        "meaning": "To look at and comprehend the meaning of written or printed matter.",
+        "soundURL": "read"
+    },
+    {
+        "id": 379,
+        "word": "Write",
+        "phonetics": "/raɪt/",
+        "type": "verb",
+        "meaning": "To mark letters, words, or other symbols on a surface, typically paper, with a pen, pencil, or similar implement.",
+        "soundURL": "write"
+    },
+    {
+        "id": 380,
+        "word": "Jump",
+        "phonetics": "/dʒʌmp/",
+        "type": "verb",
+        "meaning": "To push oneself off a surface and into the air by using the muscles in one's legs and feet.",
+        "soundURL": "jump"
+    },
+    {
+        "id": 381,
+        "word": "Sing",
+        "phonetics": "/sɪŋ/",
+        "type": "verb",
+        "meaning": "To produce musical sounds with the voice.",
+        "soundURL": "sing"
+    },
+    {
+        "id": 382,
+        "word": "Dance",
+        "phonetics": "/dæns/",
+        "type": "verb",
+        "meaning": "To move rhythmically to music, typically following a set sequence of steps.",
+        "soundURL": "dance"
+    },
+    {
+        "id": 383,
+        "word": "Play",
+        "phonetics": "/pleɪ/",
+        "type": "verb",
+        "meaning": "To engage in activity for enjoyment and recreation rather than a serious or practical purpose.",
+        "soundURL": "play"
+    },
+    {
+        "id": 384,
+        "word": "Work",
+        "phonetics": "/wɜːrk/",
+        "type": "verb",
+        "meaning": "To engage in physical or mental activity in order to achieve a purpose or result.",
+        "soundURL": "work"
+    },
+    {
+        "id": 385,
+        "word": "Study",
+        "phonetics": "/ˈstʌd.i/",
+        "type": "verb",
+        "meaning": "To devote time and attention to acquiring knowledge on an academic subject.",
+        "soundURL": "study"
+    },
+    {
+        "id": 386,
+        "word": "Think",
+        "phonetics": "/θɪŋk/",
+        "type": "verb",
+        "meaning": "To have a particular opinion, belief, or idea about someone or something.",
+        "soundURL": "think"
+    },
+    {
+        "id": 387,
+        "word": "Smile",
+        "phonetics": "/smaɪl/",
+        "type": "verb",
+        "meaning": "To form one's features into a pleased, kind, or amused expression, typically with the corners of the mouth turned up and the front teeth exposed.",
+        "soundURL": "smile"
+    },
+    {
+        "id": 388,
+        "word": "Cry",
+        "phonetics": "/kraɪ/",
+        "type": "verb",
+        "meaning": "To shed tears, typically as an expression of distress, pain, or sorrow.",
+        "soundURL": "cry"
+    },
+    {
+        "id": 389,
+        "word": "Laugh",
+        "phonetics": "/læf/",
+        "type": "verb",
+        "meaning": "To make the spontaneous sounds and movements of the face and body that are the instinctive expressions of lively amusement and sometimes also of contempt or derision.",
+        "soundURL": "laugh"
+    },
+    {
+        "id": 390,
+        "word": "Dream",
+        "phonetics": "/driːm/",
+        "type": "verb",
+        "meaning": "To experience dreams during sleep.",
+        "soundURL": "dream"
+    },
+    {
+        "id": 391,
+        "word": "Cook",
+        "phonetics": "/kʊk/",
+        "type": "verb",
+        "meaning": "To prepare food by combining, mixing, and heating ingredients.",
+        "soundURL": "cook"
+    },
+    {
+        "id": 392,
+        "word": "Clean",
+        "phonetics": "/kliːn/",
+        "type": "verb",
+        "meaning": "To make something free of dirt, marks, or mess, especially by washing, wiping, or brushing.",
+        "soundURL": "clean"
+    },
+    {
+        "id": 393,
+        "word": "Lift",
+        "type": "Verb",
+        "phonetics": "/lɪft/",
+        "meaning": "To raise to a higher position or level by exerting force upward.",
+        "soundURL": "lift"
+    },
+    {
+        "id": 394,
+        "word": "Fly",
+        "phonetics": "/flaɪ/",
+        "type": "verb",
+        "meaning": "Move through the air using wings.",
+        "soundURL": "fly"
+    },
+    {
+        "id": 395,
+        "word": "Eagerly",
+        "type": "Adverb",
+        "phonetics": "/ˈiː.ɡə.li/",
+        "meaning": "With enthusiasm or desire.",
+        "soundURL": "eagerly"
+    },
+    {
+        "id": 396,
+        "word": "Speak",
+        "phonetics": "/spiːk/",
+        "type": "verb",
+        "meaning": "To communicate or converse verbally.",
+        "soundURL": "speak"
+    },
+    {
+        "id": 397,
+        "word": "Watch",
+        "phonetics": "/wɑːtʃ/",
+        "type": "verb",
+        "meaning": "To look at or observe attentively over a period of time.",
+        "soundURL": "watch"
+    },
+    {
+        "id": 398,
+        "word": "Within",
+        "type": "Preposition",
+        "phonetics": "/wɪˈðɪn/",
+        "meaning": "Inside (something).",
+        "soundURL": "within"
+    },
+    {
+        "id": 399,
+        "word": "Burger",
+        "type": "Noun",
+        "phonetics": "/ˈbɜːr.ɡər/",
+        "meaning": "A flat round cake of minced beef that is fried or grilled and typically served in a bread roll; a hamburger.",
+        "soundURL": "burger"
+    },
+    {
+        "id": 400,
+        "word": "Hope",
+        "phonetics": "/həʊp/",
+        "type": "verb",
+        "meaning": "Want something to happen or be the case.",
+        "soundURL": "hope"
+    },
+    {
+        "id": 401,
+        "word": "Tree",
+        "phonetics": "/triː/",
+        "type": "noun",
+        "meaning": "A woody perennial plant, typically having a single stem or trunk growing to a considerable height and bearing lateral branches at some distance from the ground.",
+        "soundURL": "tree"
+    },
+    {
+        "id": 402,
+        "word": "Flower",
+        "phonetics": "/ˈflaʊər/",
+        "type": "noun",
+        "meaning": "The seed-bearing part of a plant, consisting of reproductive organs that are typically surrounded by a brightly colored corolla (petals) and a green calyx (sepals).",
+        "soundURL": "flower"
+    },
+    {
+        "id": 403,
+        "word": "River",
+        "phonetics": "/ˈrɪvər/",
+        "type": "noun",
+        "meaning": "A large natural stream of water flowing in a channel to the sea, a lake, or another such stream.",
+        "soundURL": "river"
+    },
+    {
+        "id": 404,
+        "word": "Mountain",
+        "phonetics": "/ˈmaʊntən/",
+        "type": "noun",
+        "meaning": "A large natural elevation of the earth's surface rising abruptly from the surrounding level; a large steep hill.",
+        "soundURL": "mountain"
+    },
+    {
+        "id": 405,
+        "word": "Lake",
+        "phonetics": "/leɪk/",
+        "type": "noun",
+        "meaning": "A large body of water surrounded by land.",
+        "soundURL": "lake"
+    },
+    {
+        "id": 406,
+        "word": "Sky",
+        "phonetics": "/skaɪ/",
+        "type": "noun",
+        "meaning": "The region of the atmosphere and outer space seen from the earth.",
+        "soundURL": "sky"
+    },
+    {
+        "id": 407,
+        "word": "Sun",
+        "phonetics": "/sʌn/",
+        "type": "noun",
+        "meaning": "The star around which the earth orbits.",
+        "soundURL": "sun"
+    },
+    {
+        "id": 408,
+        "word": "Moon",
+        "phonetics": "/muːn/",
+        "type": "noun",
+        "meaning": "The natural satellite of the earth.",
+        "soundURL": "moon"
+    },
+    {
+        "id": 409,
+        "word": "Beach",
+        "phonetics": "/biːtʃ/",
+        "type": "noun",
+        "meaning": "A pebbly or sandy shore, especially by the ocean between high- and low-water marks.",
+        "soundURL": "beach"
+    },
+    {
+        "id": 410,
+        "word": "Ocean",
+        "phonetics": "/ˈoʊʃən/",
+        "type": "noun",
+        "meaning": "A very large expanse of sea, in particular, each of the main areas into which the sea is divided geographically.",
+        "soundURL": "ocean"
+    },
+    {
+        "id": 411,
+        "word": "Forest",
+        "phonetics": "/ˈfɔːrɪst/",
+        "type": "noun",
+        "meaning": "A large area covered chiefly with trees and undergrowth.",
+        "soundURL": "forest"
+    },
+    {
+        "id": 412,
+        "word": "Park",
+        "phonetics": "/pɑːrk/",
+        "type": "noun",
+        "meaning": "A large public green area in a town, used for recreation.",
+        "soundURL": "park"
+    },
+    {
+        "id": 413,
+        "word": "Stream",
+        "phonetics": "/striːm/",
+        "type": "noun",
+        "meaning": "A small, narrow river.",
+        "soundURL": "stream"
+    },
+    {
+        "id": 414,
+        "word": "Pond",
+        "phonetics": "/pɑːnd/",
+        "type": "noun",
+        "meaning": "A small body of still water formed naturally or by hollowing or embanking.",
+        "soundURL": "pond"
+    },
+    {
+        "id": 415,
+        "word": "Valley",
+        "phonetics": "/ˈvæli/",
+        "type": "noun",
+        "meaning": "A low area of land between hills or mountains, typically with a river or stream flowing through it.",
+        "soundURL": "valley"
+    },
+    {
+        "id": 416,
+        "word": "Waterfall",
+        "phonetics": "/ˈwɔː.t̬ɚ.fɔːl/",
+        "type": "noun",
+        "meaning": "A cascade of water falling from a height, formed when a river or stream flows over a precipice or steep incline.",
+        "soundURL": "waterfall"
+    },
+    {
+        "id": 417,
+        "word": "Cave",
+        "phonetics": "/keɪv/",
+        "type": "noun",
+        "meaning": "A large underground chamber, typically of natural origin, in a hillside or cliff.",
+        "soundURL": "cave"
+    },
+    {
+        "id": 418,
+        "word": "Desert",
+        "phonetics": "/ˈdez.ɚt/",
+        "type": "noun",
+        "meaning": "A dry, barren area of land, especially one covered with sand, that is characteristically desolate, waterless, and without vegetation.",
+        "soundURL": "desert"
+    },
+    {
+        "id": 419,
+        "word": "Rainforest",
+        "phonetics": "/ˈreɪnˌfɔːrɪst/",
+        "type": "noun",
+        "meaning": "A luxuriant, dense forest rich in biodiversity, found typically in tropical areas with consistently heavy rainfall.",
+        "soundURL": "rainforest"
+    },
+    {
+        "id": 420,
+        "word": "Mountain Range",
+        "phonetics": "/ˈmaʊntən reɪndʒ/",
+        "type": "noun",
+        "meaning": "A series of connected mountains.",
+        "soundURL": "mountainrange"
+    },
+    {
+        "id": 421,
+        "word": "Volcano",
+        "phonetics": "/vɑːlˈkeɪ.noʊ/",
+        "type": "noun",
+        "meaning": "A mountain or hill, typically conical, having a crater or vent through which lava, rock fragments, hot vapor, and gas are being or have been erupted from the earth's crust.",
+        "soundURL": "volcano"
+    },
+    {
+        "id": 422,
+        "word": "Tropical",
+        "phonetics": "/ˈtrɑː.pɪ.kəl/",
+        "type": "adjective",
+        "meaning": "Of, typical of, or peculiar to the tropics.",
+        "soundURL": "tropical"
+    },
+    {
+        "id": 423,
+        "word": "Tsunami",
+        "phonetics": "/tsuˈnɑː.mi/",
+        "type": "noun",
+        "meaning": "A long high sea wave caused by an earthquake, submarine landslide, or other disturbance.",
+        "soundURL": "tsunami"
+    },
+    {
+        "id": 424,
+        "word": "Thunderstorm",
+        "phonetics": "/ˈθʌn.dɚ.stɔːrm/",
+        "type": "noun",
+        "meaning": "A storm with thunder and lightning and typically also heavy rain or hail.",
+        "soundURL": "thunderstorm"
+    },
+    {
+        "id": 425,
+        "word": "Hurricane",
+        "phonetics": "/ˈhɝː.ɪ.kən/",
+        "type": "noun",
+        "meaning": "A storm with a violent wind, in particular a tropical cyclone in the Caribbean.",
+        "soundURL": "hurricane"
+    },
+    {
+        "id": 426,
+        "word": "Rainbow",
+        "phonetics": "/ˈreɪn.boʊ/",
+        "type": "noun",
+        "meaning": "An arc of colored light in the sky caused by refraction of the sun's rays by rain.",
+        "soundURL": "rainbow"
+    },
+    {
+        "id": 427,
+        "word": "Flood",
+        "phonetics": "/flʌd/",
+        "type": "noun",
+        "meaning": "An overflow of a large amount of water beyond its normal limits, especially over what is normally dry land.",
+        "soundURL": "flood"
+    },
+    {
+        "id": 428,
+        "word": "Storm",
+        "phonetics": "/stɔːrm/",
+        "type": "noun",
+        "meaning": "A violent disturbance of the atmosphere with strong winds and usually rain, thunder, lightning, or snow.",
+        "soundURL": "storm"
+    },
+    {
+        "id": 429,
+        "word": "Sunrise",
+        "phonetics": "/ˈsʌn.raɪz/",
+        "type": "noun",
+        "meaning": "The time in the morning when the sun appears or full daylight arrives.",
+        "soundURL": "sunrise"
+    },
+    {
+        "id": 430,
+        "word": "Sunset",
+        "phonetics": "/ˈsʌn.set/",
+        "type": "noun",
+        "meaning": "The time in the evening when the sun disappears or daylight fades.",
+        "soundURL": "sunset"
+    },
+    {
+        "id": 431,
+        "word": "Landscape",
+        "phonetics": "/ˈlændˌskeɪp/",
+        "type": "noun",
+        "meaning": "All the visible features of an area of countryside or land, often considered in terms of their aesthetic appeal.",
+        "soundURL": "landscape"
+    },
+    {
+        "id": 432,
+        "word": "Nature",
+        "phonetics": "/ˈneɪ.tʃər/",
+        "type": "noun",
+        "meaning": "The phenomena of the physical world collectively, including plants, animals, the landscape, and other features and products of the earth, as opposed to humans or human creations.",
+        "soundURL": "nature"
+    },
+    {
+        "id": 433,
+        "word": "City",
+        "phonetics": "/ˈsɪti/",
+        "type": "noun",
+        "meaning": "A large town.",
+        "soundURL": "city"
+    },
+    {
+        "id": 434,
+        "word": "Street",
+        "phonetics": "/striːt/",
+        "type": "noun",
+        "meaning": "A public road in a city or town, typically with houses and buildings on one or both sides.",
+        "soundURL": "street"
+    },
+    {
+        "id": 435,
+        "word": "Building",
+        "phonetics": "/ˈbɪldɪŋ/",
+        "type": "noun",
+        "meaning": "A structure with a roof and walls, such as a house, school, store, or factory.",
+        "soundURL": "building"
+    },
+    {
+        "id": 436,
+        "word": "Traffic",
+        "phonetics": "/ˈtræfɪk/",
+        "type": "noun",
+        "meaning": "Vehicles moving on a road or public highway.",
+        "soundURL": "traffic"
+    },
+    {
+        "id": 437,
+        "word": "Road",
+        "phonetics": "/roʊd/",
+        "type": "noun",
+        "meaning": "A wide way leading from one place to another, especially one with a specially prepared surface that vehicles can use.",
+        "soundURL": "road"
+    },
+    {
+        "id": 438,
+        "word": "Intersection",
+        "phonetics": "/ˌɪn.t̬ɚˈsek.ʃən/",
+        "type": "noun",
+        "meaning": "A place where two or more roads meet, especially when at least one is a major highway; junction.",
+        "soundURL": "intersection"
+    },
+    {
+        "id": 439,
+        "word": "Sidewalk",
+        "phonetics": "/ˈsaɪd.wɑːk/",
+        "type": "noun",
+        "meaning": "A paved path for pedestrians at the side of a road.",
+        "soundURL": "sidewalk"
+    },
+    {
+        "id": 440,
+        "word": "Park",
+        "phonetics": "/pɑːrk/",
+        "type": "noun",
+        "meaning": "A large public green area in a town, used for recreation.",
+        "soundURL": "park"
+    },
+    {
+        "id": 441,
+        "word": "Bridge",
+        "phonetics": "/brɪdʒ/",
+        "type": "noun",
+        "meaning": "A structure carrying a road, path, railway, etc. across a river, road, or other obstacle.",
+        "soundURL": "bridge"
+    },
+    {
+        "id": 442,
+        "word": "Skyline",
+        "phonetics": "/ˈskaɪ.laɪn/",
+        "type": "noun",
+        "meaning": "An outline of land and buildings defined against the sky.",
+        "soundURL": "skyline"
+    },
+    {
+        "id": 443,
+        "word": "Neighborhood",
+        "phonetics": "/ˈneɪ.bər.hʊd/",
+        "type": "noun",
+        "meaning": "A district or community within a town or city.",
+        "soundURL": "neighborhood"
+    },
+    {
+        "id": 444,
+        "word": "Avenue",
+        "phonetics": "/ˈæv.ə.nuː/",
+        "type": "noun",
+        "meaning": "A wide road in a city, typically having trees at regular intervals along its sides.",
+        "soundURL": "avenue"
+    },
+    {
+        "id": 445,
+        "word": "Square",
+        "phonetics": "/skweər/",
+        "type": "noun",
+        "meaning": "An open area or plaza in a city or town, often bordered by buildings or other structures.",
+        "soundURL": "square"
+    },
+    {
+        "id": 446,
+        "word": "Skyscraper",
+        "phonetics": "/ˈskaɪˌskreɪ.pər/",
+        "type": "noun",
+        "meaning": "A very tall building of many stories.",
+        "soundURL": "skyscraper"
+    },
+    {
+        "id": 447,
+        "word": "Traffic light",
+        "phonetics": "/ˈtræfɪk laɪt/",
+        "type": "noun",
+        "meaning": "A set of automatically operated colored lights, typically red, amber, and green, for controlling traffic at road junctions and crosswalks.",
+        "soundURL": "trafficlight"
+    },
+    {
+        "id": 448,
+        "word": "Subway",
+        "phonetics": "/ˈsʌb.weɪ/",
+        "type": "noun",
+        "meaning": "An underground electric railroad.",
+        "soundURL": "subway"
+    },
+    {
+        "id": 449,
+        "word": "Bus",
+        "phonetics": "/bʌs/",
+        "type": "noun",
+        "meaning": "A large motor vehicle carrying passengers by road, typically one serving the public on a fixed route and for a fare.",
+        "soundURL": "bus"
+    },
+    {
+        "id": 450,
+        "word": "Taxi",
+        "phonetics": "/ˈtæk.si/",
+        "type": "noun",
+        "meaning": "A car licensed to transport passengers in return for payment of a fare.",
+        "soundURL": "taxi"
+    },
+    {
+        "id": 451,
+        "word": "Train",
+        "phonetics": "/treɪn/",
+        "type": "noun",
+        "meaning": "A series of railroad cars moved as a unit by a locomotive or by integral motors.",
+        "soundURL": "train"
+    },
+    {
+        "id": 452,
+        "word": "Highway",
+        "phonetics": "/ˈhaɪ.weɪ/",
+        "type": "noun",
+        "meaning": "A main road, especially one connecting major towns or cities.",
+        "soundURL": "highway"
+    },
+    {
+        "id": 453,
+        "word": "Hobby",
+        "phonetics": "/ˈhɑːbi/",
+        "type": "noun",
+        "meaning": "An activity done regularly in one's leisure time for pleasure.",
+        "soundURL": "hobby"
+    },
+    {
+        "id": 454,
+        "word": "Reading",
+        "phonetics": "/ˈriːdɪŋ/",
+        "type": "noun",
+        "meaning": "The action or skill of reading written or printed matter silently or aloud.",
+        "soundURL": "reading"
+    },
+    {
+        "id": 455,
+        "word": "Writing",
+        "phonetics": "/ˈraɪtɪŋ/",
+        "type": "noun",
+        "meaning": "The activity or skill of marking coherent words on paper and composing text.",
+        "soundURL": "writing"
+    },
+    {
+        "id": 456,
+        "word": "Drawing",
+        "phonetics": "/ˈdrɔːɪŋ/",
+        "type": "noun",
+        "meaning": "The action or skill of producing an image on a surface by making lines and marks, especially with a pen, pencil, or brush.",
+        "soundURL": "drawing"
+    },
+    {
+        "id": 457,
+        "word": "Painting",
+        "phonetics": "/ˈpeɪntɪŋ/",
+        "type": "noun",
+        "meaning": "The process or art of using paint, in a picture, as a protective coating, or as decoration.",
+        "soundURL": "painting"
+    },
+    {
+        "id": 458,
+        "word": "Photography",
+        "phonetics": "/fəˈtɑː.ɡrə.fi/",
+        "type": "noun",
+        "meaning": "The art or practice of taking and processing photographs.",
+        "soundURL": "photography"
+    },
+    {
+        "id": 459,
+        "word": "Music",
+        "phonetics": "/ˈmjuː.zɪk/",
+        "type": "noun",
+        "meaning": "Vocal or instrumental sounds (or both) combined in such a way as to produce beauty of form, harmony, and expression of emotion.",
+        "soundURL": "music"
+    },
+    {
+        "id": 460,
+        "word": "Dancing",
+        "phonetics": "/ˈdænsɪŋ/",
+        "type": "noun",
+        "meaning": "The activity of moving rhythmically to music, typically following a set sequence of steps.",
+        "soundURL": "dancing"
+    },
+    {
+        "id": 461,
+        "word": "Gaming",
+        "phonetics": "/ˈɡeɪ.mɪŋ/",
+        "type": "noun",
+        "meaning": "The action or practice of playing video games.",
+        "soundURL": "gaming"
+    },
+    {
+        "id": 462,
+        "word": "Cooking",
+        "phonetics": "/ˈkʊkɪŋ/",
+        "type": "noun",
+        "meaning": "The practice or skill of preparing food by combining, mixing, and heating ingredients.",
+        "soundURL": "cooking"
+    },
+    {
+        "id": 463,
+        "word": "Baking",
+        "phonetics": "/ˈbeɪ.kɪŋ/",
+        "type": "noun",
+        "meaning": "The process of making or cooking food by baking it in an oven.",
+        "soundURL": "baking"
+    },
+    {
+        "id": 464,
+        "word": "Fishing",
+        "phonetics": "/ˈfɪʃ.ɪŋ/",
+        "type": "noun",
+        "meaning": "The activity of catching fish, either for food or as a sport.",
+        "soundURL": "fishing"
+    },
+    {
+        "id": 465,
+        "word": "Hiking",
+        "phonetics": "/ˈhaɪ.kɪŋ/",
+        "type": "noun",
+        "meaning": "The activity of going for long walks, especially in the countryside.",
+        "soundURL": "hiking"
+    },
+    {
+        "id": 466,
+        "word": "Camping",
+        "phonetics": "/ˈkæm.pɪŋ/",
+        "type": "noun",
+        "meaning": "The activity of spending a vacation living in a camp, tent, or camper.",
+        "soundURL": "camping"
+    },
+    {
+        "id": 467,
+        "word": "Traveling",
+        "phonetics": "/ˈtræv.əlɪŋ/",
+        "type": "noun",
+        "meaning": "The action of traveling, typically for leisure, education, or business purposes.",
+        "soundURL": "traveling"
+    },
+    {
+        "id": 468,
+        "word": "Swimming",
+        "phonetics": "/ˈswɪm.ɪŋ/",
+        "type": "noun",
+        "meaning": "The sport or activity of moving through water by moving the body or parts of the body.",
+        "soundURL": "swimming"
+    },
+    {
+        "id": 469,
+        "word": "Yoga",
+        "phonetics": "/ˈjoʊ.ɡə/",
+        "type": "noun",
+        "meaning": "A Hindu spiritual and ascetic discipline, a part of which, including breath control, simple meditation, and the adoption of specific bodily postures, is widely practiced for health and relaxation.",
+        "soundURL": "yoga"
+    },
+    {
+        "id": 470,
+        "word": "Meditation",
+        "phonetics": "/ˌmed.ɪˈteɪ.ʃən/",
+        "type": "noun",
+        "meaning": "The practice of thinking deeply or focusing one's mind for a period of time, in silence or with the aid of chanting, for religious or spiritual purposes or as a method of relaxation.",
+        "soundURL": "meditation"
+    },
+    {
+        "id": 471,
+        "word": "Gardening",
+        "phonetics": "/ˈɡɑːrdnɪŋ/",
+        "type": "noun",
+        "meaning": "The practice of growing plants in and around one's home, typically for food or ornamental purposes.",
+        "soundURL": "gardening"
+    },
+    {
+        "id": 472,
+        "word": "Apple",
+        "phonetics": "/ˈæp.əl/",
+        "type": "noun",
+        "meaning": "A round fruit with red or green skin and a crisp texture.",
+        "soundURL": "apple"
+    },
+    {
+        "id": 473,
+        "word": "Banana",
+        "phonetics": "/bəˈnæn.ə/",
+        "type": "noun",
+        "meaning": "A long curved fruit that grows in clusters and has soft pulpy flesh and yellow skin when ripe.",
+        "soundURL": "banana"
+    },
+    {
+        "id": 474,
+        "word": "Quickly",
+        "type": "Adverb",
+        "phonetics": "/ˈkwɪkli/",
+        "meaning": "At a fast speed; rapidly.",
+        "soundURL": "quickly"
+    },
+    {
+        "id": 475,
+        "word": "Grapes",
+        "phonetics": "/ɡreɪps/",
+        "type": "noun",
+        "meaning": "Small round or oval fruit that grows in clusters on a vine and is eaten as a food.",
+        "soundURL": "grapes"
+    },
+    {
+        "id": 476,
+        "word": "Strawberry",
+        "phonetics": "/ˈstrɔːˌber.i/",
+        "type": "noun",
+        "meaning": "A sweet soft red fruit with a seed-studded surface.",
+        "soundURL": "strawberry"
+    },
+    {
+        "id": 477,
+        "word": "Watermelon",
+        "phonetics": "/ˈwɑː.t̬ɚˌmel.ən/",
+        "type": "noun",
+        "meaning": "A large, round fruit with hard green skin, sweet red flesh, and many seeds.",
+        "soundURL": "watermelon"
+    },
+    {
+        "id": 478,
+        "word": "Tomato",
+        "phonetics": "/təˈmeɪ.toʊ/",
+        "type": "noun",
+        "meaning": "A glossy red, or occasionally yellow, pulpy edible fruit that is typically eaten as a vegetable or in salad.",
+        "soundURL": "tomato"
+    },
+    {
+        "id": 479,
+        "word": "Carrot",
+        "phonetics": "/ˈkær.ət/",
+        "type": "noun",
+        "meaning": "A tapering orange-colored root eaten as a vegetable.",
+        "soundURL": "carrot"
+    },
+    {
+        "id": 480,
+        "word": "Potato",
+        "phonetics": "/pəˈteɪ.toʊ/",
+        "type": "noun",
+        "meaning": "A starchy plant tuber that is one of the most important food crops, cooked and eaten as a vegetable.",
+        "soundURL": "potato"
+    },
+    {
+        "id": 481,
+        "word": "Broccoli",
+        "phonetics": "/ˈbrɑː.kəl.i/",
+        "type": "noun",
+        "meaning": "A green vegetable that is a type of cabbage.",
+        "soundURL": "broccoli"
+    },
+    {
+        "id": 482,
+        "word": "Cucumber",
+        "phonetics": "/ˈkjuː.kʌm.bɚ/",
+        "type": "noun",
+        "meaning": "A long, green-skinned fruit with watery flesh, usually eaten raw in salads or pickled.",
+        "soundURL": "cucumber"
+    },
+    {
+        "id": 483,
+        "word": "Lettuce",
+        "phonetics": "/ˈlet̬.əs/",
+        "type": "noun",
+        "meaning": "A leafy green vegetable used in salads and sandwiches.",
+        "soundURL": "lettuce"
+    },
+    {
+        "id": 484,
+        "word": "Onion",
+        "phonetics": "/ˈʌn.jən/",
+        "type": "noun",
+        "meaning": "An edible bulb with a pungent taste and smell, composed of several concentric layers.",
+        "soundURL": "onion"
+    },
+    {
+        "id": 485,
+        "word": "Garlic",
+        "phonetics": "/ˈɡɑːr.lɪk/",
+        "type": "noun",
+        "meaning": "A strong-smelling pungent-tasting bulb, used as a flavoring in cooking and in herbal medicine.",
+        "soundURL": "garlic"
+    },
+    {
+        "id": 486,
+        "word": "Pepper",
+        "phonetics": "/ˈpep.ɚ/",
+        "type": "noun",
+        "meaning": "A pungent, hot-tasting powder prepared from dried and ground peppercorns, commonly used as a spice or condiment.",
+        "soundURL": "pepper"
+    },
+    {
+        "id": 487,
+        "word": "Salt",
+        "phonetics": "/sɔːlt/",
+        "type": "noun",
+        "meaning": "A crystalline compound, sodium chloride, which occurs naturally as a mineral and is used in cooking as a seasoning and preservative.",
+        "soundURL": "salt"
+    },
+    {
+        "id": 488,
+        "word": "Sugar",
+        "phonetics": "/ˈʃʊɡ.ɚ/",
+        "type": "noun",
+        "meaning": "A sweet crystalline substance obtained from various plants, especially sugar cane and sugar beet, consisting essentially of sucrose, and used as a sweetener in food and drink.",
+        "soundURL": "sugar"
+    },
+    {
+        "id": 489,
+        "word": "Flour",
+        "phonetics": "/ˈflaʊ.ər/",
+        "type": "noun",
+        "meaning": "A powder obtained by grinding grain, typically wheat, and used to make bread, cakes, and pastry.",
+        "soundURL": "flour"
+    },
+    {
+        "id": 490,
+        "word": "Rice",
+        "phonetics": "/raɪs/",
+        "type": "noun",
+        "meaning": "The starchy seeds of an annual southeast Asian cereal grass, Oryza sativa, grown extensively in warm climates, used for food.",
+        "soundURL": "rice"
+    },
+    {
+        "id": 491,
+        "word": "Pasta",
+        "phonetics": "/ˈpæs.tə/",
+        "type": "noun",
+        "meaning": "Italian-style noodles, made from semolina or wheat flour, typically accompanied by a sauce or other ingredients.",
+        "soundURL": "pasta"
+    },
+    {
+        "id": 492,
+        "word": "Bread",
+        "phonetics": "/bred/",
+        "type": "noun",
+        "meaning": "A staple food made from flour, water, and yeast, mixed together and baked.",
+        "soundURL": "bread"
+    },
+    {
+        "id": 493,
+        "word": "Cheese",
+        "phonetics": "/tʃiːz/",
+        "type": "noun",
+        "meaning": "A food made from the pressed curds of milk.",
+        "soundURL": "cheese"
+    },
+    {
+        "id": 494,
+        "word": "Butter",
+        "phonetics": "/ˈbʌt.ər/",
+        "type": "noun",
+        "meaning": "A pale yellow edible fatty substance made by churning cream and used as a spread or in cooking.",
+        "soundURL": "butter"
+    },
+    {
+        "id": 495,
+        "word": "Egg",
+        "phonetics": "/eɡ/",
+        "type": "noun",
+        "meaning": "An oval or round object laid by a female bird, reptile, fish, or invertebrate, usually containing a developing embryo.",
+        "soundURL": "egg"
+    },
+    {
+        "id": 496,
+        "word": "Milk",
+        "phonetics": "/mɪlk/",
+        "type": "noun",
+        "meaning": "An opaque white fluid rich in fat and protein, secreted by female mammals for the nourishment of their young.",
+        "soundURL": "milk"
+    },
+    {
+        "id": 497,
+        "word": "Curry",
+        "phonetics": "/ˈkʌr.i/",
+        "type": "noun",
+        "meaning": "A dish of meat, vegetables, etc., cooked in an Indian-style sauce of strong spices and typically served with rice.",
+        "soundURL": "curry"
+    },
+    {
+        "id": 498,
+        "word": "Beef",
+        "phonetics": "/biːf/",
+        "type": "noun",
+        "meaning": "The flesh of a cow, bull, or ox, used as food.",
+        "soundURL": "beef"
+    },
+    {
+        "id": 499,
+        "word": "Zebra",
+        "phonetics": "/ˈziː.brə/",
+        "type": "noun",
+        "meaning": "An African wild horse with black-and-white stripes and an erect mane.",
+        "soundURL": "zebra"
+    },
+    {
+        "id": 500,
+        "word": "Salad",
+        "phonetics": "/ˈsæl.əd/",
+        "type": "noun",
+        "meaning": "A cold dish of various mixtures of raw or cooked vegetables, usually seasoned with oil, vinegar, or other dressing.",
+        "soundURL": "salad"
+    },
+    {
+        "id": 501,
+        "word": "Soup",
+        "phonetics": "/suːp/",
+        "type": "noun",
+        "meaning": "A liquid dish, typically made by boiling meat, fish, or vegetables, etc., in stock or water.",
+        "soundURL": "soup"
+    },
+    {
+        "id": 502,
+        "word": "Pizza",
+        "phonetics": "/ˈpiːtsə/",
+        "type": "noun",
+        "meaning": "A dish of Italian origin consisting of a flat, round base of dough baked with a topping of tomato sauce and cheese, typically with added meat or vegetables.",
+        "soundURL": "pizza"
+    },
+    {
+        "id": 503,
+        "word": "Pancake",
+        "phonetics": "/ˈpæn.keɪk/",
+        "type": "noun",
+        "meaning": "A thin, flat cake of batter, typically fried and turned in a pan, and served with syrup, jam, or other topping.",
+        "soundURL": "pancake"
+    },
+    {
+        "id": 504,
+        "word": "Vegetable",
+        "type": "Noun",
+        "phonetics": "/ˈvɛdʒ.tə.bəl/",
+        "meaning": "A plant or part of a plant used as food, typically as accompaniment to meat or fish.",
+        "soundURL": "vegetable"
+    },
+    {
+        "id": 505,
+        "word": "Sandwich",
+        "phonetics": "/ˈsæn.wɪtʃ/",
+        "type": "noun",
+        "meaning": "An item of food consisting of two pieces of bread with a filling between them, eaten as a light meal.",
+        "soundURL": "sandwich"
+    },
+    {
+        "id": 506,
+        "word": "Sushi",
+        "phonetics": "/ˈsuː.ʃi/",
+        "type": "noun",
+        "meaning": "A Japanese dish consisting of small balls or rolls of vinegar-flavored cold rice served with a garnish of raw fish, vegetables, or egg.",
+        "soundURL": "sushi"
+    },
+    {
+        "id": 507,
+        "word": "Taco",
+        "phonetics": "/ˈtɑː.koʊ/",
+        "type": "noun",
+        "meaning": "A Mexican dish consisting of a folded or rolled tortilla filled with various mixtures, such as seasoned mincemeat, beans, lettuce, and tomatoes.",
+        "soundURL": "taco"
+    },
+    {
+        "id": 508,
+        "word": "Burrito",
+        "phonetics": "/bəˈriː.toʊ/",
+        "type": "noun",
+        "meaning": "A Mexican dish consisting of a tortilla rolled around a filling, typically of beans or ground or shredded beef.",
+        "soundURL": "burrito"
+    },
+    {
+        "id": 509,
+        "word": "Noodle",
+        "phonetics": "/ˈnuː.dəl/",
+        "type": "noun",
+        "meaning": "A strip, ring, or tube of pasta or a similar dough, typically made with egg and usually eaten with a sauce or in a soup.",
+        "soundURL": "noodle"
+    },
+    {
+        "id": 510,
+        "word": "Ramen",
+        "phonetics": "/ˈrɑː.mən/",
+        "type": "noun",
+        "meaning": "A Japanese dish consisting of a broth with noodles and meat, vegetables, or tofu.",
+        "soundURL": "ramen"
+    },
+    {
+        "id": 511,
+        "word": "Doughnut",
+        "phonetics": "/ˈdoʊ.nʌt/",
+        "type": "noun",
+        "meaning": "A small fried cake of sweetened dough, typically in the shape of a ball or ring.",
+        "soundURL": "doughnut"
+    },
+    {
+        "id": 512,
+        "word": "Motorcycle",
+        "phonetics": "/ˈmoʊ.t̬ɚ.saɪ.kəl/",
+        "type": "noun",
+        "meaning": "A two-wheeled vehicle that is powered by a motor and has no pedals.",
+        "soundURL": "motorcycle"
+    },
+    {
+        "id": 513,
+        "word": "Vacuum cleaner",
+        "type": "Noun",
+        "phonetics": "/ˈvækjuːm ˈkliːnər/",
+        "meaning": "A device that uses suction to remove dirt and dust from floors, carpets, and other surfaces.",
+        "soundURL": "vacuumcleaner"
+    },
+    {
+        "id": 514,
+        "word": "Airplane",
+        "phonetics": "/ˈerˌpleɪn/",
+        "type": "noun",
+        "meaning": "A powered flying vehicle with fixed wings and a weight greater than that of the air it displaces.",
+        "soundURL": "airplane"
+    },
+    {
+        "id": 515,
+        "word": "Ship",
+        "phonetics": "/ʃɪp/",
+        "type": "noun",
+        "meaning": "A large boat for traveling on water, especially across the sea.",
+        "soundURL": "ship"
+    },
+    {
+        "id": 516,
+        "word": "Ferry",
+        "phonetics": "/ˈfer.i/",
+        "type": "noun",
+        "meaning": "A boat or ship for conveying passengers and goods, especially over a relatively short distance and as a regular service.",
+        "soundURL": "ferry"
+    },
+    {
+        "id": 517,
+        "word": "Truck",
+        "phonetics": "/trʌk/",
+        "type": "noun",
+        "meaning": "A large, heavy motor vehicle used for transporting goods, materials, or troops.",
+        "soundURL": "truck"
+    },
+    {
+        "id": 518,
+        "word": "Helicopter",
+        "phonetics": "/ˈhel.ɪˌkɑːp.t̬ɚ/",
+        "type": "noun",
+        "meaning": "A type of aircraft that derives both lift and propulsion from one or more sets of horizontally revolving overhead rotors.",
+        "soundURL": "helicopter"
+    },
+    {
+        "id": 519,
+        "word": "Scooter",
+        "phonetics": "/ˈskuː.t̬ɚ/",
+        "type": "noun",
+        "meaning": "A small motor vehicle with a platform for the operator's feet and handlebars for steering.",
+        "soundURL": "scooter"
+    },
+    {
+        "id": 520,
+        "word": "Boat",
+        "phonetics": "/boʊt/",
+        "type": "noun",
+        "meaning": "A small vessel propelled on water by oars, sails, or an engine.",
+        "soundURL": "boat"
+    },
+    {
+        "id": 521,
+        "word": "Yacht",
+        "phonetics": "/jɑːt/",
+        "type": "noun",
+        "meaning": "A medium-sized sailboat equipped for cruising or racing.",
+        "soundURL": "yacht"
+    },
+    {
+        "id": 522,
+        "word": "Canoe",
+        "phonetics": "/kəˈnuː/",
+        "type": "noun",
+        "meaning": "A narrow, keelless boat with pointed ends, propelled by paddles or (formerly) sails.",
+        "soundURL": "canoe"
+    },
+    {
+        "id": 523,
+        "word": "Jet",
+        "phonetics": "/dʒet/",
+        "type": "noun",
+        "meaning": "An aircraft powered by one or more jet engines.",
+        "soundURL": "jet"
+    },
+    {
+        "id": 524,
+        "word": "Blimp",
+        "phonetics": "/blɪmp/",
+        "type": "noun",
+        "meaning": "A small nonrigid airship or dirigible, typically without an internal structure and inflated with helium.",
+        "soundURL": "blimp"
+    },
+    {
+        "id": 525,
+        "word": "Glider",
+        "phonetics": "/ˈɡlaɪ.dɚ/",
+        "type": "noun",
+        "meaning": "An aircraft designed to glide through the air rather than travel under power.",
+        "soundURL": "glider"
+    },
+    {
+        "id": 526,
+        "word": "North",
+        "phonetics": "/nɔːrθ/",
+        "type": "noun",
+        "meaning": "The direction in which a compass needle normally points, toward the horizon on the left-hand side of a person facing east.",
+        "soundURL": "north"
+    },
+    {
+        "id": 527,
+        "word": "South",
+        "phonetics": "/saʊθ/",
+        "type": "noun",
+        "meaning": "The direction towards the point of the horizon 90° clockwise from east, or the point on the horizon itself.",
+        "soundURL": "south"
+    },
+    {
+        "id": 528,
+        "word": "East",
+        "phonetics": "/iːst/",
+        "type": "noun",
+        "meaning": "The direction towards the point of the horizon 90° clockwise from north, or the point on the horizon itself.",
+        "soundURL": "east"
+    },
+    {
+        "id": 529,
+        "word": "West",
+        "phonetics": "/west/",
+        "type": "noun",
+        "meaning": "The direction towards the point of the horizon 90° clockwise from south, or the point on the horizon itself.",
+        "soundURL": "west"
+    },
+    {
+        "id": 530,
+        "word": "Left",
+        "phonetics": "/left/",
+        "type": "adjective",
+        "meaning": "On, toward, or relating to the side of a human body or of a thing that is to the west when the person or thing is facing north.",
+        "soundURL": "left"
+    },
+    {
+        "id": 531,
+        "word": "Right",
+        "phonetics": "/raɪt/",
+        "type": "adjective",
+        "meaning": "On, toward, or relating to the side of a human body or of a thing that is to the east when the person or thing is facing north.",
+        "soundURL": "right"
+    },
+    {
+        "id": 532,
+        "word": "Up",
+        "phonetics": "/ʌp/",
+        "type": "adverb",
+        "meaning": "Toward or in a higher place or position, especially to or on the upper floor or deck of a building.",
+        "soundURL": "up"
+    },
+    {
+        "id": 533,
+        "word": "Down",
+        "phonetics": "/daʊn/",
+        "type": "adverb",
+        "meaning": "Toward or in a lower place or position, especially to or on the ground or another surface.",
+        "soundURL": "down"
+    },
+    {
+        "id": 534,
+        "word": "Straight",
+        "phonetics": "/streɪt/",
+        "type": "adjective",
+        "meaning": "Extending or moving uniformly in one direction only; without a curve or bend.",
+        "soundURL": "straight"
+    },
+    {
+        "id": 535,
+        "word": "Around",
+        "phonetics": "/əˈraʊnd/",
+        "type": "adverb",
+        "meaning": "In a circular or surrounding route.",
+        "soundURL": "around"
+    },
+    {
+        "id": 536,
+        "word": "In",
+        "phonetics": "/ɪn/",
+        "type": "preposition",
+        "meaning": "Expressing the situation of something that is or appears to be enclosed or surrounded by something else.",
+        "soundURL": "in"
+    },
+    {
+        "id": 537,
+        "word": "On",
+        "phonetics": "/ɒn/",
+        "type": "preposition",
+        "meaning": "Physically in contact with and supported by (a surface).",
+        "soundURL": "on"
+    },
+    {
+        "id": 538,
+        "word": "At",
+        "phonetics": "/æt/",
+        "type": "preposition",
+        "meaning": "Expressing location or arrival in a particular place or position.",
+        "soundURL": "at"
+    },
+    {
+        "id": 539,
+        "word": "Under",
+        "phonetics": "/ˈʌn.dər/",
+        "type": "preposition",
+        "meaning": "Extending or directly below (something).",
+        "soundURL": "under"
+    },
+    {
+        "id": 540,
+        "word": "Between",
+        "phonetics": "/bɪˈtwiːn/",
+        "type": "preposition",
+        "meaning": "At, into, or across the space separating (two objects or regions).",
+        "soundURL": "between"
+    },
+    {
+        "id": 541,
+        "word": "Beside",
+        "phonetics": "/bɪˈsaɪd/",
+        "type": "preposition",
+        "meaning": "At the side of; next to.",
+        "soundURL": "beside"
+    },
+    {
+        "id": 542,
+        "word": "With",
+        "phonetics": "/wɪð/",
+        "type": "preposition",
+        "meaning": "Accompanied by (another person or thing).",
+        "soundURL": "with"
+    },
+    {
+        "id": 543,
+        "word": "From",
+        "phonetics": "/frʌm/",
+        "type": "preposition",
+        "meaning": "Indicating the point in space at which a journey, motion, or action starts.",
+        "soundURL": "from"
+    },
+    {
+        "id": 544,
+        "word": "To",
+        "phonetics": "/tuː/",
+        "type": "preposition",
+        "meaning": "Expressing motion in the direction of (a particular location).",
+        "soundURL": "to"
+    },
+    {
+        "id": 545,
+        "word": "For",
+        "phonetics": "/fɔːr/",
+        "type": "preposition",
+        "meaning": "In support of or in favor of (a person or policy).",
+        "soundURL": "for"
+    },
+    {
+        "id": 546,
+        "word": "With",
+        "phonetics": "/wɪð/",
+        "type": "preposition",
+        "meaning": "Accompanied by (another person or thing).",
+        "soundURL": "with"
+    },
+    {
+        "id": 547,
+        "word": "By",
+        "phonetics": "/baɪ/",
+        "type": "preposition",
+        "meaning": "Indicating the means of achieving something.",
+        "soundURL": "by"
+    },
+    {
+        "id": 548,
+        "word": "About",
+        "phonetics": "/əˈbaʊt/",
+        "type": "preposition",
+        "meaning": "On the subject of; concerning.",
+        "soundURL": "about"
+    },
+    {
+        "id": 549,
+        "word": "Of",
+        "phonetics": "/ʌv/",
+        "type": "preposition",
+        "meaning": "Expressing the relationship between a part and a whole.",
+        "soundURL": "of"
+    },
+    {
+        "id": 550,
+        "word": "Without",
+        "type": "Preposition",
+        "phonetics": "/wɪˈðaʊt/",
+        "meaning": "Not having or including (something).",
+        "soundURL": "without"
+    },
+    {
+        "id": 551,
+        "word": "Across",
+        "phonetics": "/əˈkrɒs/",
+        "type": "preposition",
+        "meaning": "From one side to the other of (something).",
+        "soundURL": "across"
+    },
+    {
+        "id": 552,
+        "word": "Through",
+        "phonetics": "/θruː/",
+        "type": "preposition",
+        "meaning": "Moving in one side and out of the other side of (an opening, channel, or location).",
+        "soundURL": "through"
+    },
+    {
+        "id": 553,
+        "word": "Into",
+        "phonetics": "/ˈɪn.tuː/",
+        "type": "preposition",
+        "meaning": "Expressing movement or action with the result that someone or something becomes enclosed or surrounded by something else.",
+        "soundURL": "into"
+    },
+    {
+        "id": 554,
+        "word": "Among",
+        "phonetics": "/əˈmʌŋ/",
+        "type": "preposition",
+        "meaning": "Surrounded by; in the company of.",
+        "soundURL": "among"
+    },
+    {
+        "id": 555,
+        "word": "Over",
+        "phonetics": "/ˈoʊ.vɚ/",
+        "type": "preposition",
+        "meaning": "Above or higher than something else, sometimes so that one thing covers the other.",
+        "soundURL": "over"
+    },
+    {
+        "id": 556,
+        "word": "Here",
+        "phonetics": "/hɪr/",
+        "type": "adverb",
+        "meaning": "In, at, or to this place or position.",
+        "soundURL": "here"
+    },
+    {
+        "id": 557,
+        "word": "There",
+        "phonetics": "/ðer/",
+        "type": "adverb",
+        "meaning": "In, at, or to that place or position.",
+        "soundURL": "there"
+    },
+    {
+        "id": 558,
+        "word": "Everywhere",
+        "phonetics": "/ˈev.ri.wɛr/",
+        "type": "adverb",
+        "meaning": "In or to all places.",
+        "soundURL": "everywhere"
+    },
+    {
+        "id": 559,
+        "word": "Now",
+        "phonetics": "/naʊ/",
+        "type": "adverb",
+        "meaning": "At the present time or moment.",
+        "soundURL": "now"
+    },
+    {
+        "id": 560,
+        "word": "Then",
+        "phonetics": "/ðen/",
+        "type": "adverb",
+        "meaning": "At that time; at the time in question.",
+        "soundURL": "then"
+    },
+    {
+        "id": 561,
+        "word": "Soon",
+        "phonetics": "/suːn/",
+        "type": "adverb",
+        "meaning": "In or after a short time.",
+        "soundURL": "soon"
+    },
+    {
+        "id": 562,
+        "word": "Yesterday",
+        "phonetics": "/ˈjɛs.tɚ.deɪ/",
+        "type": "adverb",
+        "meaning": "On the day before today.",
+        "soundURL": "yesterday"
+    },
+    {
+        "id": 563,
+        "word": "Today",
+        "phonetics": "/təˈdeɪ/",
+        "type": "adverb",
+        "meaning": "On or in the course of this present day.",
+        "soundURL": "today"
+    },
+    {
+        "id": 564,
+        "word": "Tomorrow",
+        "phonetics": "/təˈmɑː.roʊ/",
+        "type": "adverb",
+        "meaning": "On the day after today.",
+        "soundURL": "tomorrow"
+    },
+    {
+        "id": 565,
+        "word": "Again",
+        "phonetics": "/əˈɡen/",
+        "type": "adverb",
+        "meaning": "Once more; another time.",
+        "soundURL": "again"
+    },
+    {
+        "id": 566,
+        "word": "Always",
+        "phonetics": "/ˈɑːl.weɪz/",
+        "type": "adverb",
+        "meaning": "At all times; on all occasions.",
+        "soundURL": "always"
+    },
+    {
+        "id": 567,
+        "word": "Sometimes",
+        "phonetics": "/ˈsʌm.taɪmz/",
+        "type": "adverb",
+        "meaning": "On certain occasions or in certain cases but not always.",
+        "soundURL": "sometimes"
+    },
+    {
+        "id": 568,
+        "word": "Often",
+        "phonetics": "/ˈɔː.fən/",
+        "type": "adverb",
+        "meaning": "Many times at short intervals.",
+        "soundURL": "often"
+    },
+    {
+        "id": 569,
+        "word": "Never",
+        "phonetics": "/ˈnev.ɚ/",
+        "type": "adverb",
+        "meaning": "At no time in the past or future.",
+        "soundURL": "never"
+    },
+    {
+        "id": 570,
+        "word": "Very",
+        "phonetics": "/ˈver.i/",
+        "type": "adverb",
+        "meaning": "Used to emphasize an adjective or adverb.",
+        "soundURL": "very"
+    },
+    {
+        "id": 571,
+        "word": "Quite",
+        "phonetics": "/kwaɪt/",
+        "type": "adverb",
+        "meaning": "To the utmost or most absolute extent or degree; absolutely; completely.",
+        "soundURL": "quite"
+    },
+    {
+        "id": 572,
+        "word": "Almost",
+        "phonetics": "/ˈɔːl.moʊst/",
+        "type": "adverb",
+        "meaning": "Not quite; very nearly.",
+        "soundURL": "almost"
+    },
+    {
+        "id": 573,
+        "word": "Enough",
+        "phonetics": "/ɪˈnʌf/",
+        "type": "adverb",
+        "meaning": "As much or as many as required.",
+        "soundURL": "enough"
+    },
+    {
+        "id": 574,
+        "word": "Too",
+        "phonetics": "/tuː/",
+        "type": "adverb",
+        "meaning": "To a higher degree than is desirable, permissible, or possible; excessively.",
+        "soundURL": "too"
+    },
+    {
+        "id": 575,
+        "word": "Well",
+        "phonetics": "/wel/",
+        "type": "adverb",
+        "meaning": "In a good or satisfactory way.",
+        "soundURL": "well"
+    },
+    {
+        "id": 576,
+        "word": "Shirt",
+        "phonetics": "/ʃɜːrt/",
+        "type": "noun",
+        "meaning": "A garment for the upper body made of cotton or a similar fabric, with a collar, sleeves, and buttons down the front.",
+        "soundURL": "shirt"
+    },
+    {
+        "id": 577,
+        "word": "Pants",
+        "phonetics": "/pænts/",
+        "type": "noun",
+        "meaning": "An outer garment covering the body from the waist to the ankles, with a separate part for each leg.",
+        "soundURL": "pants"
+    },
+    {
+        "id": 578,
+        "word": "Dress",
+        "phonetics": "/dres/",
+        "type": "noun",
+        "meaning": "A one-piece garment for a woman or girl that covers the body and extends down over the legs.",
+        "soundURL": "dress"
+    },
+    {
+        "id": 579,
+        "word": "Skirt",
+        "phonetics": "/skɜːrt/",
+        "type": "noun",
+        "meaning": "A garment fastened around the waist and hanging down around the legs.",
+        "soundURL": "skirt"
+    },
+    {
+        "id": 580,
+        "word": "Shoes",
+        "phonetics": "/ʃuːz/",
+        "type": "noun",
+        "meaning": "A covering for the foot, typically made of leather, having a sturdy sole and not reaching above the ankle.",
+        "soundURL": "shoes"
+    },
+    {
+        "id": 581,
+        "word": "Socks",
+        "phonetics": "/sɑːk/",
+        "type": "noun",
+        "meaning": "A garment for the foot and lower part of the leg, typically knitted from wool, cotton, or nylon.",
+        "soundURL": "socks"
+    },
+    {
+        "id": 582,
+        "word": "Hat",
+        "phonetics": "/hæt/",
+        "type": "noun",
+        "meaning": "A shaped covering for the head worn for warmth, as a fashion item, or as part of a uniform.",
+        "soundURL": "hat"
+    },
+    {
+        "id": 583,
+        "word": "Gloves",
+        "phonetics": "/ɡlʌv/",
+        "type": "noun",
+        "meaning": "A covering for the hand worn for protection against cold or dirt and typically having separate parts for each finger and the thumb.",
+        "soundURL": "gloves"
+    },
+    {
+        "id": 584,
+        "word": "Coat",
+        "phonetics": "/koʊt/",
+        "type": "noun",
+        "meaning": "A garment worn outdoors, typically extending below the hips and having sleeves and a collar.",
+        "soundURL": "coat"
+    },
+    {
+        "id": 585,
+        "word": "Scarf",
+        "phonetics": "/skɑːrf/",
+        "type": "noun",
+        "meaning": "A length or square of fabric worn around the neck or head.",
+        "soundURL": "scarf"
+    },
+    {
+        "id": 586,
+        "word": "Tie",
+        "phonetics": "/taɪ/",
+        "type": "noun",
+        "meaning": "A long piece of cloth worn around the neck or shoulders.",
+        "soundURL": "tie"
+    },
+    {
+        "id": 587,
+        "word": "Belt",
+        "phonetics": "/belt/",
+        "type": "noun",
+        "meaning": "A strip of leather or other material worn, typically around the waist, to support or hold in clothes or to carry weapons.",
+        "soundURL": "belt"
+    },
+    {
+        "id": 588,
+        "word": "Jacket",
+        "phonetics": "/ˈdʒæk.ɪt/",
+        "type": "noun",
+        "meaning": "A short coat, typically extending to the hips.",
+        "soundURL": "jacket"
+    },
+    {
+        "id": 589,
+        "word": "Sweater",
+        "phonetics": "/ˈswet.ɚ/",
+        "type": "noun",
+        "meaning": "A knitted garment typically with long sleeves, worn over the upper body.",
+        "soundURL": "sweater"
+    },
+    {
+        "id": 590,
+        "word": "Vest",
+        "phonetics": "/vest/",
+        "type": "noun",
+        "meaning": "A sleeveless garment worn on the upper part of the body, typically having no sleeves.",
+        "soundURL": "vest"
+    },
+    {
+        "id": 591,
+        "word": "Blouse",
+        "phonetics": "/blaʊz/",
+        "type": "noun",
+        "meaning": "A woman's upper garment resembling a shirt, typically with a collar, buttons, and sleeves.",
+        "soundURL": "blouse"
+    },
+    {
+        "id": 592,
+        "word": "Jeans",
+        "phonetics": "/dʒinz/",
+        "type": "noun",
+        "meaning": "Hard-wearing trousers made of denim or other cotton fabric, for informal wear.",
+        "soundURL": "jeans"
+    },
+    {
+        "id": 593,
+        "word": "Pajamas",
+        "phonetics": "/pəˈdʒɑː.məz/",
+        "type": "noun",
+        "meaning": "A suit of loose pants and jacket or shirt for sleeping in.",
+        "soundURL": "pajamas"
+    },
+    {
+        "id": 594,
+        "word": "Sneakers",
+        "phonetics": "/ˈsniː.kɚz/",
+        "type": "noun",
+        "meaning": "A soft shoe with a rubber sole worn for sports or casual occasions.",
+        "soundURL": "sneakers"
+    },
+    {
+        "id": 595,
+        "word": "Sandals",
+        "phonetics": "/ˈsæn.dəlz/",
+        "type": "noun",
+        "meaning": "A light open shoe, typically with a sole of rubber or other material and straps over the foot.",
+        "soundURL": "sandals"
+    },
+    {
+        "id": 596,
+        "word": "Circle",
+        "phonetics": "/ˈsɜːr.kəl/",
+        "type": "noun",
+        "meaning": "A round plane figure whose boundary consists of points equidistant from the center.",
+        "soundURL": "circle"
+    },
+    {
+        "id": 597,
+        "word": "Square",
+        "phonetics": "/skweər/",
+        "type": "noun",
+        "meaning": "A plane figure with four equal straight sides and four right angles.",
+        "soundURL": "square"
+    },
+    {
+        "id": 598,
+        "word": "Triangle",
+        "phonetics": "/ˈtraɪˌæŋ.ɡəl/",
+        "type": "noun",
+        "meaning": "A plane figure with three straight sides and three angles.",
+        "soundURL": "triangle"
+    },
+    {
+        "id": 599,
+        "word": "Rectangle",
+        "phonetics": "/ˈrek.tæŋ.ɡəl/",
+        "type": "noun",
+        "meaning": "A plane figure with four straight sides and four right angles, especially one with unequal adjacent sides, in contrast to a square.",
+        "soundURL": "rectangle"
+    },
+    {
+        "id": 600,
+        "word": "Oval",
+        "phonetics": "/ˈoʊ.vəl/",
+        "type": "noun",
+        "meaning": "A flattened, elongated circle or ellipse.",
+        "soundURL": "oval"
+    },
+    {
+        "id": 601,
+        "word": "Heart",
+        "phonetics": "/hɑːrt/",
+        "type": "noun",
+        "meaning": "A hollow muscular organ that pumps the blood through the circulatory system by rhythmic contraction and dilation.",
+        "soundURL": "heart"
+    },
+    {
+        "id": 602,
+        "word": "Star",
+        "phonetics": "/stɑːr/",
+        "type": "noun",
+        "meaning": "A fixed luminous point in the night sky that is a large, remote incandescent body like the sun.",
+        "soundURL": "star"
+    },
+    {
+        "id": 603,
+        "word": "Diamond",
+        "phonetics": "/ˈdaɪ.mənd/",
+        "type": "noun",
+        "meaning": "A precious stone consisting of a clear and typically colorless crystalline form of pure carbon.",
+        "soundURL": "diamond"
+    },
+    {
+        "id": 604,
+        "word": "Crescent",
+        "phonetics": "/ˈkrɛs.ənt/",
+        "type": "noun",
+        "meaning": "The curved sickle shape of the waxing or waning moon.",
+        "soundURL": "crescent"
+    },
+    {
+        "id": 605,
+        "word": "Hexagon",
+        "phonetics": "/ˈhɛk.sə.ɡɑːn/",
+        "type": "noun",
+        "meaning": "A plane figure with six straight sides and angles.",
+        "soundURL": "hexagon"
+    },
+    {
+        "id": 606,
+        "word": "Octagon",
+        "phonetics": "/ˈɑːk.tə.ɡɑːn/",
+        "type": "noun",
+        "meaning": "A plane figure with eight straight sides and angles.",
+        "soundURL": "octagon"
+    },
+    {
+        "id": 607,
+        "word": "Sphere",
+        "phonetics": "/sfɪər/",
+        "type": "noun",
+        "meaning": "A round solid figure, or its surface, with every point on its surface equidistant from its center.",
+        "soundURL": "sphere"
+    },
+    {
+        "id": 608,
+        "word": "Appearance",
+        "phonetics": "/əˈpɪər.əns/",
+        "type": "noun",
+        "meaning": "The way that someone or something looks.",
+        "soundURL": "appearance"
+    },
+    {
+        "id": 609,
+        "word": "Beautiful",
+        "phonetics": "/ˈbjuː.tɪ.fəl/",
+        "type": "adjective",
+        "meaning": "Very attractive.",
+        "soundURL": "beautiful"
+    },
+    {
+        "id": 610,
+        "word": "Handsome",
+        "phonetics": "/ˈhæn.də.səm/",
+        "type": "adjective",
+        "meaning": "Good-looking, attractive, pleasing appearance.",
+        "soundURL": "handsome"
+    },
+    {
+        "id": 611,
+        "word": "Pretty",
+        "phonetics": "/ˈprɪt.i/",
+        "type": "adjective",
+        "meaning": "Attractive in a delicate way.",
+        "soundURL": "pretty"
+    },
+    {
+        "id": 612,
+        "word": "Ugly",
+        "phonetics": "/ˈʌɡ.li/",
+        "type": "adjective",
+        "meaning": "Unpleasant or repulsive in appearance.",
+        "soundURL": "ugly"
+    },
+    {
+        "id": 613,
+        "word": "Cute",
+        "phonetics": "/kjuːt/",
+        "type": "adjective",
+        "meaning": "Attractive in a pretty or endearing way.",
+        "soundURL": "cute"
+    },
+    {
+        "id": 614,
+        "word": "Tall",
+        "phonetics": "/tɔːl/",
+        "type": "adjective",
+        "meaning": "Of great or more than average height, especially (with reference to an object) relative to width.",
+        "soundURL": "tall"
+    },
+    {
+        "id": 615,
+        "word": "Short",
+        "phonetics": "/ʃɔːrt/",
+        "type": "adjective",
+        "meaning": "Measuring a small distance from end to end.",
+        "soundURL": "short"
+    },
+    {
+        "id": 616,
+        "word": "Slim",
+        "phonetics": "/slɪm/",
+        "type": "adjective",
+        "meaning": "Attractively thin.",
+        "soundURL": "slim"
+    },
+    {
+        "id": 617,
+        "word": "Fat",
+        "phonetics": "/fæt/",
+        "type": "adjective",
+        "meaning": "Having an extra amount of flesh.",
+        "soundURL": "fat"
+    },
+    {
+        "id": 618,
+        "word": "Muscular",
+        "phonetics": "/ˈmʌs.kjəl.ɚ/",
+        "type": "adjective",
+        "meaning": "Having well-developed muscles.",
+        "soundURL": "muscular"
+    },
+    {
+        "id": 619,
+        "word": "Thin",
+        "phonetics": "/θɪn/",
+        "type": "adjective",
+        "meaning": "Having little flesh on the body.",
+        "soundURL": "thin"
+    },
+    {
+        "id": 620,
+        "word": "Curly",
+        "phonetics": "/ˈkɝː.li/",
+        "type": "adjective",
+        "meaning": "Having a twisted, ring-shaped, or spiral-shaped form.",
+        "soundURL": "curly"
+    },
+    {
+        "id": 621,
+        "word": "Toaster",
+        "type": "Noun",
+        "phonetics": "/ˈtəʊstər/",
+        "meaning": "An electric kitchen appliance used for toasting bread.",
+        "soundURL": "toaster"
+    },
+    {
+        "id": 622,
+        "word": "Long",
+        "phonetics": "/lɔːŋ/",
+        "type": "adjective",
+        "meaning": "Measuring a great distance from end to end.",
+        "soundURL": "long"
+    },
+    {
+        "id": 623,
+        "word": "Heater",
+        "type": "Noun",
+        "phonetics": "/ˈhiːtər/",
+        "meaning": "A device used to heat a room or building.",
+        "soundURL": "heater"
+    },
+    {
+        "id": 624,
+        "word": "Tattooed",
+        "phonetics": "/tæˈtuːd/",
+        "type": "adjective",
+        "meaning": "Having tattoos on the body.",
+        "soundURL": "tattooed"
+    },
+    {
+        "id": 625,
+        "word": "Pierced",
+        "phonetics": "/pɪrst/",
+        "type": "adjective",
+        "meaning": "Having holes made in the body for the wearing of jewelry.",
+        "soundURL": "pierced"
+    },
+    {
+        "id": 626,
+        "word": "Wrinkled",
+        "phonetics": "/ˈrɪŋ.kəld/",
+        "type": "adjective",
+        "meaning": "Having lines or folds on the surface in a creased condition.",
+        "soundURL": "wrinkled"
+    },
+    {
+        "id": 627,
+        "word": "Smooth",
+        "phonetics": "/smuːð/",
+        "type": "adjective",
+        "meaning": "Having an even and regular surface or consistency.",
+        "soundURL": "smooth"
+    },
+    {
+        "id": 628,
+        "word": "Movie",
+        "phonetics": "/ˈmuːvi/",
+        "type": "noun",
+        "meaning": "A story or event recorded by a camera as a set of moving images and shown in a theater or on television.",
+        "soundURL": "movie"
+    },
+    {
+        "id": 629,
+        "word": "Theater",
+        "phonetics": "/ˈθiː.ə.t̬ɚ/",
+        "type": "noun",
+        "meaning": "A building or outdoor area in which plays and other dramatic performances are given.",
+        "soundURL": "theater"
+    },
+    {
+        "id": 630,
+        "word": "Screen",
+        "phonetics": "/skriːn/",
+        "type": "noun",
+        "meaning": "A flat surface in a theater, on a television, or as a part of a computer, on which pictures or words are shown.",
+        "soundURL": "screen"
+    },
+    {
+        "id": 631,
+        "word": "Actor",
+        "phonetics": "/ˈæk.tɚ/",
+        "type": "noun",
+        "meaning": "A person whose profession is acting on the stage, in movies, or on television.",
+        "soundURL": "actor"
+    },
+    {
+        "id": 632,
+        "word": "Actress",
+        "phonetics": "/ˈæk.trɪs/",
+        "type": "noun",
+        "meaning": "A woman whose profession is acting on the stage, in movies, or on television.",
+        "soundURL": "actress"
+    },
+    {
+        "id": 633,
+        "word": "Scene",
+        "phonetics": "/siːn/",
+        "type": "noun",
+        "meaning": "A sequence of continuous action in a play, movie, opera, or book.",
+        "soundURL": "scene"
+    },
+    {
+        "id": 634,
+        "word": "Script",
+        "phonetics": "/skrɪpt/",
+        "type": "noun",
+        "meaning": "The written text of a play, movie, or broadcast.",
+        "soundURL": "script"
+    },
+    {
+        "id": 635,
+        "word": "Stage",
+        "phonetics": "/steɪdʒ/",
+        "type": "noun",
+        "meaning": "A part of an activity or a period of development.",
+        "soundURL": "stage"
+    },
+    {
+        "id": 636,
+        "word": "Ticket",
+        "phonetics": "/ˈtɪk.ɪt/",
+        "type": "noun",
+        "meaning": "A piece of paper or small card that gives the holder a certain right, especially to enter a place, travel by public transport, or participate in an event.",
+        "soundURL": "ticket"
+    },
+    {
+        "id": 637,
+        "word": "Popcorn",
+        "phonetics": "/ˈpɑːp.kɔːrn/",
+        "type": "noun",
+        "meaning": "A light, puffy substance made from the kernels of corn, typically eaten as a snack at cinemas.",
+        "soundURL": "popcorn"
+    },
+    {
+        "id": 638,
+        "word": "Screening",
+        "phonetics": "/ˈskriː.nɪŋ/",
+        "type": "noun",
+        "meaning": "The showing of a movie or program on a screen.",
+        "soundURL": "screening"
+    },
+    {
+        "id": 639,
+        "word": "Premiere",
+        "phonetics": "/ˈprɪmɪr/",
+        "type": "noun",
+        "meaning": "The first public performance of a movie, play, or concert.",
+        "soundURL": "premiere"
+    },
+    {
+        "id": 640,
+        "word": "Cinema",
+        "phonetics": "/ˈsɪn.ə.mə/",
+        "type": "noun",
+        "meaning": "A theater where movies are shown for public entertainment.",
+        "soundURL": "cinema"
+    },
+    {
+        "id": 641,
+        "word": "Matinee",
+        "phonetics": "/ˈmæt̬.ɪˌneɪ/",
+        "type": "noun",
+        "meaning": "A performance in a theater or cinema that takes place in the daytime.",
+        "soundURL": "matinee"
+    },
+    {
+        "id": 642,
+        "word": "Backdrop",
+        "phonetics": "/ˈbæk.drɑːp/",
+        "type": "noun",
+        "meaning": "A painted cloth hung at the back of a theater stage as part of the scenery.",
+        "soundURL": "backdrop"
+    },
+    {
+        "id": 643,
+        "word": "Encore",
+        "phonetics": "/ˈɑːn.kɔːr/",
+        "type": "noun",
+        "meaning": "A repeated or additional performance of an item at the end of a concert, as called for by an audience.",
+        "soundURL": "encore"
+    },
+    {
+        "id": 644,
+        "word": "Audience",
+        "phonetics": "/ˈɔː.di.əns/",
+        "type": "noun",
+        "meaning": "The assembled spectators or listeners at a public event, such as a play, movie, concert, or meeting.",
+        "soundURL": "audience"
+    },
+    {
+        "id": 645,
+        "word": "Critic",
+        "phonetics": "/ˈkrɪt̬.ɪk/",
+        "type": "noun",
+        "meaning": "A person who expresses an unfavorable opinion of something.",
+        "soundURL": "critic"
+    },
+    {
+        "id": 646,
+        "word": "Review",
+        "phonetics": "/rɪˈvjuː/",
+        "type": "noun",
+        "meaning": "A formal assessment or examination of something with the possibility or intention of instituting change if necessary.",
+        "soundURL": "review"
+    },
+    {
+        "id": 647,
+        "word": "Drama",
+        "phonetics": "/ˈdrɑː.mə/",
+        "type": "noun",
+        "meaning": "A play for theater, radio, or television.",
+        "soundURL": "drama"
+    },
+    {
+        "id": 648,
+        "word": "Action",
+        "phonetics": "/ˈæk.ʃən/",
+        "type": "noun",
+        "meaning": "Events represented in a work of art or literature.",
+        "soundURL": "action"
+    },
+    {
+        "id": 649,
+        "word": "Adventure",
+        "phonetics": "/ədˈven.tʃər/",
+        "type": "noun",
+        "meaning": "An unusual and exciting or daring experience.",
+        "soundURL": "adventure"
+    },
+    {
+        "id": 650,
+        "word": "Comedy",
+        "phonetics": "/ˈkɑː.mə.di/",
+        "type": "noun",
+        "meaning": "Entertainment consisting of jokes and sketches, intended to make an audience laugh.",
+        "soundURL": "comedy"
+    },
+    {
+        "id": 651,
+        "word": "Action",
+        "phonetics": "/ˈæk.ʃən/",
+        "type": "noun",
+        "meaning": "The fact or process of doing something, typically to achieve an aim.",
+        "soundURL": "action"
+    },
+    {
+        "id": 652,
+        "word": "Horror",
+        "phonetics": "/ˈhɔːr.ɚ/",
+        "type": "noun",
+        "meaning": "An intense feeling of fear, shock, or disgust.",
+        "soundURL": "horror"
+    },
+    {
+        "id": 653,
+        "word": "Romance",
+        "phonetics": "/roʊˈmæns/",
+        "type": "noun",
+        "meaning": "A feeling of excitement and mystery associated with love.",
+        "soundURL": "romance"
+    },
+    {
+        "id": 654,
+        "word": "Science Fiction",
+        "phonetics": "/ˈsaɪ.əns ˈfɪk.ʃən/",
+        "type": "noun",
+        "meaning": "Fiction based on imagined future scientific or technological advances.",
+        "soundURL": "sciencefiction"
+    },
+    {
+        "id": 655,
+        "word": "Thriller",
+        "phonetics": "/ˈθrɪl.ɚ/",
+        "type": "noun",
+        "meaning": "A novel, play, or movie with an exciting plot, typically involving crime or espionage.",
+        "soundURL": "thriller"
+    },
+    {
+        "id": 656,
+        "word": "Fantasy",
+        "phonetics": "/ˈfæn.tə.si/",
+        "type": "noun",
+        "meaning": "The faculty or activity of imagining things, especially things that are impossible or improbable.",
+        "soundURL": "fantasy"
+    },
+    {
+        "id": 657,
+        "word": "Mystery",
+        "phonetics": "/ˈmɪs.tər.i/",
+        "type": "noun",
+        "meaning": "Something that is difficult or impossible to understand or explain.",
+        "soundURL": "mystery"
+    },
+    {
+        "id": 658,
+        "word": "Western",
+        "phonetics": "/ˈwes.tərn/",
+        "type": "noun",
+        "meaning": "A movie, television show, or novel about the American West, especially during the 19th century.",
+        "soundURL": "western"
+    },
+    {
+        "id": 659,
+        "word": "Musical",
+        "phonetics": "/ˈmjuː.zɪ.kəl/",
+        "type": "noun",
+        "meaning": "A play or movie in which singing and dancing play an essential part.",
+        "soundURL": "musical"
+    },
+    {
+        "id": 660,
+        "word": "Documentary",
+        "phonetics": "/ˌdɑːk.jəˈmen.tər.i/",
+        "type": "noun",
+        "meaning": "A movie or television or radio program that provides a factual record or report.",
+        "soundURL": "documentary"
+    },
+    {
+        "id": 661,
+        "word": "Biography",
+        "phonetics": "/baɪˈɑː.ɡrə.fi/",
+        "type": "noun",
+        "meaning": "An account of someone's life written by someone else.",
+        "soundURL": "biography"
+    },
+    {
+        "id": 662,
+        "word": "Animated",
+        "phonetics": "/ˈæn.ɪ.meɪ.t̬ɪd/",
+        "type": "adjective",
+        "meaning": "Made using animation techniques.",
+        "soundURL": "animated"
+    },
+    {
+        "id": 663,
+        "word": "Stepmother",
+        "phonetics": "/ˈstɛpˌmʌð.ər/",
+        "type": "noun",
+        "meaning": "A woman who is married to one's father after the divorce or death of one's mother.",
+        "soundURL": "stepmother"
+    },
+    {
+        "id": 664,
+        "word": "Independent",
+        "phonetics": "/ˌɪn.dɪˈpen.dənt/",
+        "type": "adjective",
+        "meaning": "Free from outside control or support.",
+        "soundURL": "independent"
+    },
+    {
+        "id": 665,
+        "word": "Historical",
+        "phonetics": "/hɪˈstɔːr.ɪ.kəl/",
+        "type": "adjective",
+        "meaning": "Belonging to or concerning history.",
+        "soundURL": "historical"
+    },
+    {
+        "id": 666,
+        "word": "Satire",
+        "phonetics": "/ˈsæt.aɪr/",
+        "type": "noun",
+        "meaning": "The use of humor, irony, exaggeration, or ridicule to expose and criticize people's stupidity or vices.",
+        "soundURL": "satire"
+    },
+    {
+        "id": 667,
+        "word": "War",
+        "phonetics": "/wɔːr/",
+        "type": "noun",
+        "meaning": "A state of armed conflict between different countries or different groups within a country.",
+        "soundURL": "war"
+    },
+    {
+        "id": 678,
+        "word": "Gymnastics",
+        "phonetics": "/dʒɪmˈnæs.tɪks/",
+        "type": "noun",
+        "meaning": "A sport involving exercises and performances requiring physical strength, flexibility, balance, and coordination.",
+        "soundURL": "gymnastics"
+    },
+    {
+        "id": 679,
+        "word": "Golf",
+        "phonetics": "/ɡɑːlf/",
+        "type": "noun",
+        "meaning": "A game played on a large open-air course, in which a small hard ball is struck with a club into a series of small holes in the ground, the object being to use the fewest possible strokes to complete the course.",
+        "soundURL": "golf"
+    },
+    {
+        "id": 680,
+        "word": "Weightlifting",
+        "phonetics": "/ˈweɪtˌlɪf.tɪŋ/",
+        "type": "noun",
+        "meaning": "The sport or activity of lifting barbells or other heavy weights.",
+        "soundURL": "weightlifting"
+    },
+    {
+        "id": 681,
+        "word": "Boxing",
+        "phonetics": "/ˈbɑːk.sɪŋ/",
+        "type": "noun",
+        "meaning": "A sport in which two people fight each other using their fists, typically in a roped square ring.",
+        "soundURL": "boxing"
+    },
+    {
+        "id": 682,
+        "word": "Martial Arts",
+        "phonetics": "/ˌmɑːr.ʃəl ˈɑːrts/",
+        "type": "noun",
+        "meaning": "Various sports or skills, mainly of Japanese origin, that originated as forms of self-defense or attack.",
+        "soundURL": "martialarts"
+    },
+    {
+        "id": 683,
+        "word": "Skiing",
+        "phonetics": "/ˈskiː.ɪŋ/",
+        "type": "noun",
+        "meaning": "The action of traveling over snow on skis, especially as a sport or recreation.",
+        "soundURL": "skiing"
+    },
+    {
+        "id": 684,
+        "word": "Snowboarding",
+        "phonetics": "/ˈsnoʊˌbɔːrdɪŋ/",
+        "type": "noun",
+        "meaning": "The sport or pastime of riding on a snowboard, especially on snow-covered slopes.",
+        "soundURL": "snowboarding"
+    },
+    {
+        "id": 685,
+        "word": "Climbing",
+        "phonetics": "/ˈklaɪ.mɪŋ/",
+        "type": "noun",
+        "meaning": "The sport or activity of climbing rock faces, especially with the aid of ropes and special equipment.",
+        "soundURL": "climbing"
+    },
+    {
+        "id": 686,
+        "word": "Rowing",
+        "phonetics": "/ˈroʊ.ɪŋ/",
+        "type": "noun",
+        "meaning": "The activity of moving a boat by using oars.",
+        "soundURL": "rowing"
+    },
+    {
+        "id": 687,
+        "word": "Hide",
+        "phonetics": "/haɪd/",
+        "type": "verb",
+        "meaning": "To put or keep out of sight; conceal from the view or notice of others.",
+        "soundURL": "hide"
+    },
+    {
+        "id": 688,
+        "word": "Singing",
+        "phonetics": "/ˈsɪŋɪŋ/",
+        "type": "noun",
+        "meaning": "The act or art of producing musical sounds with the voice.",
+        "soundURL": "singing"
+    },
+    {
+        "id": 689,
+        "word": "Surfing",
+        "phonetics": "/ˈsɜːrfɪŋ/",
+        "type": "noun",
+        "meaning": "The sport or pastime of riding on a wave while standing or lying on a surfboard.",
+        "soundURL": "surfing"
+    },
+    {
+        "id": 690,
+        "word": "Skateboarding",
+        "phonetics": "/ˈskeɪtˌbɔːrdɪŋ/",
+        "type": "noun",
+        "meaning": "The sport or activity of riding on a skateboard.",
+        "soundURL": "skateboarding"
+    },
+    {
+        "id": 691,
+        "word": "Inside",
+        "phonetics": "/ˈɪnˌsaɪd/",
+        "type": "preposition",
+        "meaning": "In or into the interior; within.",
+        "soundURL": "inside"
+    },
+    {
+        "id": 692,
+        "word": "Passport",
+        "phonetics": "/ˈpæs.pɔːrt/",
+        "type": "noun",
+        "meaning": "An official document issued by a government, certifying the holder's identity and citizenship and entitling them to travel under its protection to and from foreign countries.",
+        "soundURL": "passport"
+    },
+    {
+        "id": 693,
+        "word": "Running",
+        "phonetics": "/ˈrʌnɪŋ/",
+        "type": "noun",
+        "meaning": "The action or movement of a runner.",
+        "soundURL": "running"
+    },
+    {
+        "id": 694,
+        "word": "Jogging",
+        "phonetics": "/ˈdʒɑː.ɡɪŋ/",
+        "type": "noun",
+        "meaning": "The activity of running at a steady, gentle pace as a form of physical exercise.",
+        "soundURL": "jogging"
+    },
+    {
+        "id": 695,
+        "word": "Biking",
+        "phonetics": "/ˈbaɪ.kɪŋ/",
+        "type": "noun",
+        "meaning": "The activity of riding a bicycle.",
+        "soundURL": "biking"
+    },
+    {
+        "id": 696,
+        "word": "Vacation",
+        "phonetics": "/veɪˈkeɪ.ʃən/",
+        "type": "noun",
+        "meaning": "An extended period of recreation, especially one spent away from home or in traveling.",
+        "soundURL": "vacation"
+    },
+    {
+        "id": 697,
+        "word": "Rock Climbing",
+        "phonetics": "/ˈrɑːk ˈklaɪ.mɪŋ/",
+        "type": "noun",
+        "meaning": "The sport or activity of climbing rock faces, especially with the aid of ropes and special equipment.",
+        "soundURL": "rockclimbing"
+    },
+    {
+        "id": 698,
+        "word": "Canoeing",
+        "phonetics": "/kəˈnuː.ɪŋ/",
+        "type": "noun",
+        "meaning": "The activity of traveling in or paddling a canoe.",
+        "soundURL": "canoeing"
+    },
+    {
+        "id": 699,
+        "word": "Kayaking",
+        "phonetics": "/ˈkaɪ.ə.kɪŋ/",
+        "type": "noun",
+        "meaning": "The activity of paddling a kayak.",
+        "soundURL": "kayaking"
+    },
+    {
+        "id": 700,
+        "word": "Surfboarding",
+        "phonetics": "/ˈsɜːrfˌbɔːrdɪŋ/",
+        "type": "noun",
+        "meaning": "The sport or pastime of riding on a wave while standing or lying on a surfboard.",
+        "soundURL": "surfboarding"
+    },
+    {
+        "id": 701,
+        "word": "Sailing",
+        "phonetics": "/ˈseɪ.lɪŋ/",
+        "type": "noun",
+        "meaning": "The activity of traveling in a sailboat.",
+        "soundURL": "sailing"
+    },
+    {
+        "id": 702,
+        "word": "Archery",
+        "phonetics": "/ˈɑːr.tʃər.i/",
+        "type": "noun",
+        "meaning": "The sport or skill of shooting with a bow and arrows, especially at a target.",
+        "soundURL": "archery"
+    },
+    {
+        "id": 703,
+        "word": "Diving",
+        "phonetics": "/ˈdaɪ.vɪŋ/",
+        "type": "noun",
+        "meaning": "The sport or activity of swimming underwater, especially using a scuba system.",
+        "soundURL": "diving"
+    },
+    {
+        "id": 704,
+        "word": "Fencing",
+        "phonetics": "/ˈfen.sɪŋ/",
+        "type": "noun",
+        "meaning": "The sport of fighting with long swords while wearing protective clothes.",
+        "soundURL": "fencing"
+    },
+    {
+        "id": 705,
+        "word": "Golfing",
+        "phonetics": "/ˈɡɑːl.fɪŋ/",
+        "type": "noun",
+        "meaning": "The sport or activity of playing golf.",
+        "soundURL": "golfing"
+    },
+    {
+        "id": 706,
+        "word": "Skating",
+        "phonetics": "/ˈskeɪ.tɪŋ/",
+        "type": "noun",
+        "meaning": "The action of gliding along on skates.",
+        "soundURL": "skating"
+    },
+    {
+        "id": 707,
+        "word": "Bobsledding",
+        "phonetics": "/ˈbɑːb.sled.ɪŋ/",
+        "type": "noun",
+        "meaning": "The sport of racing down a narrow, twisting, ice-covered track in a small, gravity-powered sled.",
+        "soundURL": "bobsledding"
+    },
+    {
+        "id": 708,
+        "word": "Friendly",
+        "phonetics": "/ˈfrɛnd.li/",
+        "type": "adjective",
+        "meaning": "Kind and pleasant.",
+        "soundURL": "friendly"
+    },
+    {
+        "id": 709,
+        "word": "Shy",
+        "phonetics": "/ʃaɪ/",
+        "type": "adjective",
+        "meaning": "Nervous and uncomfortable with other people.",
+        "soundURL": "shy"
+    },
+    {
+        "id": 710,
+        "word": "Outgoing",
+        "phonetics": "/ˈaʊtˌɡoʊ.ɪŋ/",
+        "type": "adjective",
+        "meaning": "Friendly and socially confident.",
+        "soundURL": "outgoing"
+    },
+    {
+        "id": 711,
+        "word": "Confident",
+        "phonetics": "/ˈkɑːn.fə.dənt/",
+        "type": "adjective",
+        "meaning": "Feeling sure about your own abilities or opinions.",
+        "soundURL": "confident"
+    },
+    {
+        "id": 712,
+        "word": "Patient",
+        "phonetics": "/ˈpeɪ.ʃənt/",
+        "type": "adjective",
+        "meaning": "Able to wait calmly for a long time or to accept difficulties, people's annoying behaviour, etc. without becoming angry.",
+        "soundURL": "patient"
+    },
+    {
+        "id": 713,
+        "word": "Impatient",
+        "phonetics": "/ɪmˈpeɪ.ʃənt/",
+        "type": "adjective",
+        "meaning": "Not willing to wait for something or someone; not patient.",
+        "soundURL": "impatient"
+    },
+    {
+        "id": 714,
+        "word": "Polite",
+        "phonetics": "/pəˈlaɪt/",
+        "type": "adjective",
+        "meaning": "Behaving in a way that is socially correct and shows understanding of and care for other people's feelings.",
+        "soundURL": "polite"
+    },
+    {
+        "id": 715,
+        "word": "Rude",
+        "phonetics": "/ruːd/",
+        "type": "adjective",
+        "meaning": "Not polite; offensive or embarrassing.",
+        "soundURL": "rude"
+    },
+    {
+        "id": 716,
+        "word": "Generous",
+        "phonetics": "/ˈdʒen.ər.əs/",
+        "type": "adjective",
+        "meaning": "Willing to give money, help, kindness, etc., especially more than is usual or expected.",
+        "soundURL": "generous"
+    },
+    {
+        "id": 717,
+        "word": "Selfish",
+        "phonetics": "/ˈselfɪʃ/",
+        "type": "adjective",
+        "meaning": "Caring only about yourself and not about other people.",
+        "soundURL": "selfish"
+    },
+    {
+        "id": 718,
+        "word": "Honest",
+        "phonetics": "/ˈɑː.nɪst/",
+        "type": "adjective",
+        "meaning": "Telling the truth or able to be trusted and not likely to steal, cheat, or lie.",
+        "soundURL": "honest"
+    },
+    {
+        "id": 719,
+        "word": "Dishonest",
+        "phonetics": "/dɪsˈɑː.nɪst/",
+        "type": "adjective",
+        "meaning": "Not honest.",
+        "soundURL": "dishonest"
+    },
+    {
+        "id": 720,
+        "word": "Calm",
+        "phonetics": "/kɑːm/",
+        "type": "adjective",
+        "meaning": "Not showing or feeling nervousness, anger, or other emotions.",
+        "soundURL": "calm"
+    },
+    {
+        "id": 721,
+        "word": "Anxious",
+        "phonetics": "/ˈæŋkʃəs/",
+        "type": "adjective",
+        "meaning": "Worried and nervous.",
+        "soundURL": "anxious"
+    },
+    {
+        "id": 722,
+        "word": "Optimistic",
+        "phonetics": "/ˌɑːp.tɪˈmɪs.tɪk/",
+        "type": "adjective",
+        "meaning": "Hopeful and confident about the future.",
+        "soundURL": "optimistic"
+    },
+    {
+        "id": 723,
+        "word": "Pessimistic",
+        "phonetics": "/ˌpes.ɪˈmɪs.tɪk/",
+        "type": "adjective",
+        "meaning": "Believing that bad things are going to happen in the future.",
+        "soundURL": "pessimistic"
+    },
+    {
+        "id": 724,
+        "word": "Adventurous",
+        "phonetics": "/ədˈven.tʃər.əs/",
+        "type": "adjective",
+        "meaning": "Willing to try new or difficult things, or exciting and often dangerous.",
+        "soundURL": "adventurous"
+    },
+    {
+        "id": 725,
+        "word": "Cautious",
+        "phonetics": "/ˈkɔː.ʃəs/",
+        "type": "adjective",
+        "meaning": "Careful to avoid potential problems or dangers.",
+        "soundURL": "cautious"
+    },
+    {
+        "id": 726,
+        "word": "With",
+        "phonetics": "/wɪð/",
+        "type": "preposition",
+        "meaning": "Accompanied by (another person or thing).",
+        "soundURL": "with"
+    },
+    {
+        "id": 727,
+        "word": "Reserved",
+        "phonetics": "/rɪˈzɜːvd/",
+        "type": "adjective",
+        "meaning": "Slow to reveal emotion or opinions.",
+        "soundURL": "reserved"
+    },
+    {
+        "id": 728,
+        "word": "Below",
+        "phonetics": "/bɪˈləʊ/",
+        "type": "preposition",
+        "meaning": "At a lower level or layer than.",
+        "soundURL": "below"
+    },
+    {
+        "id": 729,
+        "word": "Tourist",
+        "phonetics": "/ˈtʊə.rɪst/",
+        "type": "noun",
+        "meaning": "A person who is traveling or visiting a place for pleasure.",
+        "soundURL": "tourist"
+    },
+    {
+        "id": 730,
+        "word": "Office",
+        "phonetics": "/ˈɒf.ɪs/",
+        "type": "noun",
+        "meaning": "A room, set of rooms, or building used as a place for commercial, professional, or bureaucratic work.",
+        "soundURL": "office"
+    },
+    {
+        "id": 731,
+        "word": "School",
+        "phonetics": "/skuːl/",
+        "type": "noun",
+        "meaning": "An institution for educating children.",
+        "soundURL": "school"
+    },
+    {
+        "id": 732,
+        "word": "Hospital",
+        "phonetics": "/ˈhɒs.pɪ.təl/",
+        "type": "noun",
+        "meaning": "An institution providing medical and surgical treatment and nursing care for sick or injured people.",
+        "soundURL": "hospital"
+    },
+    {
+        "id": 733,
+        "word": "Library",
+        "phonetics": "/ˈlaɪ.brər.i/",
+        "type": "noun",
+        "meaning": "A building or room containing collections of books, periodicals, and sometimes films and recorded music for people to read, borrow, or refer to.",
+        "soundURL": "library"
+    },
+    {
+        "id": 734,
+        "word": "Store",
+        "phonetics": "/stɔːr/",
+        "type": "noun",
+        "meaning": "A retail establishment selling items to the public.",
+        "soundURL": "store"
+    },
+    {
+        "id": 735,
+        "word": "Factory",
+        "phonetics": "/ˈfæk.tər.i/",
+        "type": "noun",
+        "meaning": "A building or group of buildings where goods are manufactured or assembled chiefly by machine.",
+        "soundURL": "factory"
+    },
+    {
+        "id": 736,
+        "word": "Museum",
+        "phonetics": "/mjuːˈziː.əm/",
+        "type": "noun",
+        "meaning": "A building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.",
+        "soundURL": "museum"
+    },
+    {
+        "id": 737,
+        "word": "Hotel",
+        "phonetics": "/hoʊˈtel/",
+        "type": "noun",
+        "meaning": "An establishment providing accommodations, meals, and other services for travelers and tourists.",
+        "soundURL": "hotel"
+    },
+    {
+        "id": 738,
+        "word": "Airport",
+        "phonetics": "/ˈer.pɔːrt/",
+        "type": "noun",
+        "meaning": "A place where aircraft regularly land and take off, with runways, navigational aids, and facilities for boarding and maintenance.",
+        "soundURL": "airport"
+    },
+    {
+        "id": 739,
+        "word": "Bank",
+        "phonetics": "/bæŋk/",
+        "type": "noun",
+        "meaning": "An institution for receiving, lending, exchanging, and safeguarding money and, in some cases, issuing notes and transacting other financial business.",
+        "soundURL": "bank"
+    },
+    {
+        "id": 740,
+        "word": "Church",
+        "phonetics": "/tʃɜːrtʃ/",
+        "type": "noun",
+        "meaning": "A building used for public Christian worship.",
+        "soundURL": "church"
+    },
+    {
+        "id": 741,
+        "word": "Post office",
+        "phonetics": "/ˈpoʊst ˌɔː.fɪs/",
+        "type": "noun",
+        "meaning": "A place where you can buy stamps, mail letters and packages, and take care of other postal business.",
+        "soundURL": "postoffice"
+    },
+    {
+        "id": 742,
+        "word": "Restaurant",
+        "phonetics": "/ˈres.tə.rɑːnt/",
+        "type": "noun",
+        "meaning": "A place where people pay to sit and eat meals that are cooked and served on the premises.",
+        "soundURL": "restaurant"
+    },
+    {
+        "id": 743,
+        "word": "Supermarket",
+        "phonetics": "/ˈsuː.pɚˌmɑːr.kɪt/",
+        "type": "noun",
+        "meaning": "A large self-service store selling foods and household goods.",
+        "soundURL": "supermarket"
+    },
+    {
+        "id": 744,
+        "word": "Fire station",
+        "phonetics": "/ˈfaɪər ˌsteɪ.ʃən/",
+        "type": "noun",
+        "meaning": "A building where fire engines and other firefighting equipment are stationed.",
+        "soundURL": "firestation"
+    },
+    {
+        "id": 745,
+        "word": "Police station",
+        "phonetics": "/pəˈliːs ˌsteɪ.ʃən/",
+        "type": "noun",
+        "meaning": "A building where police officers and other members of staff work.",
+        "soundURL": "policestation"
+    },
+    {
+        "id": 746,
+        "word": "Break down",
+        "phonetics": "/breɪk daʊn/",
+        "type": "phrasal verb",
+        "meaning": "To stop functioning properly.",
+        "soundURL": "breakdown"
+    },
+    {
+        "id": 747,
+        "word": "Call off",
+        "phonetics": "/kɔːl ɒf/",
+        "type": "phrasal verb",
+        "meaning": "To cancel something.",
+        "soundURL": "calloff"
+    },
+    {
+        "id": 748,
+        "word": "Come across",
+        "phonetics": "/kʌm əˈkrɒs/",
+        "type": "phrasal verb",
+        "meaning": "To find or meet by chance.",
+        "soundURL": "comeacross"
+    },
+    {
+        "id": 749,
+        "word": "Get along",
+        "phonetics": "/ɡet əˈlɒŋ/",
+        "type": "phrasal verb",
+        "meaning": "To have a good relationship with someone.",
+        "soundURL": "getalong"
+    },
+    {
+        "id": 750,
+        "word": "Look for",
+        "phonetics": "/lʊk fɔːr/",
+        "type": "phrasal verb",
+        "meaning": "To try to find something.",
+        "soundURL": "lookfor"
+    },
+    {
+        "id": 751,
+        "word": "Put off",
+        "phonetics": "/pʊt ɒf/",
+        "type": "phrasal verb",
+        "meaning": "To delay doing something.",
+        "soundURL": "putoff"
+    },
+    {
+        "id": 752,
+        "word": "Take off",
+        "phonetics": "/teɪk ɒf/",
+        "type": "phrasal verb",
+        "meaning": "To remove (clothing) or to become successful or popular very quickly.",
+        "soundURL": "takeoff"
+    },
+    {
+        "id": 753,
+        "word": "Turn on",
+        "phonetics": "/tɜːn ɒn/",
+        "type": "phrasal verb",
+        "meaning": "To start a machine or light.",
+        "soundURL": "turnon"
+    },
+    {
+        "id": 754,
+        "word": "Turn off",
+        "phonetics": "/tɜːrn ɒf/",
+        "type": "phrasal verb",
+        "meaning": "To stop a machine or light.",
+        "soundURL": "turnoff"
+    },
+    {
+        "id": 755,
+        "word": "Wake up",
+        "phonetics": "/weɪk ʌp/",
+        "type": "phrasal verb",
+        "meaning": "To stop sleeping and become awake.",
+        "soundURL": "wakeup"
+    },
+    {
+        "id": 756,
+        "word": "Look after",
+        "phonetics": "/lʊk ˈæf.tər/",
+        "type": "phrasal verb",
+        "meaning": "To take care of someone or something.",
+        "soundURL": "lookafter"
+    },
+    {
+        "id": 757,
+        "word": "Run out",
+        "phonetics": "/rʌn aʊt/",
+        "type": "phrasal verb",
+        "meaning": "To use all of something so that there is none left.",
+        "soundURL": "runout"
+    },
+    {
+        "id": 758,
+        "word": "Put up with",
+        "phonetics": "/pʊt ʌp wɪð/",
+        "type": "phrasal verb",
+        "meaning": "To tolerate or endure something unpleasant.",
+        "soundURL": "putupwith"
+    },
+    {
+        "id": 759,
+        "word": "Pick up",
+        "phonetics": "/pɪk ʌp/",
+        "type": "phrasal verb",
+        "meaning": "To lift or collect something from a surface or place.",
+        "soundURL": "pickup"
+    },
+    {
+        "id": 760,
+        "word": "Look forward to",
+        "phonetics": "/lʊk ˈfɔː.wəd tuː/",
+        "type": "phrasal verb",
+        "meaning": "To feel pleased and excited about something that is going to happen.",
+        "soundURL": "lookforwardto"
+    },
+    {
+        "id": 761,
+        "word": "Give up",
+        "phonetics": "/ɡɪv ʌp/",
+        "type": "phrasal verb",
+        "meaning": "To stop doing or trying something because it is too difficult.",
+        "soundURL": "giveup"
+    },
+    {
+        "id": 762,
+        "word": "Break in",
+        "phonetics": "/breɪk ɪn/",
+        "type": "phrasal verb",
+        "meaning": "To enter a building illegally, especially by force.",
+        "soundURL": "breakin"
+    },
+    {
+        "id": 763,
+        "word": "Set up",
+        "phonetics": "/set ʌp/",
+        "type": "phrasal verb",
+        "meaning": "To arrange or prepare something.",
+        "soundURL": "setup"
+    },
+    {
+        "id": 764,
+        "word": "Run into",
+        "phonetics": "/rʌn ˈɪn.tuː/",
+        "type": "phrasal verb",
+        "meaning": "To meet someone unexpectedly.",
+        "soundURL": "runinto"
+    },
+    {
+        "id": 765,
+        "word": "Cut down",
+        "phonetics": "/kʌt daʊn/",
+        "type": "phrasal verb",
+        "meaning": "To reduce the amount of something.",
+        "soundURL": "cutdown"
+    },
+    {
+        "id": 766,
+        "word": "Come up with",
+        "phonetics": "/kʌm ʌp wɪð/",
+        "type": "phrasal verb",
+        "meaning": "To think of an idea or a plan.",
+        "soundURL": "comeupwith"
+    },
+    {
+        "id": 767,
+        "word": "Go on",
+        "phonetics": "/ɡoʊ ɒn/",
+        "type": "phrasal verb",
+        "meaning": "To continue or proceed.",
+        "soundURL": "goon"
+    },
+    {
+        "id": 768,
+        "word": "Look up",
+        "phonetics": "/lʊk ʌp/",
+        "type": "phrasal verb",
+        "meaning": "To search for information in a book or online.",
+        "soundURL": "lookup"
+    },
+    {
+        "id": 769,
+        "word": "Fill out",
+        "phonetics": "/fɪl aʊt/",
+        "type": "phrasal verb",
+        "meaning": "To complete a form.",
+        "soundURL": "fillout"
+    },
+    {
+        "id": 770,
+        "word": "Put on",
+        "phonetics": "/pʊt ɒn/",
+        "type": "phrasal verb",
+        "meaning": "To place clothing or accessories onto one's body.",
+        "soundURL": "puton"
+    },
+    {
+        "id": 771,
+        "word": "Turn up",
+        "phonetics": "/tɜːrn ʌp/",
+        "type": "phrasal verb",
+        "meaning": "To increase in volume or intensity.",
+        "soundURL": "turnup"
+    },
+    {
+        "id": 772,
+        "word": "Throw away",
+        "phonetics": "/θroʊ əˈweɪ/",
+        "type": "phrasal verb",
+        "meaning": "To discard or dispose of something.",
+        "soundURL": "throwaway"
+    },
+    {
+        "id": 773,
+        "word": "Bring up",
+        "phonetics": "/brɪŋ ʌp/",
+        "type": "phrasal verb",
+        "meaning": "To raise a topic or subject for discussion.",
+        "soundURL": "bringup"
+    },
+    {
+        "id": 774,
+        "word": "Take out",
+        "phonetics": "/teɪk aʊt/",
+        "type": "phrasal verb",
+        "meaning": "To remove something from a container or storage place.",
+        "soundURL": "takeout"
+    },
+    {
+        "id": 775,
+        "word": "Find out",
+        "phonetics": "/faɪnd aʊt/",
+        "type": "phrasal verb",
+        "meaning": "To discover or obtain information about something.",
+        "soundURL": "findout"
+    },
+    {
+        "id": 776,
+        "word": "Buy",
+        "phonetics": "/baɪ/",
+        "type": "verb",
+        "meaning": "To obtain something in exchange for payment.",
+        "soundURL": "buy"
+    },
+    {
+        "id": 777,
+        "word": "Shop",
+        "phonetics": "/ʃɒp/",
+        "type": "verb",
+        "meaning": "To visit stores or online sites in search of goods to buy.",
+        "soundURL": "shop"
+    },
+    {
+        "id": 778,
+        "word": "Store",
+        "phonetics": "/stɔːr/",
+        "type": "noun",
+        "meaning": "A place where goods are sold to the public.",
+        "soundURL": "store"
+    },
+    {
+        "id": 779,
+        "word": "Price",
+        "phonetics": "/praɪs/",
+        "type": "noun",
+        "meaning": "The amount of money expected, required, or given in payment for something.",
+        "soundURL": "price"
+    },
+    {
+        "id": 780,
+        "word": "Sale",
+        "phonetics": "/seɪl/",
+        "type": "noun",
+        "meaning": "An event where items are offered at reduced prices for a limited period.",
+        "soundURL": "sale"
+    },
+    {
+        "id": 781,
+        "word": "Discount",
+        "phonetics": "/ˈdɪskaʊnt/",
+        "type": "noun",
+        "meaning": "A reduction in the usual price of something.",
+        "soundURL": "discount"
+    },
+    {
+        "id": 782,
+        "word": "Cashier",
+        "phonetics": "/kæˈʃɪər/",
+        "type": "noun",
+        "meaning": "An employee who handles payments and receipts at a store.",
+        "soundURL": "cashier"
+    },
+    {
+        "id": 783,
+        "word": "Receipt",
+        "phonetics": "/rɪˈsiːt/",
+        "type": "noun",
+        "meaning": "A written acknowledgment that a specified article or sum of money has been received as payment.",
+        "soundURL": "receipt"
+    },
+    {
+        "id": 784,
+        "word": "Exchange",
+        "phonetics": "/ɪksˈtʃeɪndʒ/",
+        "type": "verb",
+        "meaning": "To give something and receive something of the same kind in return.",
+        "soundURL": "exchange"
+    },
+    {
+        "id": 785,
+        "word": "Return",
+        "phonetics": "/rɪˈtɜːrn/",
+        "type": "verb",
+        "meaning": "To bring something back to a place where it was before.",
+        "soundURL": "return"
+    },
+    {
+        "id": 786,
+        "word": "Cart",
+        "phonetics": "/kɑːrt/",
+        "type": "noun",
+        "meaning": "A wheeled vehicle for conveying goods.",
+        "soundURL": "cart"
+    },
+    {
+        "id": 787,
+        "word": "Bargain",
+        "phonetics": "/ˈbɑːr.ɡɪn/",
+        "type": "noun",
+        "meaning": "An agreement between parties concerning the sale of property; a good deal.",
+        "soundURL": "bargain"
+    },
+    {
+        "id": 788,
+        "word": "Purchase",
+        "phonetics": "/ˈpɜː.tʃəs/",
+        "type": "verb",
+        "meaning": "To buy something.",
+        "soundURL": "purchase"
+    },
+    {
+        "id": 789,
+        "word": "Checkout",
+        "phonetics": "/ˈtʃek.aʊt/",
+        "type": "noun",
+        "meaning": "The action or process of finalizing a purchase in a store.",
+        "soundURL": "checkout"
+    },
+    {
+        "id": 790,
+        "word": "Product",
+        "phonetics": "/ˈprɒd.ʌkt/",
+        "type": "noun",
+        "meaning": "An article or substance that is manufactured or refined for sale.",
+        "soundURL": "product"
+    },
+    {
+        "id": 791,
+        "word": "Customer",
+        "phonetics": "/ˈkʌs.tə.mər/",
+        "type": "noun",
+        "meaning": "A person or organization that buys goods or services from a store.",
+        "soundURL": "customer"
+    },
+    {
+        "id": 792,
+        "word": "Fan",
+        "type": "Noun",
+        "phonetics": "/fæn/",
+        "meaning": "An electrical device with blades that rotate to produce a current of air.",
+        "soundURL": "fan"
+    },
+    {
+        "id": 793,
+        "word": "Shopkeeper",
+        "phonetics": "/ˈʃɒpˌkiːpər/",
+        "type": "noun",
+        "meaning": "A person who owns or manages a shop.",
+        "soundURL": "shopkeeper"
+    },
+    {
+        "id": 794,
+        "word": "Brand",
+        "phonetics": "/brænd/",
+        "type": "noun",
+        "meaning": "A type of product manufactured by a particular company under a particular name.",
+        "soundURL": "brand"
+    },
+    {
+        "id": 795,
+        "word": "Display",
+        "phonetics": "/dɪˈspleɪ/",
+        "type": "noun",
+        "meaning": "An arrangement of items for people to look at or consider.",
+        "soundURL": "display"
+    },
+    {
+        "id": 796,
+        "word": "Earthquake",
+        "phonetics": "/ˈɜːθ.kweɪk/",
+        "type": "noun",
+        "meaning": "A sudden and violent shaking of the ground, sometimes causing great destruction.",
+        "soundURL": "earthquake"
+    },
+    {
+        "id": 797,
+        "word": "Tornado",
+        "phonetics": "/tɔːˈneɪ.dəʊ/",
+        "type": "noun",
+        "meaning": "A violent, dangerous windstorm with spinning winds that form a funnel.",
+        "soundURL": "tornado"
+    },
+    {
+        "id": 798,
+        "word": "Cyclone",
+        "phonetics": "/ˈsaɪ.kləʊn/",
+        "type": "noun",
+        "meaning": "A large-scale, atmospheric wind-and-pressure system characterized by low pressure at its center and by circular wind motion.",
+        "soundURL": "cyclone"
+    },
+    {
+        "id": 799,
+        "word": "Sinkhole",
+        "phonetics": "/ˈsɪŋk.həʊl/",
+        "type": "noun",
+        "meaning": "A depression or hole in the ground caused by some form of collapse of the surface layer.",
+        "soundURL": "sinkhole"
+    },
+    {
+        "id": 800,
+        "word": "Heatwave",
+        "phonetics": "/ˈhiːt.weɪv/",
+        "type": "noun",
+        "meaning": "A prolonged period of excessively hot weather.",
+        "soundURL": "heatwave"
+    }
+]

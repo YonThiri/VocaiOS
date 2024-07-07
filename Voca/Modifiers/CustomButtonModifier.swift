@@ -11,7 +11,7 @@ struct CustomButtonModifier: ViewModifier {
     func body(content: Content) -> some View {
             content
                 .frame(maxWidth: .infinity)
-                .frame(height: buttonHeight)
+                .frame(height: 50)
                 .background(
                     Capsule()
                         .fill(Color.background)

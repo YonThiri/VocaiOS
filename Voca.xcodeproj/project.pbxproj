@@ -12,8 +12,13 @@
 		B52C26112B9B4CA7003E7AFB /* ButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52C26102B9B4CA7003E7AFB /* ButtonStyle.swift */; };
 		B52C26162B9B4F81003E7AFB /* BackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52C26152B9B4F81003E7AFB /* BackgroundView.swift */; };
 		B52C26182B9B52D7003E7AFB /* CustomButtonModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = B52C26172B9B52D7003E7AFB /* CustomButtonModifier.swift */; };
+		B5362EE12C3A95D10091A7A6 /* CodableBundleExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5362EE02C3A95D10091A7A6 /* CodableBundleExtension.swift */; };
+		B5362EE32C3A961B0091A7A6 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5362EE22C3A961B0091A7A6 /* Constants.swift */; };
+		B5362EE62C3A96400091A7A6 /* Vocabulary.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5362EE52C3A96400091A7A6 /* Vocabulary.swift */; };
+		B5362EEE2C3AD7DA0091A7A6 /* VocaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5362EED2C3AD7DA0091A7A6 /* VocaTests.swift */; };
 		B55B9A992C3417BA00520045 /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55B9A982C3417BA00520045 /* ButtonView.swift */; };
 		B55B9A9B2C34403D00520045 /* VocabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55B9A9A2C34403D00520045 /* VocabView.swift */; };
+		B55B9A9E2C39002000520045 /* vocabulary.json in Resources */ = {isa = PBXBuildFile; fileRef = B55B9A9D2C39002000520045 /* vocabulary.json */; };
 		B5B17C682B9874F90075CBAD /* VocaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5B17C672B9874F90075CBAD /* VocaApp.swift */; };
 		B5B17C6A2B9874F90075CBAD /* SignInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5B17C692B9874F90075CBAD /* SignInView.swift */; };
 		B5B17C6C2B9874FB0075CBAD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5B17C6B2B9874FB0075CBAD /* Assets.xcassets */; };
@@ -25,14 +30,30 @@
 		B5B17C7E2B987A2D0075CBAD /* Lato-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B5B17C792B987A2D0075CBAD /* Lato-Medium.ttf */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		B5362EEF2C3AD7DA0091A7A6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B5B17C5C2B9874F80075CBAD /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B5B17C632B9874F80075CBAD;
+			remoteInfo = Voca;
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXFileReference section */
 		B52C25B22B98870F003E7AFB /* Fonts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fonts.swift; sourceTree = "<group>"; };
 		B52C25B62B988CF4003E7AFB /* Dimensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dimensions.swift; sourceTree = "<group>"; };
 		B52C26102B9B4CA7003E7AFB /* ButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ButtonStyle.swift; path = Voca/Constants/ButtonStyle.swift; sourceTree = SOURCE_ROOT; };
 		B52C26152B9B4F81003E7AFB /* BackgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundView.swift; sourceTree = "<group>"; };
 		B52C26172B9B52D7003E7AFB /* CustomButtonModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButtonModifier.swift; sourceTree = "<group>"; };
+		B5362EE02C3A95D10091A7A6 /* CodableBundleExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableBundleExtension.swift; sourceTree = "<group>"; };
+		B5362EE22C3A961B0091A7A6 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		B5362EE52C3A96400091A7A6 /* Vocabulary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vocabulary.swift; sourceTree = "<group>"; };
+		B5362EEB2C3AD7DA0091A7A6 /* VocaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VocaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B5362EED2C3AD7DA0091A7A6 /* VocaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocaTests.swift; sourceTree = "<group>"; };
 		B55B9A982C3417BA00520045 /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ButtonView.swift; path = ../../../ButtonView.swift; sourceTree = "<group>"; };
 		B55B9A9A2C34403D00520045 /* VocabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = VocabView.swift; path = ../../../VocabView.swift; sourceTree = "<group>"; };
+		B55B9A9D2C39002000520045 /* vocabulary.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = vocabulary.json; sourceTree = "<group>"; };
 		B5B17C642B9874F90075CBAD /* Voca.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Voca.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5B17C672B9874F90075CBAD /* VocaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocaApp.swift; sourceTree = "<group>"; };
 		B5B17C692B9874F90075CBAD /* SignInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInView.swift; sourceTree = "<group>"; };
@@ -47,6 +68,13 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		B5362EE82C3AD7DA0091A7A6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		B5B17C612B9874F80075CBAD /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -74,6 +102,8 @@
 			children = (
 				B52C25B22B98870F003E7AFB /* Fonts.swift */,
 				B52C25B62B988CF4003E7AFB /* Dimensions.swift */,
+				B5362EE02C3A95D10091A7A6 /* CodableBundleExtension.swift */,
+				B5362EE22C3A961B0091A7A6 /* Constants.swift */,
 			);
 			path = Constants;
 			sourceTree = "<group>";
@@ -103,6 +133,30 @@
 			path = SubViews;
 			sourceTree = "<group>";
 		};
+		B5362EDF2C3A95550091A7A6 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				B52C25B12B9883D4003E7AFB /* Constants */,
+			);
+			name = Utilities;
+			sourceTree = "<group>";
+		};
+		B5362EE42C3A96360091A7A6 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				B5362EE52C3A96400091A7A6 /* Vocabulary.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		B5362EEC2C3AD7DA0091A7A6 /* VocaTests */ = {
+			isa = PBXGroup;
+			children = (
+				B5362EED2C3AD7DA0091A7A6 /* VocaTests.swift */,
+			);
+			path = VocaTests;
+			sourceTree = "<group>";
+		};
 		B55B9A962C34120B00520045 /* Components */ = {
 			isa = PBXGroup;
 			children = (
@@ -120,10 +174,19 @@
 			path = Modifiers;
 			sourceTree = "<group>";
 		};
+		B55B9A9C2C39001800520045 /* Datas */ = {
+			isa = PBXGroup;
+			children = (
+				B55B9A9D2C39002000520045 /* vocabulary.json */,
+			);
+			path = Datas;
+			sourceTree = "<group>";
+		};
 		B5B17C5B2B9874F80075CBAD = {
 			isa = PBXGroup;
 			children = (
 				B5B17C662B9874F90075CBAD /* Voca */,
+				B5362EEC2C3AD7DA0091A7A6 /* VocaTests */,
 				B5B17C652B9874F90075CBAD /* Products */,
 			);
 			sourceTree = "<group>";
@@ -132,6 +195,7 @@
 			isa = PBXGroup;
 			children = (
 				B5B17C642B9874F90075CBAD /* Voca.app */,
+				B5362EEB2C3AD7DA0091A7A6 /* VocaTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -139,10 +203,12 @@
 		B5B17C662B9874F90075CBAD /* Voca */ = {
 			isa = PBXGroup;
 			children = (
+				B5362EE42C3A96360091A7A6 /* Model */,
+				B5362EDF2C3A95550091A7A6 /* Utilities */,
+				B55B9A9C2C39001800520045 /* Datas */,
 				B55B9A972C34122100520045 /* Modifiers */,
 				B55B9A962C34120B00520045 /* Components */,
 				B52C260F2B9B4C9C003E7AFB /* Styles */,
-				B52C25B12B9883D4003E7AFB /* Constants */,
 				B5B17C7F2B987A760075CBAD /* Info.plist */,
 				B52C25B02B988380003E7AFB /* Fonts */,
 				B5B17C672B9874F90075CBAD /* VocaApp.swift */,
@@ -164,6 +230,24 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		B5362EEA2C3AD7DA0091A7A6 /* VocaTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B5362EF12C3AD7DA0091A7A6 /* Build configuration list for PBXNativeTarget "VocaTests" */;
+			buildPhases = (
+				B5362EE72C3AD7DA0091A7A6 /* Sources */,
+				B5362EE82C3AD7DA0091A7A6 /* Frameworks */,
+				B5362EE92C3AD7DA0091A7A6 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B5362EF02C3AD7DA0091A7A6 /* PBXTargetDependency */,
+			);
+			name = VocaTests;
+			productName = VocaTests;
+			productReference = B5362EEB2C3AD7DA0091A7A6 /* VocaTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 		B5B17C632B9874F80075CBAD /* Voca */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = B5B17C722B9874FB0075CBAD /* Build configuration list for PBXNativeTarget "Voca" */;
@@ -188,9 +272,13 @@
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 1520;
+				LastSwiftUpdateCheck = 1540;
 				LastUpgradeCheck = 1520;
 				TargetAttributes = {
+					B5362EEA2C3AD7DA0091A7A6 = {
+						CreatedOnToolsVersion = 15.4;
+						TestTargetID = B5B17C632B9874F80075CBAD;
+					};
 					B5B17C632B9874F80075CBAD = {
 						CreatedOnToolsVersion = 15.2;
 					};
@@ -210,11 +298,19 @@
 			projectRoot = "";
 			targets = (
 				B5B17C632B9874F80075CBAD /* Voca */,
+				B5362EEA2C3AD7DA0091A7A6 /* VocaTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		B5362EE92C3AD7DA0091A7A6 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		B5B17C622B9874F80075CBAD /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -226,31 +322,89 @@
 				B5B17C7D2B987A2D0075CBAD /* Lato-Black.ttf in Resources */,
 				B5B17C7E2B987A2D0075CBAD /* Lato-Medium.ttf in Resources */,
 				B5B17C7B2B987A2D0075CBAD /* Lato-Bold.ttf in Resources */,
+				B55B9A9E2C39002000520045 /* vocabulary.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		B5362EE72C3AD7DA0091A7A6 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B5362EEE2C3AD7DA0091A7A6 /* VocaTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		B5B17C602B9874F80075CBAD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				B5B17C6A2B9874F90075CBAD /* SignInView.swift in Sources */,
+				B5362EE32C3A961B0091A7A6 /* Constants.swift in Sources */,
 				B52C25B72B988CF4003E7AFB /* Dimensions.swift in Sources */,
 				B55B9A992C3417BA00520045 /* ButtonView.swift in Sources */,
+				B5362EE12C3A95D10091A7A6 /* CodableBundleExtension.swift in Sources */,
 				B52C26162B9B4F81003E7AFB /* BackgroundView.swift in Sources */,
 				B52C25B32B98870F003E7AFB /* Fonts.swift in Sources */,
 				B52C26182B9B52D7003E7AFB /* CustomButtonModifier.swift in Sources */,
 				B5B17C682B9874F90075CBAD /* VocaApp.swift in Sources */,
 				B55B9A9B2C34403D00520045 /* VocabView.swift in Sources */,
 				B52C26112B9B4CA7003E7AFB /* ButtonStyle.swift in Sources */,
+				B5362EE62C3A96400091A7A6 /* Vocabulary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
+/* Begin PBXTargetDependency section */
+		B5362EF02C3AD7DA0091A7A6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = B5B17C632B9874F80075CBAD /* Voca */;
+			targetProxy = B5362EEF2C3AD7DA0091A7A6 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
 /* Begin XCBuildConfiguration section */
+		B5362EF22C3AD7DA0091A7A6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2RBYXPYV8Y;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.thekodex.VocaTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Voca.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Voca";
+			};
+			name = Debug;
+		};
+		B5362EF32C3AD7DA0091A7A6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 2RBYXPYV8Y;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.thekodex.VocaTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Voca.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Voca";
+			};
+			name = Release;
+		};
 		B5B17C702B9874FB0075CBAD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -433,6 +587,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		B5362EF12C3AD7DA0091A7A6 /* Build configuration list for PBXNativeTarget "VocaTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B5362EF22C3AD7DA0091A7A6 /* Debug */,
+				B5362EF32C3AD7DA0091A7A6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		B5B17C5F2B9874F80075CBAD /* Build configuration list for PBXProject "Voca" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
