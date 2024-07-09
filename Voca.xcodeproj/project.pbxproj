@@ -16,7 +16,10 @@
 		B5362EE32C3A961B0091A7A6 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5362EE22C3A961B0091A7A6 /* Constants.swift */; };
 		B5362EE62C3A96400091A7A6 /* Vocabulary.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5362EE52C3A96400091A7A6 /* Vocabulary.swift */; };
 		B5362EEE2C3AD7DA0091A7A6 /* VocaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5362EED2C3AD7DA0091A7A6 /* VocaTests.swift */; };
-		B55B9A992C3417BA00520045 /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55B9A982C3417BA00520045 /* ButtonView.swift */; };
+		B5362EF62C3D346C0091A7A6 /* FavoritesDataViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5362EF52C3D346C0091A7A6 /* FavoritesDataViewModel.swift */; };
+		B5362EF92C3D35450091A7A6 /* FavoritesContainers.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B5362EF72C3D35450091A7A6 /* FavoritesContainers.xcdatamodeld */; };
+		B5362EFB2C3D416B0091A7A6 /* ActionButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5362EFA2C3D416B0091A7A6 /* ActionButtonView.swift */; };
+		B55B9A992C3417BA00520045 /* DefaultButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55B9A982C3417BA00520045 /* DefaultButtonView.swift */; };
 		B55B9A9B2C34403D00520045 /* VocabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55B9A9A2C34403D00520045 /* VocabView.swift */; };
 		B55B9A9E2C39002000520045 /* vocabulary.json in Resources */ = {isa = PBXBuildFile; fileRef = B55B9A9D2C39002000520045 /* vocabulary.json */; };
 		B5B17C682B9874F90075CBAD /* VocaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5B17C672B9874F90075CBAD /* VocaApp.swift */; };
@@ -51,7 +54,10 @@
 		B5362EE52C3A96400091A7A6 /* Vocabulary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vocabulary.swift; sourceTree = "<group>"; };
 		B5362EEB2C3AD7DA0091A7A6 /* VocaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VocaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5362EED2C3AD7DA0091A7A6 /* VocaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocaTests.swift; sourceTree = "<group>"; };
-		B55B9A982C3417BA00520045 /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ButtonView.swift; path = ../../../ButtonView.swift; sourceTree = "<group>"; };
+		B5362EF52C3D346C0091A7A6 /* FavoritesDataViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesDataViewModel.swift; sourceTree = "<group>"; };
+		B5362EF82C3D35450091A7A6 /* FavoritesContainers.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FavoritesContainers.xcdatamodel; sourceTree = "<group>"; };
+		B5362EFA2C3D416B0091A7A6 /* ActionButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionButtonView.swift; sourceTree = "<group>"; };
+		B55B9A982C3417BA00520045 /* DefaultButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DefaultButtonView.swift; path = ../../../DefaultButtonView.swift; sourceTree = "<group>"; };
 		B55B9A9A2C34403D00520045 /* VocabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = VocabView.swift; path = ../../../VocabView.swift; sourceTree = "<group>"; };
 		B55B9A9D2C39002000520045 /* vocabulary.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = vocabulary.json; sourceTree = "<group>"; };
 		B5B17C642B9874F90075CBAD /* Voca.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Voca.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -157,11 +163,21 @@
 			path = VocaTests;
 			sourceTree = "<group>";
 		};
+		B5362EF42C3D34570091A7A6 /* CoreData */ = {
+			isa = PBXGroup;
+			children = (
+				B5362EF52C3D346C0091A7A6 /* FavoritesDataViewModel.swift */,
+				B5362EF72C3D35450091A7A6 /* FavoritesContainers.xcdatamodeld */,
+			);
+			path = CoreData;
+			sourceTree = "<group>";
+		};
 		B55B9A962C34120B00520045 /* Components */ = {
 			isa = PBXGroup;
 			children = (
 				B52C26152B9B4F81003E7AFB /* BackgroundView.swift */,
-				B55B9A982C3417BA00520045 /* ButtonView.swift */,
+				B55B9A982C3417BA00520045 /* DefaultButtonView.swift */,
+				B5362EFA2C3D416B0091A7A6 /* ActionButtonView.swift */,
 			);
 			path = Components;
 			sourceTree = "<group>";
@@ -203,6 +219,7 @@
 		B5B17C662B9874F90075CBAD /* Voca */ = {
 			isa = PBXGroup;
 			children = (
+				B5362EF42C3D34570091A7A6 /* CoreData */,
 				B5362EE42C3A96360091A7A6 /* Model */,
 				B5362EDF2C3A95550091A7A6 /* Utilities */,
 				B55B9A9C2C39001800520045 /* Datas */,
@@ -344,10 +361,13 @@
 				B5B17C6A2B9874F90075CBAD /* SignInView.swift in Sources */,
 				B5362EE32C3A961B0091A7A6 /* Constants.swift in Sources */,
 				B52C25B72B988CF4003E7AFB /* Dimensions.swift in Sources */,
-				B55B9A992C3417BA00520045 /* ButtonView.swift in Sources */,
+				B5362EFB2C3D416B0091A7A6 /* ActionButtonView.swift in Sources */,
+				B55B9A992C3417BA00520045 /* DefaultButtonView.swift in Sources */,
 				B5362EE12C3A95D10091A7A6 /* CodableBundleExtension.swift in Sources */,
 				B52C26162B9B4F81003E7AFB /* BackgroundView.swift in Sources */,
+				B5362EF62C3D346C0091A7A6 /* FavoritesDataViewModel.swift in Sources */,
 				B52C25B32B98870F003E7AFB /* Fonts.swift in Sources */,
+				B5362EF92C3D35450091A7A6 /* FavoritesContainers.xcdatamodeld in Sources */,
 				B52C26182B9B52D7003E7AFB /* CustomButtonModifier.swift in Sources */,
 				B5B17C682B9874F90075CBAD /* VocaApp.swift in Sources */,
 				B55B9A9B2C34403D00520045 /* VocabView.swift in Sources */,
@@ -615,6 +635,20 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		B5362EF72C3D35450091A7A6 /* FavoritesContainers.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				B5362EF82C3D35450091A7A6 /* FavoritesContainers.xcdatamodel */,
+			);
+			currentVersion = B5362EF82C3D35450091A7A6 /* FavoritesContainers.xcdatamodel */;
+			name = FavoritesContainers.xcdatamodeld;
+			path = "/Users/yonthiriaung/Desktop/Swift UI Projects/Voca/Voca/CoreData/FavoritesContainers.xcdatamodeld";
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = B5B17C5C2B9874F80075CBAD /* Project object */;
 }

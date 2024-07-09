@@ -41,7 +41,7 @@ struct SignInView: View {
                             .frame(maxWidth: .infinity)
                         
                         // Sign In With Apple Button
-                        ButtonView(title: "Get Started") {
+                        DefaultButtonView(title: "Get Started") {
                             showVocabView = true
                         }
                         .navigationDestination(isPresented: $showVocabView) {

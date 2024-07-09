@@ -16,14 +16,3 @@ struct Vocabulary : Codable, Identifiable {
     let meaning : String
     let soundURL : String
 }
-
-//struct Vocabulary : Codable, Identifiable {
-//    
-//    let id : Int
-//    let word : String
-//    let phonetics : String
-//    let type : String
-//    let meaning : String
-//    let soundURL : String
-//}
-
