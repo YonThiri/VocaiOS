@@ -9,7 +9,9 @@ import SwiftUI
 
 struct ActionButtonView: View {
     
-    var iconName : ImageResource
+    var iconName : ImageResource? = nil
+    var isIconBtn : Bool = true
+    var title : String? = nil
     var size : CGFloat
     var action : () -> Void
     
@@ -18,10 +20,18 @@ struct ActionButtonView: View {
         Button(action: {
             action()
         }, label: {
-            Image(iconName)
-                .resizable()
-                .scaledToFit()
-                .frame(width: size, height: size)
+            
+            if isIconBtn {
+                Image(iconName ?? .share)
+                    .resizable()
+                    .scaledToFit()
+                    .frame(width: size, height: size)
+            }
+            else {
+                Text(title ?? "")
+                    .font(.buttonText)
+                    .foregroundStyle(Color.white)
+            }
         })
         .buttonStyle(PressedButtonStyle())
     }

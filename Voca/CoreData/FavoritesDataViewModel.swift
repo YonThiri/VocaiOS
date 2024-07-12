@@ -50,8 +50,15 @@ class FavoritesDataViewModel : ObservableObject {
         favoriteWord.meaning = vocabulary.meaning
         favoriteWord.phonetics = vocabulary.phonetics
         favoriteWord.type = vocabulary.type
+        favoriteWord.isFavorite = true
         favoriteWord.soundURL = vocabulary.soundURL
         
+        saveData()
+    }
+    
+    //MARK: - UPDATE DATA
+    func updateData(favoriteEntity : FavoriteEntity) {
+        favoriteEntity.isFavorite = false
         saveData()
     }
     

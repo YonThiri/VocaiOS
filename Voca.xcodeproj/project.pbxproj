@@ -19,6 +19,8 @@
 		B5362EF62C3D346C0091A7A6 /* FavoritesDataViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5362EF52C3D346C0091A7A6 /* FavoritesDataViewModel.swift */; };
 		B5362EF92C3D35450091A7A6 /* FavoritesContainers.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B5362EF72C3D35450091A7A6 /* FavoritesContainers.xcdatamodeld */; };
 		B5362EFB2C3D416B0091A7A6 /* ActionButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5362EFA2C3D416B0091A7A6 /* ActionButtonView.swift */; };
+		B5362EFD2C3FE6480091A7A6 /* FavoritesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5362EFC2C3FE6480091A7A6 /* FavoritesView.swift */; };
+		B5362EFF2C3FE6850091A7A6 /* VocabMeaningView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5362EFE2C3FE6840091A7A6 /* VocabMeaningView.swift */; };
 		B55B9A992C3417BA00520045 /* DefaultButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55B9A982C3417BA00520045 /* DefaultButtonView.swift */; };
 		B55B9A9B2C34403D00520045 /* VocabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55B9A9A2C34403D00520045 /* VocabView.swift */; };
 		B55B9A9E2C39002000520045 /* vocabulary.json in Resources */ = {isa = PBXBuildFile; fileRef = B55B9A9D2C39002000520045 /* vocabulary.json */; };
@@ -57,6 +59,8 @@
 		B5362EF52C3D346C0091A7A6 /* FavoritesDataViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesDataViewModel.swift; sourceTree = "<group>"; };
 		B5362EF82C3D35450091A7A6 /* FavoritesContainers.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FavoritesContainers.xcdatamodel; sourceTree = "<group>"; };
 		B5362EFA2C3D416B0091A7A6 /* ActionButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionButtonView.swift; sourceTree = "<group>"; };
+		B5362EFC2C3FE6480091A7A6 /* FavoritesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesView.swift; sourceTree = "<group>"; };
+		B5362EFE2C3FE6840091A7A6 /* VocabMeaningView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabMeaningView.swift; sourceTree = "<group>"; };
 		B55B9A982C3417BA00520045 /* DefaultButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DefaultButtonView.swift; path = ../../../DefaultButtonView.swift; sourceTree = "<group>"; };
 		B55B9A9A2C34403D00520045 /* VocabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = VocabView.swift; path = ../../../VocabView.swift; sourceTree = "<group>"; };
 		B55B9A9D2C39002000520045 /* vocabulary.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = vocabulary.json; sourceTree = "<group>"; };
@@ -128,6 +132,8 @@
 				B52C26192B9B53F2003E7AFB /* SubViews */,
 				B5B17C692B9874F90075CBAD /* SignInView.swift */,
 				B55B9A9A2C34403D00520045 /* VocabView.swift */,
+				B5362EFC2C3FE6480091A7A6 /* FavoritesView.swift */,
+				B5362EFE2C3FE6840091A7A6 /* VocabMeaningView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -366,10 +372,12 @@
 				B5362EE12C3A95D10091A7A6 /* CodableBundleExtension.swift in Sources */,
 				B52C26162B9B4F81003E7AFB /* BackgroundView.swift in Sources */,
 				B5362EF62C3D346C0091A7A6 /* FavoritesDataViewModel.swift in Sources */,
+				B5362EFF2C3FE6850091A7A6 /* VocabMeaningView.swift in Sources */,
 				B52C25B32B98870F003E7AFB /* Fonts.swift in Sources */,
 				B5362EF92C3D35450091A7A6 /* FavoritesContainers.xcdatamodeld in Sources */,
 				B52C26182B9B52D7003E7AFB /* CustomButtonModifier.swift in Sources */,
 				B5B17C682B9874F90075CBAD /* VocaApp.swift in Sources */,
+				B5362EFD2C3FE6480091A7A6 /* FavoritesView.swift in Sources */,
 				B55B9A9B2C34403D00520045 /* VocabView.swift in Sources */,
 				B52C26112B9B4CA7003E7AFB /* ButtonStyle.swift in Sources */,
 				B5362EE62C3A96400091A7A6 /* Vocabulary.swift in Sources */,
