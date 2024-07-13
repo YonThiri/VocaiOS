@@ -24,7 +24,13 @@ struct FavoritesView: View {
                         .listRowBackground(Color.clear)
                         .listRowSeparator(.hidden)
                 }
-                .onDelete(perform: vm.deleteFavoriteWord)
+                .onDelete { indexs in
+                    
+                    for index in indexs {
+                        vm.deleteFavoriteWord(entity: vm.savedFavorites[index])
+                    }
+                    
+                }
             }
             .listStyle(PlainListStyle())
             .scrollContentBackground(.hidden)

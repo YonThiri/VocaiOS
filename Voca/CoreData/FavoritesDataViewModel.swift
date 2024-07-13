@@ -56,20 +56,9 @@ class FavoritesDataViewModel : ObservableObject {
         saveData()
     }
     
-    //MARK: - UPDATE DATA
-    func updateData(favoriteEntity : FavoriteEntity) {
-        favoriteEntity.isFavorite = false
-        saveData()
-    }
-    
     //MARK: - DELETE WORD FROM FAVORITES
-    func deleteFavoriteWord(indexSet : IndexSet) {
+    func deleteFavoriteWord(entity : FavoriteEntity) {
         
-        guard let index = indexSet.first else { return }
-        
-        print("INDEX \(index) ------ \(indexSet)")
-        
-        let entity = savedFavorites[index]
         container.viewContext.delete(entity)
         saveData()
     }
