@@ -20,7 +20,7 @@ struct FavoritesView: View {
             List {
                 ForEach(vm.savedFavorites) { fav in
                     
-                    VocabMeaningView(word: fav.word ?? "", phonetics: fav.phonetics ?? "", type: fav.type ?? "", meaning: fav.meaning ?? "")
+                    VocabMeaningView(word: fav.word ?? "", phonetics: fav.phonetics ?? "", type: fav.type ?? "", meaning: fav.meaning ?? "", soundName: fav.soundURL ?? "")
                         .listRowBackground(Color.clear)
                         .listRowSeparator(.hidden)
                 }

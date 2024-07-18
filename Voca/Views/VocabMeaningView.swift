@@ -14,6 +14,11 @@ struct VocabMeaningView: View {
     var phonetics : String
     var type : String
     var meaning : String
+    var soundName : String
+    
+    var pathFromFirebase = "Sounds/Vocabs/"
+    
+    @StateObject var audioPlayer = AudioPlayer()
     
     //MARK: - BODY
     var body: some View {
@@ -25,9 +30,38 @@ struct VocabMeaningView: View {
                     
                     HStack(spacing: 15) {
                         
-                        ActionButtonView(iconName: .soundIcon, size: 40, action: {
+//                        ActionButtonView(iconName: .soundIcon, size: 40, action: {
+//                            
+//                        })
+                        
+                        Button {
+                            audioPlayer.isDownloaded = false
+                            audioPlayer.playAudio(soundName: "heatwave.mp3", pathFromFirebase: pathFromFirebase)
                             
-                        })
+                        } label: {
+                            // Use isPlaying to determine which image to show
+                            
+                            if !audioPlayer.isDownloaded {
+                                ProgressView()
+                                    .scaleEffect(1.2)
+                                    .progressViewStyle(.circular)
+                                    .tint(.accentColor)
+                                    .background(
+                                        Circle()
+                                            .fill(Color.tint)
+                                            .frame(width: 40, height: 40)
+                                    )
+                                    .frame(width: 20, height: 20)
+                            } 
+                            else {
+                                Image(.soundIcon)
+                                    .resizable()
+                                    .scaledToFit()
+                                    
+                            }
+                        }
+                        .buttonStyle(PressedButtonStyle())
+                        .frame(width: 40, height: 40)
                         
                         Text("\(word)")
                             .font(.vocabularyText)
@@ -69,5 +103,5 @@ struct VocabMeaningView: View {
 }
 
 #Preview {
-    VocabMeaningView(word: "Word", phonetics: "phonetics", type: "type", meaning: "meaning")
+    VocabMeaningView(word: "Word", phonetics: "phonetics", type: "type", meaning: "meaning", soundName: "")
 }
