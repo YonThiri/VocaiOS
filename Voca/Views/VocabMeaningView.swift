@@ -36,7 +36,7 @@ struct VocabMeaningView: View {
                         
                         Button {
                             audioPlayer.isDownloaded = false
-                            audioPlayer.playAudio(soundName: "heatwave.mp3", pathFromFirebase: pathFromFirebase)
+                            audioPlayer.playAudio(soundName: "\(soundName).mp3", pathFromFirebase: pathFromFirebase)
                             
                         } label: {
                             // Use isPlaying to determine which image to show
@@ -92,12 +92,10 @@ struct VocabMeaningView: View {
             .frame(minHeight: 250)
             .background(
                 RoundedRectangle(cornerRadius: 20)
-                    .fill(Color.accentColor)
+                    .fill(.default)
             )
             
         }
-        
-        
         
     }
 }
