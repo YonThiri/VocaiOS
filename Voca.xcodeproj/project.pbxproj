@@ -15,7 +15,7 @@
 		B5362EE12C3A95D10091A7A6 /* CodableBundleExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5362EE02C3A95D10091A7A6 /* CodableBundleExtension.swift */; };
 		B5362EE32C3A961B0091A7A6 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5362EE22C3A961B0091A7A6 /* Constants.swift */; };
 		B5362EE62C3A96400091A7A6 /* Vocabulary.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5362EE52C3A96400091A7A6 /* Vocabulary.swift */; };
-		B5362EEE2C3AD7DA0091A7A6 /* VocaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5362EED2C3AD7DA0091A7A6 /* VocaTests.swift */; };
+		B5362EEE2C3AD7DA0091A7A6 /* NotificationManagerTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5362EED2C3AD7DA0091A7A6 /* NotificationManagerTest.swift */; };
 		B5362EF62C3D346C0091A7A6 /* FavoritesDataViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5362EF52C3D346C0091A7A6 /* FavoritesDataViewModel.swift */; };
 		B5362EF92C3D35450091A7A6 /* FavoritesContainers.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B5362EF72C3D35450091A7A6 /* FavoritesContainers.xcdatamodeld */; };
 		B5362EFB2C3D416B0091A7A6 /* ActionButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5362EFA2C3D416B0091A7A6 /* ActionButtonView.swift */; };
@@ -42,14 +42,7 @@
 		B5B17C7C2B987A2D0075CBAD /* Lato-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B5B17C772B987A2C0075CBAD /* Lato-Regular.ttf */; };
 		B5B17C7D2B987A2D0075CBAD /* Lato-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B5B17C782B987A2C0075CBAD /* Lato-Black.ttf */; };
 		B5B17C7E2B987A2D0075CBAD /* Lato-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B5B17C792B987A2D0075CBAD /* Lato-Medium.ttf */; };
-		B5F3303E2C52B53E00FADD8F /* WidgetKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B5F3303D2C52B53E00FADD8F /* WidgetKit.framework */; };
-		B5F330402C52B53E00FADD8F /* SwiftUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B5F3303F2C52B53E00FADD8F /* SwiftUI.framework */; };
-		B5F330432C52B53E00FADD8F /* VocabWidgetBundle.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F330422C52B53E00FADD8F /* VocabWidgetBundle.swift */; };
-		B5F330452C52B53E00FADD8F /* VocabWidgetLiveActivity.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F330442C52B53E00FADD8F /* VocabWidgetLiveActivity.swift */; };
-		B5F330472C52B53E00FADD8F /* VocabWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F330462C52B53E00FADD8F /* VocabWidget.swift */; };
-		B5F330492C52B53E00FADD8F /* AppIntent.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F330482C52B53E00FADD8F /* AppIntent.swift */; };
-		B5F3304B2C52B54000FADD8F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5F3304A2C52B54000FADD8F /* Assets.xcassets */; };
-		B5F3304F2C52B54000FADD8F /* VocabWidgetExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = B5F3303C2C52B53E00FADD8F /* VocabWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		B5D7D27C2C5D1F9500254BF1 /* BundleExtenstionTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5D7D27B2C5D1F9500254BF1 /* BundleExtenstionTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,13 +53,6 @@
 			remoteGlobalIDString = B5B17C632B9874F80075CBAD;
 			remoteInfo = Voca;
 		};
-		B5F3304D2C52B54000FADD8F /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = B5B17C5C2B9874F80075CBAD /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = B5F3303B2C52B53E00FADD8F;
-			remoteInfo = VocabWidgetExtension;
-		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -76,7 +62,6 @@
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				B5F3304F2C52B54000FADD8F /* VocabWidgetExtension.appex in Embed Foundation Extensions */,
 			);
 			name = "Embed Foundation Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -93,7 +78,7 @@
 		B5362EE22C3A961B0091A7A6 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		B5362EE52C3A96400091A7A6 /* Vocabulary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vocabulary.swift; sourceTree = "<group>"; };
 		B5362EEB2C3AD7DA0091A7A6 /* VocaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VocaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		B5362EED2C3AD7DA0091A7A6 /* VocaTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocaTests.swift; sourceTree = "<group>"; };
+		B5362EED2C3AD7DA0091A7A6 /* NotificationManagerTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationManagerTest.swift; sourceTree = "<group>"; };
 		B5362EF52C3D346C0091A7A6 /* FavoritesDataViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesDataViewModel.swift; sourceTree = "<group>"; };
 		B5362EF82C3D35450091A7A6 /* FavoritesContainers.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FavoritesContainers.xcdatamodel; sourceTree = "<group>"; };
 		B5362EFA2C3D416B0091A7A6 /* ActionButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionButtonView.swift; sourceTree = "<group>"; };
@@ -116,15 +101,9 @@
 		B5B17C782B987A2C0075CBAD /* Lato-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Black.ttf"; sourceTree = "<group>"; };
 		B5B17C792B987A2D0075CBAD /* Lato-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Medium.ttf"; sourceTree = "<group>"; };
 		B5B17C7F2B987A760075CBAD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
-		B5F3303C2C52B53E00FADD8F /* VocabWidgetExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = VocabWidgetExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		B5D7D27B2C5D1F9500254BF1 /* BundleExtenstionTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BundleExtenstionTest.swift; sourceTree = "<group>"; };
 		B5F3303D2C52B53E00FADD8F /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
 		B5F3303F2C52B53E00FADD8F /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
-		B5F330422C52B53E00FADD8F /* VocabWidgetBundle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabWidgetBundle.swift; sourceTree = "<group>"; };
-		B5F330442C52B53E00FADD8F /* VocabWidgetLiveActivity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabWidgetLiveActivity.swift; sourceTree = "<group>"; };
-		B5F330462C52B53E00FADD8F /* VocabWidget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocabWidget.swift; sourceTree = "<group>"; };
-		B5F330482C52B53E00FADD8F /* AppIntent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppIntent.swift; sourceTree = "<group>"; };
-		B5F3304A2C52B54000FADD8F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		B5F3304C2C52B54000FADD8F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -145,15 +124,6 @@
 				B5362F142C4807AE0091A7A6 /* FirebaseAppCheck in Frameworks */,
 				B5362F122C4807AE0091A7A6 /* FirebaseAnalyticsWithoutAdIdSupport in Frameworks */,
 				B5362F172C4808600091A7A6 /* FirebaseStorage in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		B5F330392C52B53E00FADD8F /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				B5F330402C52B53E00FADD8F /* SwiftUI.framework in Frameworks */,
-				B5F3303E2C52B53E00FADD8F /* WidgetKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -229,7 +199,8 @@
 		B5362EEC2C3AD7DA0091A7A6 /* VocaTests */ = {
 			isa = PBXGroup;
 			children = (
-				B5362EED2C3AD7DA0091A7A6 /* VocaTests.swift */,
+				B5362EED2C3AD7DA0091A7A6 /* NotificationManagerTest.swift */,
+				B5D7D27B2C5D1F9500254BF1 /* BundleExtenstionTest.swift */,
 			);
 			path = VocaTests;
 			sourceTree = "<group>";
@@ -292,7 +263,6 @@
 			children = (
 				B5B17C662B9874F90075CBAD /* Voca */,
 				B5362EEC2C3AD7DA0091A7A6 /* VocaTests */,
-				B5F330412C52B53E00FADD8F /* VocabWidget */,
 				B5B17C652B9874F90075CBAD /* Products */,
 				B5362F152C4808600091A7A6 /* Frameworks */,
 			);
@@ -303,7 +273,6 @@
 			children = (
 				B5B17C642B9874F90075CBAD /* Voca.app */,
 				B5362EEB2C3AD7DA0091A7A6 /* VocaTests.xctest */,
-				B5F3303C2C52B53E00FADD8F /* VocabWidgetExtension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -336,19 +305,6 @@
 				B5B17C6E2B9874FB0075CBAD /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
-			sourceTree = "<group>";
-		};
-		B5F330412C52B53E00FADD8F /* VocabWidget */ = {
-			isa = PBXGroup;
-			children = (
-				B5F330422C52B53E00FADD8F /* VocabWidgetBundle.swift */,
-				B5F330442C52B53E00FADD8F /* VocabWidgetLiveActivity.swift */,
-				B5F330462C52B53E00FADD8F /* VocabWidget.swift */,
-				B5F330482C52B53E00FADD8F /* AppIntent.swift */,
-				B5F3304A2C52B54000FADD8F /* Assets.xcassets */,
-				B5F3304C2C52B54000FADD8F /* Info.plist */,
-			);
-			path = VocabWidget;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -384,7 +340,6 @@
 			buildRules = (
 			);
 			dependencies = (
-				B5F3304E2C52B54000FADD8F /* PBXTargetDependency */,
 			);
 			name = Voca;
 			packageProductDependencies = (
@@ -398,23 +353,6 @@
 			productName = Voca;
 			productReference = B5B17C642B9874F90075CBAD /* Voca.app */;
 			productType = "com.apple.product-type.application";
-		};
-		B5F3303B2C52B53E00FADD8F /* VocabWidgetExtension */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = B5F330532C52B54000FADD8F /* Build configuration list for PBXNativeTarget "VocabWidgetExtension" */;
-			buildPhases = (
-				B5F330382C52B53E00FADD8F /* Sources */,
-				B5F330392C52B53E00FADD8F /* Frameworks */,
-				B5F3303A2C52B53E00FADD8F /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = VocabWidgetExtension;
-			productName = VocabWidgetExtension;
-			productReference = B5F3303C2C52B53E00FADD8F /* VocabWidgetExtension.appex */;
-			productType = "com.apple.product-type.app-extension";
 		};
 /* End PBXNativeTarget section */
 
@@ -432,9 +370,6 @@
 					};
 					B5B17C632B9874F80075CBAD = {
 						CreatedOnToolsVersion = 15.2;
-					};
-					B5F3303B2C52B53E00FADD8F = {
-						CreatedOnToolsVersion = 15.4;
 					};
 				};
 			};
@@ -456,7 +391,6 @@
 			targets = (
 				B5B17C632B9874F80075CBAD /* Voca */,
 				B5362EEA2C3AD7DA0091A7A6 /* VocaTests */,
-				B5F3303B2C52B53E00FADD8F /* VocabWidgetExtension */,
 			);
 		};
 /* End PBXProject section */
@@ -485,14 +419,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B5F3303A2C52B53E00FADD8F /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				B5F3304B2C52B54000FADD8F /* Assets.xcassets in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -500,7 +426,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B5362EEE2C3AD7DA0091A7A6 /* VocaTests.swift in Sources */,
+				B5D7D27C2C5D1F9500254BF1 /* BundleExtenstionTest.swift in Sources */,
+				B5362EEE2C3AD7DA0091A7A6 /* NotificationManagerTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -530,17 +457,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B5F330382C52B53E00FADD8F /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				B5F330452C52B53E00FADD8F /* VocabWidgetLiveActivity.swift in Sources */,
-				B5F330492C52B53E00FADD8F /* AppIntent.swift in Sources */,
-				B5F330472C52B53E00FADD8F /* VocabWidget.swift in Sources */,
-				B5F330432C52B53E00FADD8F /* VocabWidgetBundle.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -548,11 +464,6 @@
 			isa = PBXTargetDependency;
 			target = B5B17C632B9874F80075CBAD /* Voca */;
 			targetProxy = B5362EEF2C3AD7DA0091A7A6 /* PBXContainerItemProxy */;
-		};
-		B5F3304E2C52B54000FADD8F /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = B5F3303B2C52B53E00FADD8F /* VocabWidgetExtension */;
-			targetProxy = B5F3304D2C52B54000FADD8F /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -565,7 +476,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 2RBYXPYV8Y;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.thekodex.VocaTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -584,7 +495,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 2RBYXPYV8Y;
 				GENERATE_INFOPLIST_FILE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.thekodex.VocaTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -776,62 +687,6 @@
 			};
 			name = Release;
 		};
-		B5F330512C52B54000FADD8F /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 2RBYXPYV8Y;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = VocabWidget/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = VocabWidget;
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@executable_path/../../Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.thekodex.Voca.VocabWidget;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SKIP_INSTALL = YES;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		B5F330522C52B54000FADD8F /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 2RBYXPYV8Y;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = VocabWidget/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = VocabWidget;
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@executable_path/../../Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.thekodex.Voca.VocabWidget;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SKIP_INSTALL = YES;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -858,15 +713,6 @@
 			buildConfigurations = (
 				B5B17C732B9874FB0075CBAD /* Debug */,
 				B5B17C742B9874FB0075CBAD /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		B5F330532C52B54000FADD8F /* Build configuration list for PBXNativeTarget "VocabWidgetExtension" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				B5F330512C52B54000FADD8F /* Debug */,
-				B5F330522C52B54000FADD8F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
